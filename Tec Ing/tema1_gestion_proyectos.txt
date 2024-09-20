@@ -224,7 +224,7 @@ En la técnica de Kanban, ¿qué representan las columnas del tablero?
 ~Implementar entregas incrementales que se ajusten a las prioridades del cliente
 }
 
-// Preguntas numeradas a partir de la 16 en la categoría "GESTIÓN DE PROYECTOS"
+// Preguntas numeradas a partir de la 26 en la categoría "GESTIÓN DE PROYECTOS"
 
 ::Pregunta 26::
 ¿Cuál es el principal objetivo de la metodología Agile?
