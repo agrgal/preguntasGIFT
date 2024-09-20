@@ -135,3 +135,179 @@ En la técnica de Kanban, ¿qué representan las columnas del tablero?
 =Verdadero
 ~Falso
 }
+
+// Preguntas numeradas a partir de la 16 en la categoría "GESTIÓN DE PROYECTOS"
+
+::Pregunta 16::
+¿Cuál es la principal característica del modelo en cascada?
+{
+=Cada fase debe completarse antes de que la siguiente comience
+~Las fases se realizan de manera simultánea
+~Se enfoca en iteraciones cortas y frecuentes
+~Las entregas parciales se integran de manera continua durante el proceso
+}
+
+::Pregunta 17::
+¿Qué define a la metodología Agile?
+{
+=Enfoque en entregas incrementales y colaborativas
+~Desarrollo lineal y secuencial de fases
+~Verificación constante antes de pasar a la siguiente fase
+~Estricta adherencia a planes detallados desde el principio
+}
+
+::Pregunta 18::
+¿Verdadero o falso? El modelo en V se basa en la idea de que las fases de desarrollo y de pruebas avanzan de manera paralela.
+{
+=Verdadero
+~Falso
+}
+
+::Pregunta 19::
+¿Cuál es un principio clave de Lean Manufacturing?
+{
+=Eliminación de desperdicios y mejora continua
+~Entrega rápida de productos mediante iteraciones cortas
+~Diseño detallado antes de iniciar el desarrollo
+~Priorización de tareas con mayor riesgo técnico
+}
+
+::Pregunta 20::
+¿Qué metodología es conocida por enfatizar la simplicidad y una planificación detallada previa al inicio del desarrollo?
+{
+=Modelo en cascada
+~Lean Manufacturing
+~Agile
+~Programación extrema
+}
+
+::Pregunta 21::
+¿Qué técnica fomenta la colaboración constante entre el cliente y el equipo, ajustando el proyecto de manera flexible según las necesidades?
+{
+=Agile
+~Modelo V
+~Lean Manufacturing
+~Modelo en cascada
+}
+
+::Pregunta 22::
+¿Verdadero o falso? La Programación Extrema (XP) fomenta las revisiones constantes del código y la participación activa del cliente.
+{
+=Verdadero
+~Falso
+}
+
+::Pregunta 23::
+¿Cuál es una práctica común en la Programación Extrema (XP)?
+{
+=Desarrollo guiado por pruebas (TDD)
+~Desarrollo basado en fases secuenciales y lineales
+~Enfoque en eliminar desperdicios en la cadena de producción
+~Verificación exhaustiva antes de cada iteración
+}
+
+::Pregunta 24::
+¿Qué diferencia a Agile de la metodología en cascada?
+{
+=Agile permite ajustes flexibles durante el proyecto, mientras que en cascada se siguen fases lineales
+~En cascada se realizan entregas incrementales, mientras que en Agile se completan todas las fases antes de la entrega
+~Ambas se enfocan en entregas rápidas y continuas
+~Cascada prioriza el desarrollo basado en iteraciones cortas, mientras que Agile sigue una estructura fija
+}
+
+::Pregunta 25::
+¿Cuál es el objetivo principal del modelo V en el ciclo de vida del desarrollo de software?
+{
+=Verificar y validar cada fase del desarrollo de forma paralela
+~Optimizar el uso de recursos en la cadena de producción
+~Entregar productos de manera continua con retroalimentación frecuente del cliente
+~Implementar entregas incrementales que se ajusten a las prioridades del cliente
+}
+
+// Preguntas numeradas a partir de la 16 en la categoría "GESTIÓN DE PROYECTOS"
+
+::Pregunta 26::
+¿Cuál es el principal objetivo de la metodología Agile?
+{
+=Entregar valor al cliente de manera iterativa y flexible
+~Planificar y ejecutar proyectos con fases estrictas y lineales
+~Implementar fases de desarrollo y pruebas paralelas
+~Garantizar que todas las tareas estén completamente definidas antes de iniciar el desarrollo
+}
+
+::Pregunta 27::
+¿Cuál es uno de los roles principales dentro de Scrum?
+{
+=Scrum Master
+~Product Owner
+~Kanban Manager
+~Agile Facilitator
+}
+
+::Pregunta 28::
+En el tablero Kanban, ¿qué significa una tarea ubicada en la columna "Por hacer"?
+{
+=Es una tarea pendiente de comenzar
+~Es una tarea en progreso
+~Es una tarea que ha sido completada
+~Es una tarea bloqueada
+}
+
+::Pregunta 29::
+¿Verdadero o falso? El Product Owner es responsable de priorizar el Product Backlog en Scrum.
+{
+=Verdadero
+~Falso
+}
+
+::Pregunta 30::
+¿Qué artefacto se utiliza en Scrum para gestionar las tareas y priorizarlas?
+{
+=Product Backlog
+~Sprint Backlog
+~Tablero Kanban
+~Burndown Chart
+}
+
+::Pregunta 31::
+¿Qué diferencia clave existe entre Scrum y Kanban?
+{
+=Scrum utiliza iteraciones llamadas sprints, mientras que Kanban tiene un flujo continuo
+~Kanban se enfoca en equipos grandes, mientras que Scrum se usa solo en equipos pequeños
+~Scrum prioriza el tiempo, mientras que Kanban elimina la gestión de tareas
+~Kanban utiliza roles definidos, mientras que Scrum no tiene roles específicos
+}
+
+::Pregunta 32::
+¿Qué práctica es común tanto en Scrum como en Kanban?
+{
+=Uso de tableros visuales para gestionar el flujo de trabajo
+~Reuniones diarias para revisar el progreso
+~Sprints con duración fija
+~Desarrollo de prototipos rápidos
+}
+
+::Pregunta 33::
+¿Cuál es el propósito de las reuniones diarias en Scrum (daily stand-ups)?
+{
+=Revisar el progreso diario del equipo y resolver bloqueos
+~Actualizar el Product Backlog
+~Planificar el siguiente sprint
+~Revisar el incremento de producto completado
+}
+
+::Pregunta 34::
+¿Verdadero o falso? Kanban se basa en un número limitado de tareas que se pueden estar "En progreso" simultáneamente.
+{
+=Verdadero
+~Falso
+}
+
+::Pregunta 35::
+En Scrum, ¿qué documento se utiliza para describir el trabajo pendiente y las prioridades de un sprint en curso?
+{
+=Sprint Backlog
+~Product Backlog
+~Daily Report
+~Definition of Done
+}
