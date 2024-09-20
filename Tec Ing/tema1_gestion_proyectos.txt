@@ -1,1 +1,137 @@
-gfhgfhfdh dgf
+// Preguntas avanzadas para la categoría "GESTIÓN DE PROYECTOS"
+
+// Category: GIMP
+$CATEGORY: $system$/GESTIÓN DE PROYECTOS
+
+::Pregunta 1::
+Para que el equipo de trabajo mantenga su enfoque y avance hacia sus objetivos de manera eficiente, ¿qué estrategia debe implementarse desde el principio?
+{
+=Establecer metas y objetivos bien definidos, así como roles claros para cada miembro
+~Promover el intercambio espontáneo de ideas sin roles específicos
+~Garantizar una comunicación continua sin necesidad de definir roles
+~Facilitar la colaboración y esperar que los roles se ajusten de manera natural
+}
+
+::Pregunta 2::
+¿Qué aspecto fundamental de la comunicación asegura una interacción productiva y respetuosa entre los miembros del equipo?
+{
+=Escuchar activamente y compartir ideas de manera abierta y respetuosa
+~Fomentar únicamente la comunicación escrita para evitar malentendidos
+~Priorizar la comunicación jerárquica dentro del equipo para mayor claridad
+~Mantener la comunicación entre los miembros limitando las críticas constructivas
+}
+
+::Pregunta 3::
+¿Cuál de las siguientes acciones fomenta un entorno de trabajo en equipo donde cada miembro se sienta valorado y pueda contribuir con confianza?
+{
+~Reforzar una comunicación estrictamente profesional
+=Crear relaciones basadas en el respeto y la confianza mutua, favoreciendo el intercambio de ideas
+~Dar prioridad a las habilidades técnicas por encima de las relaciones interpersonales
+~Desarrollar actividades que promuevan únicamente el trabajo individual
+}
+
+::Pregunta 4::
+¿Qué efecto positivo tiene el establecimiento de normas claras dentro de un equipo de trabajo?
+{
+=Ayuda a mantener una convivencia armónica, incrementando la productividad y el respeto mutuo
+~Facilita la división de tareas, evitando la necesidad de retroalimentación constante
+~Permite que cada miembro del equipo trabaje de manera independiente sin necesidad de reuniones
+~Aumenta la autonomía de los miembros del equipo, reduciendo la necesidad de coordinación
+}
+
+::Pregunta 5::
+¿Qué beneficio principal se obtiene al reconocer y valorar los logros tanto individuales como colectivos dentro de un equipo?
+{
+=%100%Reforzar la motivación, aumentar la cohesión del grupo y consolidar el sentido de pertenencia al equipo
+~%35%Mejorar las habilidades individuales de los miembros del equipo
+~%35%Asegurar que se cumplan las metas establecidas de manera eficiente
+~Incrementar la competencia sana entre los miembros del equipo
+} 
+
+// Preguntas numeradas a partir de la 6 en la categoría "GESTIÓN DE PROYECTOS"
+
+::Pregunta 6::
+¿Cuál es el propósito principal de la técnica de tormenta de ideas (brainstorming)?
+{
+=Generar ideas en grupo sin críticas iniciales para fomentar la creatividad
+~Criticar y evaluar las ideas propuestas inmediatamente
+~Asignar tareas específicas a cada miembro del equipo
+~Desarrollar un cronograma detallado para el proyecto
+}
+
+::Pregunta 7::
+¿Qué se representa en la cabeza del diagrama de Ishikawa?
+{
+=El problema principal que se quiere resolver
+~Las soluciones potenciales al problema
+~Las personas responsables de cada tarea
+~El flujo de trabajo del equipo
+}
+
+::Pregunta 8::
+En la técnica de Kanban, ¿qué representan las columnas del tablero?
+{
+=Las diferentes etapas del proceso o flujo de trabajo
+~Las tareas completadas y no completadas
+~Los miembros del equipo responsables de cada tarea
+~Los recursos utilizados en cada tarea
+}
+
+::Pregunta 9::
+¿Cuál es el enfoque principal de la metodología OKR (objectives and key results)?
+{
+=Establecer metas claras y medir el progreso hacia resultados deseados
+~Distribuir tareas de manera eficiente dentro del equipo
+~Mejorar la comunicación entre los miembros del equipo
+~Aumentar la cantidad de tareas completadas en el menor tiempo posible
+}
+
+::Pregunta 10::
+¿Verdadero o falso? Los resultados clave (key results) en la metodología OKR deben ser medibles y cuantificables.
+{
+=Verdadero
+~Falso
+}
+
+::Pregunta 11::
+¿Qué técnica se utiliza para desarrollar una mejor comprensión de los clientes o usuarios mediante un mapa visual?
+{
+=Mapas de empatía
+~Tormenta de ideas
+~Kanban
+~Diagrama de Ishikawa
+}
+
+::Pregunta 12::
+¿Qué técnica permite al equipo revisar su trabajo y buscar mejoras después de completar un proyecto o hito importante?
+{
+=Retrospectivas
+~Diagrama de Ishikawa
+~Mapas de empatía
+~Kanban
+}
+
+::Pregunta 13::
+¿Cuál es un beneficio clave de utilizar un tablero Kanban en la gestión de un proyecto?
+{
+=Proporciona una visión clara del progreso y ayuda a identificar cuellos de botella
+~Fomenta la creatividad y la generación de ideas en grupo
+~Facilita la comprensión de las necesidades de los usuarios
+~Permite establecer metas ambiciosas y medir su progreso
+}
+
+::Pregunta 14::
+¿Qué técnica utiliza ramas en forma de espina de pescado para analizar las causas de un problema?
+{
+=Diagrama de Ishikawa
+~Mapas de empatía
+~Kanban
+~OKR
+}
+
+::Pregunta 15::
+¿Verdadero o falso? Las retrospectivas se realizan para revisar el trabajo completado y discutir formas de mejorar en futuros proyectos.
+{
+=Verdadero
+~Falso
+}
