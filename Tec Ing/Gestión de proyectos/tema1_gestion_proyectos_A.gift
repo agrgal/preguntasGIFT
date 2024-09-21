@@ -1,7 +1,9 @@
 // Preguntas avanzadas para la categoría "GESTIÓN DE PROYECTOS"
 
 // Category: GESTIÓN DE PROYECTOS
-$CATEGORY: $course$/Saberes A. Gestión y desarrollo de proyectos/GESTIÓN DE PROYECTOS_A
+$CATEGORY: $course$/top/Saberes A. Gestión y desarrollo de proyectos
+
+$CATEGORY: $course$/top/Saberes A. Gestión y desarrollo de proyectos/GESTIÓN DE PROYECTOS_A
 
 ::Pregunta 1::
 Para que el equipo de trabajo mantenga su enfoque y avance hacia sus objetivos de manera eficiente, ¿qué estrategia debe implementarse desde el principio?
@@ -40,13 +42,12 @@ Para que el equipo de trabajo mantenga su enfoque y avance hacia sus objetivos d
 }
 
 ::Pregunta 5::
-¿Qué beneficio principal se obtiene al reconocer y valorar los logros tanto individuales como colectivos dentro de un equipo?
-{
-=%100%Reforzar la motivación, aumentar la cohesión del grupo y consolidar el sentido de pertenencia al equipo
-~%35%Mejorar las habilidades individuales de los miembros del equipo
-~%35%Asegurar que se cumplan las metas establecidas de manera eficiente
-~Incrementar la competencia sana entre los miembros del equipo
-} 
+[html]¿Qué beneficio principal se obtiene al reconocer y valorar los logros tanto individuales como colectivos dentro de un equipo?{
+	=[moodle]Reforzar la motivación, aumentar la cohesión del grupo y consolidar el sentido de pertenencia al equipo
+	~%30%[moodle]Mejorar las habilidades individuales de los miembros del equipo
+	~%30%[moodle]Asegurar que se cumplan las metas establecidas de manera eficiente
+	~[moodle]Incrementar la competencia sana entre los miembros del equipo
+}
 
 // Preguntas numeradas a partir de la 6 en la categoría "GESTIÓN DE PROYECTOS"
 
