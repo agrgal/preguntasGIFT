@@ -243,37 +243,37 @@ $CATEGORY: $course$/top/Edición de Imágenes/Teoría sobre imágenes
 
 // question: 2679387  name: Pregunta 12
 ::Pregunta 12::La profundidad de color se refiere a la cantidad de colores que puede mostrar cada píxel.{
-	=%100%V#
+	TRUE
 }
 
 
 // question: 2679390  name: Pregunta 15
 ::Pregunta 15::La técnica de anti-aliasing se utiliza para suavizar bordes en imágenes de mapa de bits.{
-	=%100%V#
+	TRUE
 }
 
 
 // question: 2679396  name: Pregunta 21
 ::Pregunta 21::Los metadatos pueden incluir información de derechos de autor.{
-	=%100%V#
+	TRUE
 }
 
 
 // question: 2679402  name: Pregunta 27
 ::Pregunta 27::Las imágenes vectoriales son perfectas para logotipos y tipografía.{
-	=%100%V#
+	TRUE
 }
 
 
 // question: 2679405  name: Pregunta 30
 ::Pregunta 30::La compresión con pérdida elimina detalles de la imagen.{
-	=%100%V#
+	TRUE
 }
 
 
 // question: 2679408  name: Pregunta 33
 ::Pregunta 33::Los formatos de imagen vectorial incluyen PDF y AI.{
-	=%100%V#
+	TRUE
 }
 
 
