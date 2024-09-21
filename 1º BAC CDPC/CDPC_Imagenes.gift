@@ -2,358 +2,306 @@
 $CATEGORY: $course$/top/Edición de Imágenes
 
 
-// question: 0  name: Switch category to $course$/top/Edición de Imágenes/GIMP
+// question: 0  name: Switch category to $course$/top/Edición de Imágenes/Teoría sobre imágenes
 $CATEGORY: $course$/top/Edición de Imágenes/Teoría sobre imágenes
 
-// Preguntas de elección múltiple
-::Pregunta 1::
-¿Qué componen las imágenes de mapa de bits?
-{
-=Pequeños puntos de color llamados píxeles
-~Formas geométricas
-~Ecuaciones matemáticas
-~Ninguna de las anteriores
+
+// question: 2679376  name: Pregunta 1
+::Pregunta 1::¿Qué componen las imágenes de mapa de bits?{
+	=Pequeños puntos de color llamados píxeles
+	~Formas geométricas
+	~Ecuaciones matemáticas
+	~Ninguna de las anteriores
 }
 
-// Preguntas de elección simple
-::Pregunta 2::
-¿Qué formato NO es común para imágenes de mapa de bits?
-{
-=SVG
-~JPEG
-~PNG
-~GIF
+
+// question: 2679385  name: Pregunta 10
+::Pregunta 10::¿Qué elementos definen una imagen vectorial?{
+	=Puntos y líneas
+	=Ecuaciones matemáticas
+	~Píxeles
+	~Texto plano
 }
 
-// Verdadero/Falso
-::Pregunta 3::
-Las imágenes de mapa de bits pueden escalarse indefinidamente sin pérdida de calidad.
-{
-F
+
+// question: 2679386  name: Pregunta 11
+::Pregunta 11::La resolución se mide en...{
+	=Píxeles por pulgada (ppi)
+	~Centímetros por pulgada
+	~Pulgadas por centímetro
+	~Ninguna de las anteriores
 }
 
-// Preguntas de elección múltiple
-::Pregunta 4::
-¿Cuáles son características de las imágenes de mapa de bits?
-{
-=Dependencia de la resolución
-=No son adecuadas para escalado
-=Ocupan más espacio que las vectoriales
-~Se escalan sin pérdida de calidad
+
+// question: 2679388  name: Pregunta 13
+::Pregunta 13::¿Qué modelo se utiliza para la impresión?{
+	=CMYK
+	~RGB
+	~DPI
+	~Ninguno
 }
 
-// Preguntas de elección simple
-::Pregunta 5::
-¿Cuál es la resolución baja adecuada para pantallas?
-{
-=72-150 ppi
-~300 ppi
-~150-300 ppi
-~Menos de 72 ppi
+
+// question: 2679389  name: Pregunta 14
+::Pregunta 14::¿Cuál es un ejemplo de compresión con pérdida?{
+	=JPEG
+	~PNG
+	~TIFF
+	~BMP
 }
 
-// Verdadero/Falso
-::Pregunta 6::
-Las imágenes vectoriales son adecuadas para fotografías.
-{
-F
+
+// question: 2679391  name: Pregunta 16
+::Pregunta 16::¿Cuáles son desventajas de las imágenes de mapa de bits?{
+	=Mayor tamaño de archivo
+	=No son adecuadas para escalado
+	~Escalabilidad sin pérdida de calidad
+	~Fáciles de editar
 }
 
-// Preguntas de elección múltiple
-::Pregunta 7::
-¿Cuáles son ventajas de las imágenes vectoriales?
-{
-=Escalabilidad sin pérdida de calidad
-=Archivos relativamente pequeños
-~Ocupan más espacio que las de mapa de bits
-~Requieren menos software para edición
+
+// question: 2679392  name: Pregunta 17
+::Pregunta 17::Una imagen con 24 bits por píxel puede mostrar hasta...{
+	=16.7 millones de colores
+	~256 colores
+	~65,536 colores
+	~1 millón de colores
 }
 
-// Preguntas de elección simple
-::Pregunta 8::
-¿Qué formato es común para imágenes vectoriales?
-{
-=SVG
-~JPEG
-~BMP
-~TIFF
+
+// question: 2679394  name: Pregunta 19
+::Pregunta 19::¿Qué se utiliza para imágenes que se verán en pantallas?{
+	=RGB
+	~CMYK
+	~PDI
+	~Ninguno
 }
 
-// Verdadero/Falso
-::Pregunta 9::
-Las imágenes de mapa de bits se componen de formas geométricas.
-{
-F
+
+// question: 2679377  name: Pregunta 2
+::Pregunta 2::¿Qué formato NO es común para imágenes de mapa de bits?{
+	=SVG
+	~JPEG
+	~PNG
+	~GIF
 }
 
-// Preguntas de elección múltiple
-::Pregunta 10::
-¿Qué elementos definen una imagen vectorial?
-{
-=Puntos y líneas
-=Ecuaciones matemáticas
-~Píxeles
-~Texto plano
+
+// question: 2679395  name: Pregunta 20
+::Pregunta 20::¿Las imágenes vectoriales requieren software específico para su creación?{
+	=Sí
+	~No
 }
 
-// Preguntas de elección simple
-::Pregunta 11::
-La resolución se mide en...
-{
-=Píxeles por pulgada (ppi)
-~Centímetros por pulgada
-~Pulgadas por centímetro
-~Ninguna de las anteriores
+
+// question: 2679397  name: Pregunta 22
+::Pregunta 22::¿Cuál de las siguientes afirmaciones sobre las imágenes vectoriales es correcta?{
+	=Independientes de la resolución
+	=Se pueden escalar sin pérdida de calidad
+	~Son más grandes que las de mapa de bits
+	~Dificultan la edición
 }
 
-// Verdadero/Falso
-::Pregunta 12::
-La profundidad de color se refiere a la cantidad de colores que puede mostrar cada píxel.
-{
-V
+
+// question: 2679398  name: Pregunta 23
+::Pregunta 23::La compresión sin pérdida permite restaurar la imagen original. ¿Es cierto?{
+	=Sí
+	~No
 }
 
-// Preguntas de elección múltiple
-::Pregunta 13::
-¿Qué modelo se utiliza para la impresión?
-{
-=CMYK
-~RGB
-~DPI
-~Ninguno
+
+// question: 2679400  name: Pregunta 25
+::Pregunta 25::¿Qué tipo de gráficos son más adecuados para imágenes de mapa de bits?{
+	=Fotografías
+	=Gráficos complejos
+	~Logotipos
+	~Iconos
 }
 
-// Preguntas de elección simple
-::Pregunta 14::
-¿Cuál es un ejemplo de compresión con pérdida?
-{
-=JPEG
-~PNG
-~TIFF
-~BMP
+
+// question: 2679401  name: Pregunta 26
+::Pregunta 26::¿Qué significa el término "canal alfa"?{
+	=Define la transparencia de cada píxel
+	~Es un formato de imagen
+	~Un tipo de compresión
+	~Ninguna de las anteriores
 }
 
-// Verdadero/Falso
-::Pregunta 15::
-La técnica de anti-aliasing se utiliza para suavizar bordes en imágenes de mapa de bits.
-{
-V
+
+// question: 2679403  name: Pregunta 28
+::Pregunta 28::¿Qué formatos son comunes para imágenes de mapa de bits?{
+	=JPEG
+	=PNG
+	=GIF
+	~SVG
 }
 
-// Preguntas de elección múltiple
-::Pregunta 16::
-¿Cuáles son desventajas de las imágenes de mapa de bits?
-{
-=Mayor tamaño de archivo
-=No son adecuadas para escalado
-~Escalabilidad sin pérdida de calidad
-~Fáciles de editar
+
+// question: 2679404  name: Pregunta 29
+::Pregunta 29::Una resolución alta es adecuada para...{
+	=Impresión
+	~Pantallas
+	~Web
+	~Ninguna de las anteriores
 }
 
-// Preguntas de elección simple
-::Pregunta 17::
-Una imagen con 24 bits por píxel puede mostrar hasta...
-{
-=16.7 millones de colores
-~256 colores
-~65,536 colores
-~1 millón de colores
+
+// question: 2679406  name: Pregunta 31
+::Pregunta 31::¿Cuál es una característica de las imágenes vectoriales?{
+	=Escalabilidad indefinida
+	~Dependencia de la resolución
+	~Mayor tamaño de archivo
+	=Fácil edición
 }
 
-// Verdadero/Falso
-::Pregunta 18::
-Las imágenes vectoriales son ideales para gráficos complejos y fotografías.
-{
-F
+
+// question: 2679407  name: Pregunta 32
+::Pregunta 32::¿Las imágenes de mapa de bits son más adecuadas para gráficos simples?{
+	=No
+	~Sí
 }
 
-// Preguntas de elección múltiple
-::Pregunta 19::
-¿Qué se utiliza para imágenes que se verán en pantallas?
-{
-=RGB
-~CMYK
-~PDI
-~Ninguno
+
+// question: 2679409  name: Pregunta 34
+::Pregunta 34::¿Qué técnica ayuda a suavizar los bordes dentados en imágenes de mapa de bits?{
+	=Anti-aliasing
+	~Vectorización
+	~Compresión
+	~Desenfoque
 }
 
-// Preguntas de elección simple
-::Pregunta 20::
-¿Las imágenes vectoriales requieren software específico para su creación?
-{
-=Sí
-~No
+
+// question: 2679410  name: Pregunta 35
+::Pregunta 35::¿Cuál es un formato común para imágenes vectoriales?{
+	=EPS
+	~BMP
+	~GIF
+	~JPEG
 }
 
-// Verdadero/Falso
-::Pregunta 21::
-Los metadatos pueden incluir información de derechos de autor.
-{
-V
+
+// question: 2679412  name: Pregunta 37
+::Pregunta 37::¿Qué información puede contener los metadatos en una imagen?{
+	=Fecha y configuración de la cámara
+	=Información de derechos de autor
+	~Resolución de pantalla
+	~Ninguna de las anteriores
 }
 
-// Preguntas de elección múltiple
-::Pregunta 22::
-¿Cuál de las siguientes afirmaciones sobre las imágenes vectoriales es correcta?
-{
-=Independientes de la resolución
-=Se pueden escalar sin pérdida de calidad
-~Son más grandes que las de mapa de bits
-~Dificultan la edición
+
+// question: 2679413  name: Pregunta 38
+::Pregunta 38::La calidad de una imagen de mapa de bits disminuye al aumentar su tamaño.{
+	=Sí
+	~No
 }
 
-// Preguntas de elección simple
-::Pregunta 23::
-La compresión sin pérdida permite restaurar la imagen original. ¿Es cierto?
-{
-=Sí
-~No
+
+// question: 2679379  name: Pregunta 4
+::Pregunta 4::¿Cuáles son características de las imágenes de mapa de bits?{
+	=Dependencia de la resolución
+	=No son adecuadas para escalado
+	=Ocupan más espacio que las vectoriales
+	~Se escalan sin pérdida de calidad
 }
 
-// Verdadero/Falso
-::Pregunta 24::
-Los canales de color en un modelo RGB son Rojo, Verde y Amarillo.
-{
-F
+
+// question: 2679416  name: Pregunta 40
+::Pregunta 40::[html]¿Cuáles son desventajas de las imágenes vectoriales?{
+	~[moodle]No son adecuadas para logotipos
+	~[moodle]Requieren mucho espacio
+	~%50%[moodle]No son adecuadas para imágenes complejas
+	~%50%[moodle]Necesitan software específico
 }
 
-// Preguntas de elección múltiple
-::Pregunta 25::
-¿Qué tipo de gráficos son más adecuados para imágenes de mapa de bits?
-{
-=Fotografías
-=Gráficos complejos
-~Logotipos
-~Iconos
+
+// question: 2679380  name: Pregunta 5
+::Pregunta 5::¿Cuál es la resolución baja adecuada para pantallas?{
+	=72-150 ppi
+	~300 ppi
+	~150-300 ppi
+	~Menos de 72 ppi
 }
 
-// Preguntas de elección simple
-::Pregunta 26::
-¿Qué significa el término "canal alfa"?
-{
-=Define la transparencia de cada píxel
-~Es un formato de imagen
-~Un tipo de compresión
-~Ninguna de las anteriores
+
+// question: 2679382  name: Pregunta 7
+::Pregunta 7::¿Cuáles son ventajas de las imágenes vectoriales?{
+	=Escalabilidad sin pérdida de calidad
+	=Archivos relativamente pequeños
+	~Ocupan más espacio que las de mapa de bits
+	~Requieren menos software para edición
 }
 
-// Verdadero/Falso
-::Pregunta 27::
-Las imágenes vectoriales son perfectas para logotipos y tipografía.
-{
-V
+
+// question: 2679383  name: Pregunta 8
+::Pregunta 8::¿Qué formato es común para imágenes vectoriales?{
+	=SVG
+	~JPEG
+	~BMP
+	~TIFF
 }
 
-// Preguntas de elección múltiple
-::Pregunta 28::
-¿Qué formatos son comunes para imágenes de mapa de bits?
-{
-=JPEG
-=PNG
-=GIF
-~SVG
+
+// question: 2679387  name: Pregunta 12
+::Pregunta 12::La profundidad de color se refiere a la cantidad de colores que puede mostrar cada píxel.{
+	=%100%V#
 }
 
-// Preguntas de elección simple
-::Pregunta 29::
-Una resolución alta es adecuada para...
-{
-=Impresión
-~Pantallas
-~Web
-~Ninguna de las anteriores
+
+// question: 2679390  name: Pregunta 15
+::Pregunta 15::La técnica de anti-aliasing se utiliza para suavizar bordes en imágenes de mapa de bits.{
+	=%100%V#
 }
 
-// Verdadero/Falso
-::Pregunta 30::
-La compresión con pérdida elimina detalles de la imagen.
-{
-V
+
+// question: 2679396  name: Pregunta 21
+::Pregunta 21::Los metadatos pueden incluir información de derechos de autor.{
+	=%100%V#
 }
 
-// Preguntas de elección múltiple
-::Pregunta 31::
-¿Cuál es una característica de las imágenes vectoriales?
-{
-=Escalabilidad indefinida
-~Dependencia de la resolución
-~Mayor tamaño de archivo
-=Fácil edición
+
+// question: 2679402  name: Pregunta 27
+::Pregunta 27::Las imágenes vectoriales son perfectas para logotipos y tipografía.{
+	=%100%V#
 }
 
-// Preguntas de elección simple
-::Pregunta 32::
-¿Las imágenes de mapa de bits son más adecuadas para gráficos simples?
-{
-=No
-~Sí
+
+// question: 2679405  name: Pregunta 30
+::Pregunta 30::La compresión con pérdida elimina detalles de la imagen.{
+	=%100%V#
 }
 
-// Verdadero/Falso
-::Pregunta 33::
-Los formatos de imagen vectorial incluyen PDF y AI.
-{
-V
+
+// question: 2679408  name: Pregunta 33
+::Pregunta 33::Los formatos de imagen vectorial incluyen PDF y AI.{
+	=%100%V#
 }
 
-// Preguntas de elección múltiple
-::Pregunta 34::
-¿Qué técnica ayuda a suavizar los bordes dentados en imágenes de mapa de bits?
-{
-=Anti-aliasing
-~Vectorización
-~Compresión
-~Desenfoque
-}
 
-// Preguntas de elección simple
-::Pregunta 35::
-¿Cuál es un formato común para imágenes vectoriales?
-{
-=EPS
-~BMP
-~GIF
-~JPEG
-}
+// question: 2679393  name: Pregunta 18
+::Pregunta 18::Las imágenes vectoriales son ideales para gráficos complejos y fotografías.{FALSE}
 
-// Verdadero/Falso
-::Pregunta 36::
-La compresión sin pérdida es menos eficiente que la compresión con pérdida.
-{
-F
-}
 
-// Preguntas de elección múltiple
-::Pregunta 37::
-¿Qué información puede contener los metadatos en una imagen?
-{
-=Fecha y configuración de la cámara
-=Información de derechos de autor
-~Resolución de pantalla
-~Ninguna de las anteriores
-}
+// question: 2679399  name: Pregunta 24
+::Pregunta 24::Los canales de color en un modelo RGB son Rojo, Verde y Amarillo.{FALSE}
 
-// Preguntas de elección simple
-::Pregunta 38::
-La calidad de una imagen de mapa de bits disminuye al aumentar su tamaño.
-{
-=Sí
-~No
-}
 
-// Verdadero/Falso
-::Pregunta 39::
-Las imágenes vectoriales son ideales para gráficos complejos.
-{
-F
-}
+// question: 2679378  name: Pregunta 3
+::Pregunta 3::Las imágenes de mapa de bits pueden escalarse indefinidamente sin pérdida de calidad.{FALSE}
 
-// Preguntas de elección múltiple
-::Pregunta 40::
-¿Cuáles son desventajas de las imágenes vectoriales?
-{
-~No son adecuadas para logotipos
-~Requieren mucho espacio
-=%50%No son adecuadas para imágenes complejas
-=%50%Necesitan software específico
-}
+
+// question: 2679411  name: Pregunta 36
+::Pregunta 36::La compresión sin pérdida es menos eficiente que la compresión con pérdida.{FALSE}
+
+
+// question: 2679414  name: Pregunta 39
+::Pregunta 39::Las imágenes vectoriales son ideales para gráficos complejos.{FALSE}
+
+
+// question: 2679381  name: Pregunta 6
+::Pregunta 6::Las imágenes vectoriales son adecuadas para fotografías.{FALSE}
+
+
+// question: 2679384  name: Pregunta 9
+::Pregunta 9::Las imágenes de mapa de bits se componen de formas geométricas.{FALSE}
+
+
