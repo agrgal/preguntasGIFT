@@ -222,7 +222,7 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 
 // question: 2135003  name: 15. ¿Qué se usa para ocultar temporalmente una parte de
 // una imagen sin borrarla en GIMP? __________ + de capa (indica la palbra que falta)
-::15. ¿Qué se usa para ocultar temporalmente una parte de\nuna imagen sin borrarla en GIMP? __________ + de capa (indica la palbra que falta)::{
+::15. ¿Qué se usa para ocultar temporalmente una parte de\nuna imagen sin borrarla en GIMP? __________  de capa (indica la palabra que falta)::{
 	=%100%Máscara#
 	=%100%máscara#
 	=%50%Mascara#<p dir\="ltr" style\="text-align\: left;">Cuidado con la tilde</p>
