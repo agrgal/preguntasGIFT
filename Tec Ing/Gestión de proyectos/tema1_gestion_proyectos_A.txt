@@ -261,7 +261,7 @@ En el tablero Kanban, ¿qué significa una tarea ubicada en la columna "Por hace
 }
 
 ::Pregunta 30::
-¿Qué artefacto se utiliza en Scrum para gestionar las tareas y priorizarlas?
+¿Qué documento se utiliza en Scrum para gestionar las tareas y priorizarlas?
 {
 =Product Backlog
 ~Sprint Backlog
@@ -288,7 +288,7 @@ En el tablero Kanban, ¿qué significa una tarea ubicada en la columna "Por hace
 }
 
 ::Pregunta 33::
-¿Cuál es el propósito de las reuniones diarias en Scrum (daily stand-ups)?
+¿Cuál es el propósito principal de las reuniones diarias en Scrum (daily stand-ups)?
 {
 =Revisar el progreso diario del equipo y resolver bloqueos
 ~Actualizar el Product Backlog
