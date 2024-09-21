@@ -6,8 +6,8 @@ $CATEGORY: $course$/top/Edición de Imágenes
 $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 
 
-// question: 2134989  name: 1. ¿Qué es una capa en GIMP?
-::1. ¿Qué es una capa en GIMP?::{
+// question: 2134989  name: 1::Qué es una capa en GIMP?
+::Pregunta 1::¿Qué es una capa en GIMP?{
 	=Un nivel independiente en una imagen que permite trabajar sin afectar otras partes.
 	~Un filtro de imagen.
 	~Una herramienta de selección.
@@ -15,8 +15,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 }
 
 
-// question: 2134998  name: 10. ¿Qué herramienta se usa para añadir texto en GIMP?
-::10. ¿Qué herramienta se usa para añadir texto en GIMP?::{
+// question: 2134998  name: 10::Qué herramienta se usa para añadir texto en GIMP?
+::Pregunta 10::¿Qué herramienta se usa para añadir texto en GIMP?{
 	=Herramienta de texto
 	~Herramienta de selección
 	~Herramienta de pincel
@@ -24,8 +24,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 }
 
 
-// question: 2135004  name: 16. ¿Qué herramienta te permite crear una selección con formas irregulares en GIMP?
-::16. ¿Qué herramienta te permite crear una selección con formas irregulares en GIMP?::{
+// question: 2135004  name: 16::Qué herramienta te permite crear una selección con formas irregulares en GIMP?
+::Pregunta 16:: ¿Qué herramienta te permite crear una selección con formas irregulares en GIMP?{
 	=Herramienta de lazo.
 	~Herramienta de varita mágica.
 	~Herramienta de selección elíptica.
@@ -33,8 +33,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 }
 
 
-// question: 2135005  name: 17. ¿Qué herramienta se utiliza para cambiar los colores de una imagen en GIMP?
-::17. ¿Qué herramienta se utiliza para cambiar los colores de una imagen en GIMP?::{
+// question: 2135005  name: 17::Qué herramienta se utiliza para cambiar los colores de una imagen en GIMP?
+::Pregunta 17::¿Qué herramienta se utiliza para cambiar los colores de una imagen en GIMP?{
 	=Herramienta de color.
 	~Herramienta de clonado.
 	~Herramienta de escala.
@@ -42,8 +42,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 }
 
 
-// question: 2135006  name: 18. ¿Qué función tiene la "Varita Mágica" en GIMP?
-::18. ¿Qué función tiene la "Varita Mágica" en GIMP?::{
+// question: 2135006  name: 18::Qué función tiene la "Varita Mágica" en GIMP?
+::Pregunta 18::¿Qué función tiene la "Varita Mágica" en GIMP?{
 	=Selecciona áreas con colores similares.
 	~Permite pintar libremente en la imagen.
 	~Recorta una parte específica de la imagen.
@@ -51,8 +51,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 }
 
 
-// question: 2135007  name: 19. ¿Qué hace el "canal alfa" en una imagen en GIMP?
-::19. ¿Qué hace el "canal alfa" en una imagen en GIMP?::{
+// question: 2135007  name: 19::Qué hace el "canal alfa" en una imagen en GIMP?
+::Pregunta 19::¿Qué hace el "canal alfa" en una imagen en GIMP?{
 	=Controla la transparencia de la imagen.
 	~Controla la saturación de color.
 	~Controla la luminosidad.
@@ -60,8 +60,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 }
 
 
-// question: 2134990  name: 2. ¿Qué herramienta se utiliza para seleccionar una parte específica de una imagen en GIMP?
-::2. ¿Qué herramienta se utiliza para seleccionar una parte específica de una imagen en GIMP?::{
+// question: 2134990  name: 2::Qué herramienta se utiliza para seleccionar una parte específica de una imagen en GIMP?
+::Pregunta 2::¿Qué herramienta se utiliza para seleccionar una parte específica de una imagen en GIMP?{
 	=Herramienta de selección rectangular
 	~Herramienta de clonado
 	~Herramienta de relleno
@@ -69,8 +69,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 }
 
 
-// question: 2135008  name: 20. ¿Qué herramienta se usa para rotar una imagen o capa en GIMP?
-::20. ¿Qué herramienta se usa para rotar una imagen o capa en GIMP?::{
+// question: 2135008  name: 20::Qué herramienta se usa para rotar una imagen o capa en GIMP?
+::Pregunta 20:: ¿Qué herramienta se usa para rotar una imagen o capa en GIMP?{
 	=Herramienta de rotación.
 	~Herramienta de escalado.
 	~Herramienta de lazo.
@@ -78,8 +78,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 }
 
 
-// question: 2135009  name: 21. ¿Qué herramienta te permite difuminar o suavizar una imagen en GIMP?
-::21. ¿Qué herramienta te permite difuminar o suavizar una imagen en GIMP?::{
+// question: 2135009  name: 21::Qué herramienta te permite difuminar o suavizar una imagen en GIMP?
+::Pregunta 21:: ¿Qué herramienta te permite difuminar o suavizar una imagen en GIMP?{
 	=Herramienta de desenfoque.
 	~Herramienta de clonado.
 	~Herramienta de texto.
@@ -87,8 +87,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 }
 
 
-// question: 2135010  name: 22. ¿Cómo se puede aplicar un filtro a una imagen en GIMP?
-::22. ¿Cómo se puede aplicar un filtro a una imagen en GIMP?::{
+// question: 2135010  name: 22::Cómo se puede aplicar un filtro a una imagen en GIMP?
+::Pregunta 22::¿Cómo se puede aplicar un filtro a una imagen en GIMP?{
 	=Usando el menú de filtros.
 	~Usando la herramienta de recorte.
 	~Usando la opción de guardado.
@@ -96,8 +96,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 }
 
 
-// question: 2135011  name: 23. ¿Qué herramienta se usa para ajustar el brillo y contraste de una imagen en GIMP?
-::23. ¿Qué herramienta se usa para ajustar el brillo y contraste de una imagen en GIMP?::{
+// question: 2135011  name: 23::Qué herramienta se usa para ajustar el brillo y contraste de una imagen en GIMP?
+::Pregunta 23:: ¿Qué herramienta se usa para ajustar el brillo y contraste de una imagen en GIMP?{
 	=Ajustes de brillo y contraste.
 	~Herramienta de rotación.
 	~Herramienta de varita mágica.
@@ -105,8 +105,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 }
 
 
-// question: 2135012  name: 24. ¿Qué es el canal alfa en GIMP?
-::24. ¿Qué es el canal alfa en GIMP?::{
+// question: 2135012  name: 24::Qué es el canal alfa en GIMP?
+::Pregunta 24:: ¿Qué es el canal alfa en GIMP?{
 	=Un canal que controla la transparencia de una imagen.
 	~Un filtro de color.
 	~Un modo de selección.
@@ -114,8 +114,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 }
 
 
-// question: 2135013  name: 25. ¿Qué hace la herramienta de "relleno" en GIMP?
-::25. ¿Qué hace la herramienta de "relleno" en GIMP?::{
+// question: 2135013  name: 25::Qué hace la herramienta de "relleno" en GIMP?
+::Pregunta 25::¿Qué hace la herramienta de "relleno" en GIMP?{
 	=Rellena un área seleccionada con un color o patrón.
 	~Selecciona una parte de la imagen.
 	~Fusiona dos capas.
@@ -123,8 +123,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 }
 
 
-// question: 2134991  name: 3. ¿Qué es el anti-aliasing en GIMP?
-::3. ¿Qué es el anti-aliasing en GIMP?::{
+// question: 2134991  name: 3::Qué es el anti-aliasing en GIMP?
+::Pregunta 3::¿Qué es el anti-aliasing en GIMP?{
 	=Una técnica para suavizar los bordes en imágenes.
 	~Un filtro de desenfoque.
 	~Una herramienta de selección.
@@ -132,8 +132,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 }
 
 
-// question: 2134992  name: 4. ¿Cómo se llama la herramienta para clonar partes de una imagen en GIMP?
-::4. ¿Cómo se llama la herramienta para clonar partes de una imagen en GIMP?::{
+// question: 2134992  name: 4::Cómo se llama la herramienta para clonar partes de una imagen en GIMP?
+::Pregunta 4::¿Cómo se llama la herramienta para clonar partes de una imagen en GIMP?{
 	=Herramienta de clonado
 	~Herramienta de recorte
 	~Herramienta de relleno
@@ -141,8 +141,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 }
 
 
-// question: 2134993  name: 5. ¿Qué formato de archivo admite capas en GIMP?
-::5. ¿Qué formato de archivo admite capas en GIMP?::{
+// question: 2134993  name: 5::Qué formato de archivo admite capas en GIMP?
+::Pregunta 5:: ¿Qué formato de archivo admite capas en GIMP?{
 	=XCF
 	~JPEG
 	~PNG
@@ -150,8 +150,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 }
 
 
-// question: 2134994  name: 6. ¿Qué hace la opción "deshacer" en GIMP?
-::6. ¿Qué hace la opción "deshacer" en GIMP?::{
+// question: 2134994  name: 6::Qué hace la opción "deshacer" en GIMP?
+::Pregunta 6::¿Qué hace la opción "deshacer" en GIMP?{
 	=Revierte la última acción realizada.
 	~Elimina una capa.
 	~Cambia los colores de la imagen.
@@ -159,8 +159,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 }
 
 
-// question: 2134995  name: 7. ¿Qué función tiene una máscara de capa en GIMP?
-::7. ¿Qué función tiene una máscara de capa en GIMP?::{
+// question: 2134995  name: 7::Qué función tiene una máscara de capa en GIMP?
+::Pregunta 7::¿Qué función tiene una máscara de capa en GIMP?{
 	=Permitir ocultar o revelar partes de una capa de forma no destructiva.
 	~Aplicar filtros de color.
 	~Cambiar la resolución de la imagen.
@@ -168,8 +168,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 }
 
 
-// question: 2134996  name: 8. ¿Qué es una selección flotante en GIMP?
-::8. ¿Qué es una selección flotante en GIMP?::{
+// question: 2134996  name: 8::Qué es una selección flotante en GIMP?
+::Pregunta 8:: ¿Qué es una selección flotante en GIMP?{
 	=Una selección que puede moverse y editarse hasta que se ancla en una capa.
 	~Un tipo de máscara de capa.
 	~Un modo de fusión de capas.
@@ -177,8 +177,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 }
 
 
-// question: 2134997  name: 9. ¿Qué herramienta se usa para redimensionar una imagen o capa en GIMP?
-::9. ¿Qué herramienta se usa para redimensionar una imagen o capa en GIMP?::{
+// question: 2134997  name: 9::Qué herramienta se usa para redimensionar una imagen o capa en GIMP?
+::Pregunta 9::¿Qué herramienta se usa para redimensionar una imagen o capa en GIMP?{
 	=Herramienta de escalado
 	~Herramienta de recorte
 	~Herramienta de selección
@@ -186,16 +186,16 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 }
 
 
-// question: 2134999  name: 11. ¿Qué opción permite deshacer una acción en GIMP? CTRL + ______ ¿Qué letra falta?
-::11. ¿Qué opción permite deshacer una acción en GIMP? CTRL + ______ ¿Qué letra falta?::{
+// question: 2134999  name: 11::Qué opción permite deshacer una acción en GIMP? CTRL + ______ ¿Qué letra falta?
+::Pregunta 11:: ¿Qué opción permite deshacer una acción en GIMP? CTRL + ______ ¿Qué letra falta?{
 	=%100%Z#
 	=%100%z#
 }
 
 
-// question: 2135000  name: 12. ¿Qué permite hacer la herramienta de recorte en GIMP? _________ partes
+// question: 2135000  name: 12::Qué permite hacer la herramienta de recorte en GIMP? _________ partes
 // innecesarias de una imagen (contesta con una sola palabra; es un verbo en infinitivo).
-::12. ¿Qué permite hacer la herramienta de recorte en GIMP? _________ partes\ninnecesarias de una imagen (contesta con una sola palabra; es un verbo en infinitivo).::
+::Pregunta 12:: ¿Qué permite hacer la herramienta de recorte en GIMP? _________ partes\ninnecesarias de una imagen (contesta con una sola palabra; es un verbo en infinitivo)
 {
 	=%100%Eliminar#
 	=%100%eliminar#
@@ -204,8 +204,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 }
 
 
-// question: 2135001  name: 13. ¿Con qué extensión puedes guardar un archivo con capas para editarlas más tarde en GIMP?
-::13. ¿Con qué extensión puedes guardar un archivo con capas para editarlas más tarde en GIMP?::{
+// question: 2135001  name: 13::Con qué extensión puedes guardar un archivo con capas para editarlas más tarde en GIMP?
+::Pregunta 13::Con qué extensión puedes guardar un archivo con capas para editarlas más tarde en GIMP?{
 	=%100%XCF#
 	=%100%xcf#
 	=%100%.XCF#
@@ -213,16 +213,16 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 }
 
 
-// question: 2135002  name: 14. ¿Qué modo de fusión en GIMP permite ver ambas capas superpuestas?
-::14. ¿Qué modo de fusión en GIMP permite ver ambas capas superpuestas?::{
+// question: 2135002  name: 14::Qué modo de fusión en GIMP permite ver ambas capas superpuestas?
+::Pregunta 14::Qué modo de fusión en GIMP permite ver ambas capas superpuestas?{
 	=%100%Multiplicar#
 	=%100%multiplicar#
 }
 
 
-// question: 2135003  name: 15. ¿Qué se usa para ocultar temporalmente una parte de
+// question: 2135003  name: 15::Qué se usa para ocultar temporalmente una parte de
 // una imagen sin borrarla en GIMP? __________ + de capa (indica la palbra que falta)
-::15. ¿Qué se usa para ocultar temporalmente una parte de\nuna imagen sin borrarla en GIMP? __________  de capa (indica la palabra que falta)::{
+::Pregunta 15::Qué se usa para ocultar temporalmente una parte de\nuna imagen sin borrarla en GIMP? __________  de capa (indica la palabra que falta){
 	=%100%Máscara#
 	=%100%máscara#
 	=%50%Mascara#<p dir\="ltr" style\="text-align\: left;">Cuidado con la tilde</p>
@@ -231,14 +231,14 @@ $CATEGORY: $course$/top/Edición de Imágenes/GIMP
 
 
 // question: 2135014  name: 26. GIMP es un software utilizado para editar gráficos vectoriales.
-::26. GIMP es un software utilizado para editar gráficos vectoriales.::{FALSE####<p dir\="ltr" style\="text-align\: left;">No, GIMP es un software para gráficos tipo mapas de bit</p>}
+::Pregunta 26::GIMP es un software utilizado para editar gráficos vectoriales.{FALSE####<p dir\="ltr" style\="text-align\: left;">No, GIMP es un software para gráficos tipo mapas de bit</p>}
 
 
 // question: 2135015  name: 27. GIMP admite el uso de máscaras de capa para realizar ediciones no destructivas.
-::27. GIMP admite el uso de máscaras de capa para realizar ediciones no destructivas.::{TRUE####<p dir\="ltr" style\="text-align\: left;">GIMP trabaja por capas</p>}
+::Pregunta 27::GIMP admite el uso de máscaras de capa para realizar ediciones no destructivas.{TRUE####<p dir\="ltr" style\="text-align\: left;">GIMP trabaja por capas</p>}
 
 
 // question: 2135016  name: 28. La herramienta de clonado en GIMP te permite duplicar partes de una imagen.
-::28. La herramienta de clonado en GIMP te permite duplicar partes de una imagen.::{TRUE}
+::Pregunta 28::La herramienta de clonado en GIMP te permite duplicar partes de una imagen.{TRUE}
 
 

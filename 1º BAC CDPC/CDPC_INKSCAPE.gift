@@ -6,8 +6,8 @@ $CATEGORY: $course$/top/Edición de Imágenes
 $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 
 
-// question: 2135017  name: 1. ¿Qué tipo de gráficos utiliza principalmente Inkscape?
-::1. ¿Qué tipo de gráficos utiliza principalmente Inkscape?::{
+// question: 2135017  name: 1::Qué tipo de gráficos utiliza principalmente Inkscape?
+::Pregunta 1::Qué tipo de gráficos utiliza principalmente Inkscape?{
 	=Gráficos vectoriales
 	~Gráficos de mapa de bits
 	~Fotografías
@@ -15,8 +15,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135026  name: 10. ¿Qué es una capa en Inkscape?
-::10. ¿Qué es una capa en Inkscape?::{
+// question: 2135026  name: 10::Qué es una capa en Inkscape?
+::Pregunta 10::Qué es una capa en Inkscape?{
 	=Una forma de organizar objetos de manera independiente.
 	~Una herramienta para crear degradados.
 	~Una opción para cambiar la resolución.
@@ -24,8 +24,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135027  name: 11. ¿Qué herramienta permite crear formas básicas como rectángulos y círculos en Inkscape?
-::11. ¿Qué herramienta permite crear formas básicas como rectángulos y círculos en Inkscape?::{
+// question: 2135027  name: 11::Qué herramienta permite crear formas básicas como rectángulos y círculos en Inkscape?
+::Pregunta 11::Qué herramienta permite crear formas básicas como rectángulos y círculos en Inkscape?{
 	=Herramienta de formas.
 	~Herramienta de nodos.
 	~Herramienta de pluma.
@@ -33,8 +33,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135028  name: 12. ¿Qué es el modelo de color que se usa para impresión en Inkscape?
-::12. ¿Qué es el modelo de color que se usa para impresión en Inkscape?::{
+// question: 2135028  name: 12::Qué es el modelo de color que se usa para impresión en Inkscape?
+::Pregunta 12::Qué es el modelo de color que se usa para impresión en Inkscape?{
 	=CMYK
 	~RGB
 	~HSB
@@ -42,8 +42,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135029  name: 13. ¿Qué permite hacer la herramienta "Edición de nodos" en Inkscape?
-::13. ¿Qué permite hacer la herramienta "Edición de nodos" en Inkscape?::{
+// question: 2135029  name: 13::Qué permite hacer la herramienta "Edición de nodos" en Inkscape?
+::Pregunta 13::Qué permite hacer la herramienta "Edición de nodos" en Inkscape?{
 	=Modificar la forma de un objeto vectorial.
 	~Ajustar el color del objeto.
 	~Cambiar el tamaño del lienzo.
@@ -51,8 +51,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135030  name: 14. ¿Qué atajo de teclado se utiliza para hacer zoom en Inkscape?
-::14. ¿Qué atajo de teclado se utiliza para hacer zoom en Inkscape?::{
+// question: 2135030  name: 14::Qué atajo de teclado se utiliza para hacer zoom en Inkscape?
+::Pregunta 14::Qué atajo de teclado se utiliza para hacer zoom en Inkscape?{
 	=Ctrl + rueda del ratón.
 	~Shift + Clic izquierdo.
 	~Alt + Z.
@@ -60,8 +60,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135031  name: 15. ¿Qué es una máscara en Inkscape?
-::15. ¿Qué es una máscara en Inkscape?::{
+// question: 2135031  name: 15::Qué es una máscara en Inkscape?
+::Pregunta 15::Qué es una máscara en Inkscape?{
 	=Un objeto que oculta o muestra partes de otro objeto.
 	~Una opción para duplicar un objeto.
 	~Una herramienta para ajustar el brillo de una imagen.
@@ -69,8 +69,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135032  name: 16. ¿Qué función tiene el comando "Combinar trayectos" en Inkscape?
-::16. ¿Qué función tiene el comando "Combinar trayectos" en Inkscape?::{
+// question: 2135032  name: 16::Qué función tiene el comando "Combinar trayectos" en Inkscape?
+::Pregunta 16::Qué función tiene el comando "Combinar trayectos" en Inkscape?{
 	=Fusionar dos o más trayectos en uno solo.
 	~Alinear objetos en el lienzo.
 	~Rotar un objeto.
@@ -78,8 +78,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135033  name: 17. ¿Cómo puedes convertir un objeto vectorial en un mapa de bits en Inkscape?
-::17. ¿Cómo puedes convertir un objeto vectorial en un mapa de bits en Inkscape?::{
+// question: 2135033  name: 17::Cómo puedes convertir un objeto vectorial en un mapa de bits en Inkscape?
+::Pregunta 17::Cómo puedes convertir un objeto vectorial en un mapa de bits en Inkscape?{
 	=Usando la opción "Exportar mapa de bits".
 	~Usando la herramienta de pluma.
 	~Aplicando un filtro de rasterización.
@@ -87,8 +87,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135034  name: 18. ¿Qué permite hacer la herramienta de "Degradado" en Inkscape?
-::18. ¿Qué permite hacer la herramienta de "Degradado" en Inkscape?::{
+// question: 2135034  name: 18::Qué permite hacer la herramienta de "Degradado" en Inkscape?
+::Pregunta 18::Qué permite hacer la herramienta de "Degradado" en Inkscape?{
 	=Aplicar una transición suave entre dos colores.
 	~Crear patrones en los objetos.
 	~Ajustar la opacidad de los objetos.
@@ -96,8 +96,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135035  name: 19. ¿Cómo puedes duplicar un objeto en Inkscape?
-::19. ¿Cómo puedes duplicar un objeto en Inkscape?::{
+// question: 2135035  name: 19::Cómo puedes duplicar un objeto en Inkscape?
+::Pregunta 19::Cómo puedes duplicar un objeto en Inkscape?{
 	=Seleccionando el objeto y usando Ctrl + D.
 	~Usando Ctrl + C y Ctrl + V.
 	~Aplicando la herramienta de "Agrupar".
@@ -105,8 +105,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135018  name: 2. ¿Cuál es el formato de archivo nativo de Inkscape?
-::2. ¿Cuál es el formato de archivo nativo de Inkscape?::{
+// question: 2135018  name: 2::Cuál es el formato de archivo nativo de Inkscape?
+::Pregunta 2::Cuál es el formato de archivo nativo de Inkscape?{
 	=SVG
 	~PNG
 	~PDF
@@ -114,8 +114,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135036  name: 20. ¿Qué es una guía en Inkscape?
-::20. ¿Qué es una guía en Inkscape?::{
+// question: 2135036  name: 20::Qué es una guía en Inkscape?
+::Pregunta 20::Qué es una guía en Inkscape?{
 	=Una línea que ayuda a alinear objetos en el lienzo.
 	~Un filtro aplicado a una imagen.
 	~Un formato de exportación.
@@ -123,8 +123,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135037  name: 21. ¿Qué herramienta te permite ajustar el espaciado entre objetos en Inkscape?
-::21. ¿Qué herramienta te permite ajustar el espaciado entre objetos en Inkscape?::{
+// question: 2135037  name: 21::Qué herramienta te permite ajustar el espaciado entre objetos en Inkscape?
+::Pregunta 21::Qué herramienta te permite ajustar el espaciado entre objetos en Inkscape?{
 	=Alinear y distribuir.
 	~Edición de nodos.
 	~Transformación.
@@ -132,8 +132,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135038  name: 22. ¿Qué es un patrón en Inkscape?
-::22. ¿Qué es un patrón en Inkscape?::{
+// question: 2135038  name: 22::Qué es un patrón en Inkscape?
+::Pregunta 22::Qué es un patrón en Inkscape?{
 	=Un diseño que se repite dentro de un objeto.
 	~Una transición de color suave.
 	~Una opción de exportación a PNG.
@@ -141,8 +141,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135039  name: 23. ¿Cómo se pueden rotar objetos en Inkscape?
-::23. ¿Cómo se pueden rotar objetos en Inkscape?::{
+// question: 2135039  name: 23::Cómo se pueden rotar objetos en Inkscape?
+::Pregunta 23::Cómo se pueden rotar objetos en Inkscape?{
 	=Usando la herramienta de "Transformación".
 	~Agrupando objetos y aplicando la opción "Rotar".
 	~Aplicando un filtro de rotación.
@@ -150,8 +150,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135040  name: 24. ¿Qué tipo de imágenes permite crear Inkscape?
-::24. ¿Qué tipo de imágenes permite crear Inkscape?::{
+// question: 2135040  name: 24::Qué tipo de imágenes permite crear Inkscape?
+::Pregunta 24::Qué tipo de imágenes permite crear Inkscape?{
 	=Imágenes vectoriales.
 	~Imágenes raster.
 	~Fotografías.
@@ -159,8 +159,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135041  name: 26. ¿Qué opción permite exportar archivos a otros formatos en Inkscape?
-::26. ¿Qué opción permite exportar archivos a otros formatos en Inkscape?::{
+// question: 2135041  name: 26::Qué opción permite exportar archivos a otros formatos en Inkscape?
+::Pregunta 26::Qué opción permite exportar archivos a otros formatos en Inkscape?{
 	=Exportar.
 	~Guardar como.
 	~Alinear y distribuir.
@@ -168,8 +168,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135042  name: 27. ¿Qué hace la opción "Desagrupar" en Inkscape?
-::27. ¿Qué hace la opción "Desagrupar" en Inkscape?::{
+// question: 2135042  name: 27::Qué hace la opción "Desagrupar" en Inkscape?
+::Pregunta 27::Qué hace la opción "Desagrupar" en Inkscape?{
 	=Separa los objetos agrupados.
 	~Rota un grupo de objetos.
 	~Duplica una serie de objetos.
@@ -177,8 +177,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135043  name: 29. ¿Qué herramienta permite añadir guías en Inkscape?
-::29. ¿Qué herramienta permite añadir guías en Inkscape?::{
+// question: 2135043  name: 29::Qué herramienta permite añadir guías en Inkscape?
+::Pregunta 29::Qué herramienta permite añadir guías en Inkscape?{
 	=Herramienta de regla.
 	~Transformación.
 	~Agrupar.
@@ -186,8 +186,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135019  name: 3. ¿Qué herramienta se utiliza para crear líneas y curvas en Inkscape?
-::3. ¿Qué herramienta se utiliza para crear líneas y curvas en Inkscape?::{
+// question: 2135019  name: 3::Qué herramienta se utiliza para crear líneas y curvas en Inkscape?
+::Pregunta 3::Qué herramienta se utiliza para crear líneas y curvas en Inkscape?{
 	=Herramienta de pluma
 	~Herramienta de nodos
 	~Herramienta de selección
@@ -195,8 +195,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135020  name: 4. ¿Qué hace la opción "Agrupar" en Inkscape?
-::4. ¿Qué hace la opción "Agrupar" en Inkscape?::{
+// question: 2135020  name: 4::Qué hace la opción "Agrupar" en Inkscape?
+::Pregunta 4::Qué hace la opción "Agrupar" en Inkscape?{
 	=Combina varios objetos en un solo grupo.
 	~Fusiona dos capas.
 	~Crea un duplicado de un objeto.
@@ -204,8 +204,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135021  name: 5. ¿Qué es un nodo en Inkscape?
-::5. ¿Qué es un nodo en Inkscape?::{
+// question: 2135021  name: 5::Qué es un nodo en Inkscape?
+::Pregunta 5::Qué es un nodo en Inkscape?{
 	=Un punto que define la forma de un objeto vectorial.
 	~Una herramienta para aplicar filtros.
 	~Un área de la pantalla para editar el color.
@@ -213,8 +213,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135022  name: 6. ¿Cómo puedes alinear varios objetos en Inkscape?
-::6. ¿Cómo puedes alinear varios objetos en Inkscape?::{
+// question: 2135022  name: 6::Cómo puedes alinear varios objetos en Inkscape?
+::Pregunta 6::Cómo puedes alinear varios objetos en Inkscape?{
 	=Usando la opción "Alinear y distribuir".
 	~Aplicando la herramienta de "Relleno".
 	~Exportando los objetos como un solo archivo.
@@ -222,8 +222,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135023  name: 7. ¿Qué función tiene la herramienta de "Transformación" en Inkscape?
-::7. ¿Qué función tiene la herramienta de "Transformación" en Inkscape?::{
+// question: 2135023  name: 7::Qué función tiene la herramienta de "Transformación" en Inkscape?
+::Pregunta 7::Qué función tiene la herramienta de "Transformación" en Inkscape?{
 	=Permite mover, rotar y escalar objetos.
 	~Combina varios objetos en uno solo.
 	~Aplica un filtro a la imagen.
@@ -231,8 +231,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135024  name: 8. ¿Qué hace la opción "Convertir en trayecto" en Inkscape?
-::8. ¿Qué hace la opción "Convertir en trayecto" en Inkscape?::{
+// question: 2135024  name: 8::Qué hace la opción "Convertir en trayecto" en Inkscape?
+::Pregunta 8::Qué hace la opción "Convertir en trayecto" en Inkscape?{
 	=Convierte texto u objetos en trayectos editables.
 	~Combina dos objetos en uno solo.
 	~Transforma una imagen en un formato raster.
@@ -240,8 +240,8 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 }
 
 
-// question: 2135025  name: 9. ¿Cómo puedes cambiar el color de borde de un objeto en Inkscape?
-::9. ¿Cómo puedes cambiar el color de borde de un objeto en Inkscape?::{
+// question: 2135025  name: 9::Cómo puedes cambiar el color de borde de un objeto en Inkscape?
+::Pregunta 9::Cómo puedes cambiar el color de borde de un objeto en Inkscape?{
 	=Usando la herramienta de "Relleno y borde".
 	~Usando la herramienta de pluma.
 	~Usando la opción "Agrupar".
@@ -250,7 +250,7 @@ $CATEGORY: $course$/top/Edición de Imágenes/INKSCAPE
 
 
 // question: 2135044  name: 30. Si aplicas una opacidad del 70% a un objeto en Inkscape, ¿cuál es el porcentaje de transparencia?
-::30. Si aplicas una opacidad del 70% a un objeto en Inkscape, ¿cuál es el porcentaje de transparencia?::{#
+::Pregunta 30::Si aplicas una opacidad del 70% a un objeto en Inkscape, ¿cuál es el porcentaje de transparencia?{#
 	=%100%30:0#
 }
 

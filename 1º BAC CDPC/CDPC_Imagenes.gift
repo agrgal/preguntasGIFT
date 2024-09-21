@@ -104,7 +104,7 @@ $CATEGORY: $course$/top/Edición de Imágenes/Teoría sobre imágenes
 
 
 // question: 2679398  name: Pregunta 23
-::Pregunta 23::La compresión sin pérdida permite restaurar la imagen original. ¿Es cierto?{
+::Pregunta 23::La compresión sin pérdida permite restaurar la imagen original ¿Es cierto?{
 	=Sí
 	~No
 }
