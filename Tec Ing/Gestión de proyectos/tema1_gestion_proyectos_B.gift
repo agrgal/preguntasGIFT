@@ -1,4 +1,256 @@
 // Preguntas avanzadas para la categoría "GESTIÓN DE PROYECTOS"
 
 // Category: GESTIÓN DE PROYECTOS
-$CATEGORY: $system$/GESTIÓN DE PROYECTOS_B
+$CATEGORY: $system$/GESTIÓN DE PROYECTOS_B_HERRAMIENTAS
+
+// Preguntas numeradas a partir de la 1 en la categoría "HERRAMIENTAS DE GESTIÓN DE PROYECTOS"
+
+::Pregunta 1::
+¿Qué muestra principalmente un diagrama de Gantt?
+{
+=Las tareas de un proyecto y su duración en una línea de tiempo
+~El análisis de riesgos de un proyecto
+~La secuencia de actividades dependientes en un proyecto
+~Los recursos asignados a cada tarea
+}
+
+::Pregunta 2::
+¿Cuál es el principal objetivo de un diagrama PERT?
+{
+=Analizar el tiempo necesario para completar las tareas y optimizar el camino crítico
+~Asignar recursos a las tareas del proyecto
+~Monitorear el avance diario de las tareas
+~Visualizar las tareas en una línea de tiempo
+}
+
+::Pregunta 3::
+¿Verdadero o falso? El diagrama de Gantt se utiliza principalmente para visualizar la planificación de tareas en un calendario.
+{
+=Verdadero
+~Falso
+}
+
+::Pregunta 4::
+En un diagrama de Gantt, ¿cómo se representan las tareas?
+{
+=Mediante barras horizontales a lo largo de una línea de tiempo
+~Con nodos interconectados que representan dependencias
+~Mediante bloques que muestran el consumo de recursos
+~Con símbolos de eventos para indicar los hitos
+}
+
+::Pregunta 5::
+¿Qué característica es específica de un diagrama PERT frente a un diagrama de Gantt?
+{
+=Identificación del camino crítico para determinar la duración total del proyecto
+~Representación visual de las tareas en una línea de tiempo
+~Seguimiento del progreso de las tareas en tiempo real
+~Monitoreo de los recursos asignados a cada tarea
+}
+
+::Pregunta 6::
+¿Verdadero o falso? Un diagrama PERT representa las tareas de un proyecto y sus interdependencias mediante un gráfico de nodos y flechas.
+{
+=Verdadero
+~Falso
+}
+
+::Pregunta 7::
+En un diagrama PERT, ¿qué representa el "camino crítico"?
+{
+=La secuencia más larga de tareas dependientes que determina la duración mínima del proyecto
+~Las tareas que pueden realizarse en paralelo sin influir en la duración del proyecto
+~Las tareas que requieren la mayor cantidad de recursos
+~El conjunto de tareas que tienen mayor flexibilidad en cuanto a fechas de inicio y finalización
+}
+
+::Pregunta 8::
+¿Qué se utiliza principalmente para hacer un seguimiento del progreso diario de un proyecto?
+{
+=Diagrama de Gantt
+~Diagrama PERT
+~Análisis del camino crítico
+~WBS (Work Breakdown Structure)
+}
+
+::Pregunta 9::
+¿Cuál es una ventaja del diagrama de Gantt?
+{
+=Es fácil de entender y ofrece una visión clara del cronograma de tareas
+~Identifica dependencias complejas entre tareas
+~Permite calcular el camino crítico con precisión
+~Analiza las probabilidades de éxito en las tareas del proyecto
+}
+
+::Pregunta 10::
+¿Verdadero o falso? El diagrama de Gantt y el diagrama PERT se pueden usar juntos en la gestión de proyectos.
+{
+=Verdadero
+~Falso
+}
+
+// Preguntas numeradas a partir de la 11 en la categoría "GESTIÓN DE PROYECTOS"
+
+::Pregunta 11::
+¿Qué representan las tarjetas en un tablero Kanban?
+{
+=Los elementos de trabajo
+~Los responsables del proyecto
+~Los hitos del proyecto
+~Las columnas del flujo de trabajo
+}
+
+::Pregunta 12::
+¿Verdadero o falso? Las columnas en un tablero Kanban representan las diferentes etapas del flujo de trabajo.
+{
+=Verdadero
+~Falso
+}
+
+::Pregunta 13::
+¿Cuál es el objetivo principal de limitar el trabajo en curso (WIP) en un tablero Kanban?
+{
+=Evitar cuellos de botella y mejorar la eficiencia
+~Aumentar la cantidad de tareas en progreso
+~Reducir el tiempo dedicado a la planificación
+~Acelerar la creación de nuevas tareas
+}
+
+::Pregunta 14::
+¿Qué son los carriles (swimlanes) en un tablero Kanban?
+{
+=Filas horizontales que organizan el trabajo por actividades, equipos o tipos de servicio
+~Columnas adicionales para tareas urgentes
+~Bloques que indican el tiempo estimado de cada tarea
+~Indicadores del nivel de prioridad de las tareas
+}
+
+::Pregunta 15::
+¿En qué punto del proceso se considera que una tarea está lista para comenzar en el sistema Kanban?
+{
+=Punto de compromiso
+~Límite de trabajo en curso
+~Punto de entrega
+~Carril de prioridad
+}
+
+::Pregunta 16::
+¿Qué es el "punto de entrega" en un tablero Kanban?
+{
+=El final del flujo de trabajo, cuando una tarea está completa
+~El momento en que se asigna un nuevo trabajo al equipo
+~El límite máximo de tareas en una columna
+~El inicio del flujo de trabajo cuando se asignan las tareas
+}
+
+::Pregunta 17::
+¿Verdadero o falso? El objetivo del equipo en un tablero Kanban es llevar las tareas del punto de compromiso al punto de entrega en el menor tiempo posible.
+{
+=Verdadero
+~Falso
+}
+
+::Pregunta 18::
+¿Cuál es un diseño común para las columnas de un tablero Kanban?
+{
+="Por hacer", "En proceso" y "Completado"
+~"Prioridad alta", "Prioridad media" y "Prioridad baja"
+~"Planificación", "Revisión" y "Finalización"
+~"Asignado", "Aprobado" y "En espera"
+}
+
+::Pregunta 19::
+¿Qué información suele aparecer en las tarjetas Kanban?
+{
+=Descripción del trabajo, responsable y fecha límite
+~Resumen del proyecto, cliente y coste total
+~Solo la duración estimada de la tarea
+~La prioridad de la tarea y la fecha de creación
+}
+
+::Pregunta 20::
+¿Verdadero o falso? Los tableros Kanban solo se utilizan en proyectos de software.
+{
+=Falso
+~Verdadero
+}
+// Preguntas numeradas a partir de la 21 en la categoría "SCRUM Y GESTIÓN ÁGIL"
+
+::Pregunta 21::
+¿Qué es un sprint en el marco Scrum?
+{
+=Un periodo de tiempo fijo en el que se desarrolla un conjunto de funcionalidades
+~Una reunión diaria del equipo para discutir el progreso
+~El responsable de definir el product backlog
+~El listado de características del producto
+}
+
+::Pregunta 22::
+¿Verdadero o falso? El product backlog es la lista de tareas específicas que deben completarse durante un sprint.
+{
+=Falso
+~Verdadero
+}
+
+::Pregunta 23::
+¿Cuál es el objetivo principal del evento diario en Scrum, conocido como daily scrum?
+{
+=Revisar el progreso del equipo y discutir los desafíos y tareas próximas
+~Planificar las tareas del sprint
+~Finalizar las tareas pendientes
+~Evaluar el trabajo completado en el sprint anterior
+}
+
+::Pregunta 24::
+¿Quién es responsable de definir y priorizar los elementos del product backlog en Scrum?
+{
+=El product owner
+~El scrum master
+~El equipo de desarrollo
+~El cliente
+}
+
+::Pregunta 25::
+¿Verdadero o falso? Uno de los pilares de Scrum es la autoorganización, donde los equipos se gestionan sin una estructura jerárquica estricta.
+{
+=Verdadero
+~Falso
+}
+
+::Pregunta 26::
+¿Qué representa el "incremento" en Scrum?
+{
+=Un avance hacia el logro del objetivo del producto, que respeta la definición de "terminado"
+~Una nueva tarea añadida al sprint backlog
+~Una modificación en el backlog a mitad del sprint
+~La reunión diaria en la que se revisan los desafíos del equipo
+}
+
+::Pregunta 27::
+¿Cuál es el objetivo principal de la sprint retrospective?
+{
+=Identificar mejoras para futuros sprints y reflexionar sobre el trabajo del equipo
+~Revisar el progreso del sprint actual
+~Planificar las tareas del próximo sprint
+~Añadir nuevas funcionalidades al product backlog
+}
+
+::Pregunta 28::
+¿Verdadero o falso? Uno de los principios de Scrum es el "timeboxing", que implica limitar la duración de las actividades para mejorar la eficiencia.
+{
+=Verdadero
+~Falso
+}
+
+::Pregunta 29::
+¿Cuál de los siguientes roles en Scrum se encarga de asegurar que se sigan los principios y prácticas ágiles, y eliminar obstáculos del equipo?
+{
+=El scrum master
+~El product owner
+~El equipo de desarrollo
+~El cliente
+}
+
+
+
+

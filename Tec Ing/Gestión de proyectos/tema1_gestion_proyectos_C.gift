@@ -1,0 +1,520 @@
+// Preguntas avanzadas para la categoría "GESTIÓN DE PROYECTOS"
+
+// Category: GESTIÓN DE PROYECTOS
+$CATEGORY: $system$/GESTIÓN DE PROYECTOS_C
+
+// Preguntas numeradas a partir de la número 1 en la categoría "Comunicación y Documentación Técnica en Proyectos"
+
+::Pregunta 1::
+¿Cuál es el papel principal de la documentación técnica en los proyectos?
+{
+=Compartir conocimientos, especificaciones, procedimientos y resultados relevantes
+~Aumentar el costo del proyecto
+~Eliminar la necesidad de comunicación verbal
+~Organizar las finanzas del proyecto
+}
+
+::Pregunta 2::
+¿Verdadero o falso? Un plan de comunicación especifica los canales, las personas involucradas y la frecuencia de la comunicación en un proyecto.
+{
+=Verdadero
+~Falso
+}
+
+::Pregunta 3::
+¿Qué tipo de comunicación se da entre personas del mismo rango dentro de un proyecto?
+{
+=Comunicación horizontal
+~Comunicación vertical ascendente
+~Comunicación vertical descendente
+~Comunicación bidireccional
+}
+
+::Pregunta 4::
+¿Cuál de las siguientes es una característica de la comunicación clara en un proyecto?
+{
+=Evitar ambigüedades y malentendidos
+~Utilizar terminología técnica compleja
+~Repetir la misma información varias veces
+~Enfocarse únicamente en la comunicación verbal
+}
+
+::Pregunta 5::
+¿Verdadero o falso? La comunicación informal es menos importante que la comunicación formal en un proyecto.
+{
+=Falso
+~Verdadero
+}
+
+::Pregunta 6::
+¿Qué tipo de comunicación implica que todos los miembros del equipo puedan expresar sus ideas y recibir retroalimentación?
+{
+=Comunicación bidireccional
+~Comunicación horizontal
+~Comunicación formal
+~Comunicación vertical descendente
+}
+
+::Pregunta 7::
+¿Cuál es una ventaja de la tecnología en la comunicación empresarial?
+{
+=Facilitar la comunicación en tiempo real y conectar equipos distribuidos geográficamente
+~Aumentar el tiempo dedicado a la documentación
+~Reducir la necesidad de reuniones en persona
+~Eliminar la necesidad de un plan de comunicación
+}
+
+::Pregunta 8::
+¿Qué es un plan de difusión en un proyecto?
+{
+=El documento que planifica las vías de distribución y visibilización del proyecto
+~Una lista de tareas técnicas a completar
+~Un conjunto de pasos para mejorar la calidad del producto
+~Un informe final que detalla los resultados del proyecto
+}
+
+::Pregunta 9::
+¿Verdadero o falso? Un plan de difusión debe adaptarse constantemente en función de la retroalimentación recibida del público objetivo.
+{
+=Verdadero
+~Falso
+}
+
+::Pregunta 10::
+¿Cuál de los siguientes NO es un paso para crear un plan de difusión?
+{
+~Definir los objetivos de difusión
+~Identificar la audiencia objetivo
+=Asignar las tareas técnicas del proyecto
+~Crear un mensaje central
+}
+
+::Pregunta 11::
+¿Qué canal de difusión es hoy en día uno de los más utilizados para difundir proyectos?
+{
+=Difusión digital a través de Internet
+~Publicidad en televisión
+~Distribución de folletos impresos
+~Presentaciones en persona
+}
+
+::Pregunta 12::
+¿Qué significa SEO en el contexto de la difusión de proyectos?
+{
+=Optimización de motores de búsqueda
+~Organización de eventos de difusión
+~Establecimiento de objetivos de ventas
+~Creación de contenido visual
+}
+
+::Pregunta 13::
+¿Verdadero o falso? El SEO mejora el posicionamiento en los resultados pagados de los buscadores.
+{
+=Falso
+~Verdadero
+}
+
+::Pregunta 14::
+¿Cuáles son los dos pasos en los que se basa el funcionamiento del SEO?
+{
+=Rastreo e indexación
+~Indexación y análisis de datos
+~Diseño gráfico y programación
+~Difusión en redes sociales y publicidad
+}
+
+::Pregunta 15::
+¿Cuál de los siguientes documentos NO es considerado documentación técnica?
+{
+~Manuales de uso
+~Especificaciones técnicas
+=Análisis de marketing
+~Planos del producto
+}
+
+::Pregunta 16::
+¿Qué tipo de documentación es necesaria en proyectos de software?
+{
+=Documentos del código, manuales de instalación y usuario
+~Presupuestos de materiales
+~Planos de construcción
+~Diagramas eléctricos
+}
+
+::Pregunta 17::
+¿Verdadero o falso? La documentación técnica debe ser comprensible para todo el equipo, no solo para expertos técnicos.
+{
+=Verdadero
+~Falso
+}
+
+::Pregunta 18::
+¿Cuál es el primer paso para elaborar documentación técnica en un proyecto?
+{
+=Identificar los tipos de documentos que contendrá el proyecto
+~Realizar la planificación financiera
+~Distribuir la documentación existente entre los miembros del equipo
+~Crear gráficos para todos los procesos del proyecto
+}
+
+::Pregunta 19::
+¿Qué herramientas son fundamentales para organizar la documentación técnica y facilitar su búsqueda?
+{
+=Índices y tablas de contenido
+~Informes de estado semanales
+~Diagramas de flujo
+~Citas bibliográficas
+}
+
+::Pregunta 20::
+¿Cuál es la importancia de la referenciación en la documentación técnica?
+{
+=Facilitar la búsqueda y recuperación de información
+~Reducir el tiempo de escritura
+~Aumentar el nivel de detalle del proyecto
+~Eliminar la necesidad de reuniones de equipo
+}
+
+::Pregunta 21::
+¿Qué conjunto de reglas define el formato y la citación de documentos académicos?
+{
+=Normas APA
+~Normas IEEE
+~ISO 9001
+~Guías de estilo de Harvard
+}
+
+::Pregunta 22::
+¿Verdadero o falso? Las normas APA son utilizadas para definir el formato de la documentación técnica en proyectos empresariales.
+{
+=Falso
+~Verdadero
+}
+
+::Pregunta 23::
+¿Qué herramienta es ampliamente utilizada para crear diapositivas con texto, imágenes y gráficos?
+{
+=Microsoft PowerPoint
+~Google Docs
+~LaTeX
+~Canva
+}
+
+::Pregunta 24::
+¿Qué herramienta de presentación permite la colaboración en tiempo real y es una alternativa a PowerPoint?
+{
+=Google Slides
+~Adobe InDesign
+~Prezi
+~Genially
+}
+
+::Pregunta 25::
+¿Cuál de las siguientes herramientas es conocida por su enfoque en presentaciones no lineales y dinámicas?
+{
+=Prezi
+~Microsoft PowerPoint
+~Canva
+~LaTeX
+}
+
+::Pregunta 26::
+¿Cuál de estas herramientas es utilizada para crear documentos impresos y presentaciones técnicas personalizadas?
+{
+=Adobe InDesign
+~Google Slides
+~Prezi
+~Microsoft Excel
+}
+
+::Pregunta 27::
+¿Verdadero o falso? Genially es una herramienta en línea que permite crear presentaciones con elementos interactivos.
+{
+=Verdadero
+~Falso
+}
+
+::Pregunta 28::
+¿Qué ventaja ofrece el uso de LaTeX en la elaboración de presentaciones técnicas?
+{
+=Estructuración precisa y control tipográfico
+~Facilidad de uso y diseño gráfico avanzado
+~Capacidades avanzadas de animación
+~Acceso desde cualquier dispositivo con conexión a Internet
+}
+
+::Pregunta 29::
+¿Qué herramienta ofrece una amplia gama de plantillas gráficas para crear presentaciones y permite el trabajo colaborativo?
+{
+=Canva
+~LaTeX
+~Microsoft PowerPoint
+~Google Sheets
+}
+
+::Pregunta 30::
+¿Cuál es el propósito principal de la presentación de un proyecto en el ámbito profesional?
+{
+=Transmitir información relevante y persuadir a la audiencia
+~Finalizar el proyecto de manera oficial
+~Evaluar los costos y beneficios financieros
+~Organizar la estructura del equipo
+}
+
+::Pregunta 31::
+¿Verdadero o falso? Un proyecto puede utilizar tanto herramientas de presentación formales como informales según sus necesidades.
+{
+=Verdadero
+~Falso
+}
+
+::Pregunta 32::
+¿Cuál es el principal propósito de los sistemas de referenciación en la documentación técnica?
+{
+=Hacer más fácil la búsqueda y localización de información relevante
+~Aumentar la complejidad del documento
+~Eliminar la necesidad de un índice
+~Reemplazar los diagramas visuales
+}
+
+::Pregunta 33::
+¿Qué documento técnico contiene información acerca del ciclo de vida de un producto, desde su creación hasta el servicio técnico?
+{
+=Documentación de producto
+~Documentación de software
+~Plan de difusión
+~Plan de presupuesto
+}
+
+::Pregunta 34::
+¿Qué tipo de documento se utiliza para describir el diseño, implementación y mantenimiento de un sistema de software?
+{
+=Documentación técnica de software
+~Documentación financiera
+~Plan de comunicación
+~Documentación de marketing
+}
+
+::Pregunta 35::
+¿Qué papel juegan los gráficos, diagramas y listas en la documentación técnica?
+{
+=Ayudan a organizar y presentar la información de manera clara y lógica
+~Sustituyen el contenido textual en la documentación
+~Hacen innecesario el uso de índices y tablas de contenido
+~Complican la interpretación de la información técnica
+}
+
+::Pregunta 36::
+¿Cuál es el principal beneficio de utilizar plantillas o estándares en la elaboración de documentación técnica?
+{
+=Facilitan la comprensión y consistencia de los documentos
+~Reducen el costo de desarrollo del proyecto
+~Eliminan la necesidad de revisiones
+~Aumentan el tiempo necesario para completar el proyecto
+}
+
+::Pregunta 37::
+¿Verdadero o falso? El rastreo en SEO es el proceso mediante el cual los motores de búsqueda exploran el contenido de un sitio web.
+{
+=Verdadero
+~Falso
+}
+
+::Pregunta 38::
+¿Qué herramienta se utiliza comúnmente en la difusión digital para optimizar el posicionamiento de un sitio web en buscadores?
+{
+=SEO (Search Engine Optimization)
+~SEM (Search Engine Marketing)
+~CMO (Chief Marketing Officer)
+~HTML (HyperText Markup Language)
+}
+
+::Pregunta 39::
+¿Cuál de las siguientes NO es una ventaja del SEO en la difusión de proyectos?
+{
+~Multiplicar el número de visitantes
+~Generar confianza y credibilidad
+~Medir y optimizar resultados
+=Aumentar los costos de mantenimiento del sitio web
+}
+
+::Pregunta 40::
+¿Qué conjunto de técnicas permite mejorar la visibilidad de un sitio web en los resultados orgánicos de los buscadores?
+{
+=SEO
+~Publicidad pagada
+~Optimización gráfica
+~Gestión de redes sociales
+}
+
+::Pregunta 41::
+¿Verdadero o falso? El plan de comunicación de un proyecto solo incluye comunicación formal.
+{
+=Falso
+~Verdadero
+}
+
+::Pregunta 42::
+¿Cuál es un factor clave en la creación de un mensaje central en un plan de difusión?
+{
+=Que sea claro, conciso y destaque los beneficios del proyecto
+~Que sea complejo y técnico
+~Que sea largo y detallado
+~Que solo mencione las limitaciones del proyecto
+}
+
+::Pregunta 43::
+¿Qué debe incluir un plan de difusión para medir su efectividad?
+{
+=Métricas relevantes para evaluar si se están alcanzando los objetivos de difusión
+~Presupuestos financieros del proyecto
+~Lista de participantes del equipo de proyecto
+~Un análisis detallado del mercado
+}
+
+::Pregunta 44::
+¿Verdadero o falso? La difusión de proyectos solo se realiza a través de medios en línea.
+{
+=Falso
+~Verdadero
+}
+
+::Pregunta 45::
+¿Qué tipo de comunicación en un proyecto se basa en la colaboración y el trabajo en equipo?
+{
+=Comunicación colaborativa
+~Comunicación vertical ascendente
+~Comunicación formal
+~Comunicación externa
+}
+
+::Pregunta 46::
+¿Cuál es una ventaja del trabajo colaborativo en un proyecto?
+{
+=Promueve la sinergia y maximiza el rendimiento colectivo
+~Elimina la necesidad de reuniones de equipo
+~Reduce la cantidad de documentos a preparar
+~Facilita la finalización del proyecto de forma individual
+}
+
+::Pregunta 47::
+¿Qué herramienta es ideal para diseñar presentaciones visualmente atractivas de forma rápida y sencilla?
+{
+=Canva
+~LaTeX
+~Microsoft Excel
+~Google Docs
+}
+
+::Pregunta 48::
+¿Cuál es el beneficio de la retroalimentación en la comunicación de un equipo de proyecto?
+{
+=Ayuda a ajustar el enfoque y mejorar el proceso de trabajo
+~Evita la colaboración entre miembros del equipo
+~Elimina la necesidad de reuniones formales
+~Reduce la cantidad de información transmitida
+}
+
+::Pregunta 49::
+¿Verdadero o falso? En un plan de difusión, es importante establecer fechas límite y asignar responsabilidades.
+{
+=Verdadero
+~Falso
+}
+
+::Pregunta 50::
+¿Cuál es una de las funciones principales de la indexación en el SEO?
+{
+=Agregar páginas web a los índices de los motores de búsqueda para ser consideradas en los resultados
+~Generar informes financieros del sitio web
+~Optimizar los gráficos del sitio web
+~Controlar el presupuesto de publicidad en línea
+}
+
+// Preguntas numeradas a partir de la número 51 en la categoría "Comunicación y Documentación Técnica en Proyectos"
+
+::Pregunta 51::
+¿Cuál es el objetivo principal de establecer un flujo de comunicación ascendente en un proyecto?
+{
+=Proporcionar retroalimentación desde los niveles operativos hacia la dirección para la toma de decisiones informadas
+~Asegurar que las instrucciones de los directivos lleguen a todo el equipo
+~Difundir los logros del proyecto al público externo
+~Establecer una red de contactos dentro del equipo
+}
+
+::Pregunta 52::
+¿Verdadero o falso? La efectividad de un plan de comunicación puede medirse mediante el análisis de la velocidad y la precisión con la que se transmite la información.
+{
+=Verdadero
+~Falso
+}
+
+::Pregunta 53::
+¿Qué factor clave debe tenerse en cuenta al seleccionar los canales de comunicación en un proyecto internacional con equipos distribuidos geográficamente?
+{
+=La accesibilidad y viabilidad tecnológica en todas las regiones involucradas
+~La jerarquía del equipo en cada país
+~La preferencia del equipo directivo
+~La diferencia horaria entre las regiones
+}
+
+::Pregunta 54::
+¿Cuál de las siguientes es una ventaja de utilizar documentación técnica modular en proyectos complejos?
+{
+=Permite la actualización y revisión de componentes individuales sin necesidad de modificar todo el conjunto documental
+~Reduce el tiempo de redacción al consolidar toda la información en un solo documento
+~Facilita la interpretación para personas sin conocimientos técnicos
+~Elimina la necesidad de seguimiento y control documental
+}
+
+::Pregunta 55::
+¿Verdadero o falso? En proyectos de larga duración, la documentación técnica debe revisarse y actualizarse solo al finalizar el proyecto para asegurar consistencia.
+{
+=Falso
+~Verdadero
+}
+
+::Pregunta 56::
+¿Qué se entiende por "comunicación sincrónica" en el contexto de un equipo de proyecto distribuido globalmente?
+{
+=Intercambio de información en tiempo real, como videoconferencias o llamadas en línea
+~Intercambio de correos electrónicos que no requieren respuesta inmediata
+~Actualización de documentación técnica en servidores compartidos
+~Uso de plataformas de trabajo colaborativo para distribuir tareas
+}
+
+::Pregunta 57::
+¿Cuál es uno de los mayores riesgos de una mala planificación de la difusión en proyectos innovadores?
+{
+=Que los resultados del proyecto no lleguen a los grupos de interés clave y se pierda su impacto
+~Que la información sea mal interpretada por los miembros del equipo
+~Que se invierta demasiado tiempo en la fase de desarrollo del producto
+~Que el proyecto no alcance el presupuesto planificado
+}
+
+::Pregunta 58::
+¿Qué estrategia es clave para gestionar eficientemente la comunicación en proyectos con cambios rápidos y continuos en los requerimientos?
+{
+=Implementar reuniones diarias o "scrums" para evaluar el progreso y ajustar las prioridades
+~Elaborar informes semanales de estado para informar a la dirección
+~Evitar el uso de herramientas de seguimiento para ahorrar tiempo
+~Reducir el número de reuniones para enfocarse más en las tareas
+}
+
+::Pregunta 59::
+¿Cuál es el propósito de incluir "glosarios técnicos" en la documentación de un proyecto?
+{
+=Asegurar que todos los miembros del equipo, independientemente de su nivel técnico, comprendan términos clave utilizados en el proyecto
+~Facilitar la traducción de documentos a otros idiomas
+~Reducir la cantidad de documentos producidos
+~Optimizar el tiempo de lectura para expertos técnicos
+}
+
+::Pregunta 60::
+¿Qué técnica de SEO es fundamental para mejorar la relevancia de un sitio web en los resultados de búsqueda a largo plazo, sin depender de campañas de publicidad pagadas?
+{
+=Optimización de contenido mediante palabras clave relevantes y estrategias de enlazado interno
+~Aumentar el tráfico del sitio a través de anuncios pagados
+~Mejorar el diseño gráfico y la experiencia visual del sitio
+~Publicar contenido multimedia en las redes sociales
+}
