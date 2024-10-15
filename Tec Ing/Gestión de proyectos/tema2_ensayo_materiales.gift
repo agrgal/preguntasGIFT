@@ -1,0 +1,136 @@
+// Categoría: B.1. Estructura interna. Propiedades mecánicas y procedimientos de ensayo/Cuestiones teóricas
+
+// Category: GESTIÓN DE PROYECTOS
+$CATEGORY: $course$/top/B.1. Estructura interna. Propiedades mecánicas y procedimientos de ensayo
+
+$CATEGORY: $course$/top/B.1. Estructura interna. Propiedades mecánicas y procedimientos de ensayo/Cuestiones teóricas
+
+::Q1:: En un ensayo de tracción, el límite elástico convencional (σ0.2) se define como...
+{
+    =La tensión que produce una deformación plástica permanente del 0.2%
+    ~La tensión máxima que soporta el material antes de romperse
+    ~La tensión en el punto de fractura
+    ~La tensión que produce una deformación del 0.2% en la región elástica
+}
+
+::Q2:: En el ensayo de dureza Brinell, ¿qué se mide para calcular la dureza?
+{
+    =El diámetro de la huella dejada por la bola
+    ~La profundidad de penetración de la bola
+    ~La fuerza necesaria para penetrar una profundidad específica
+    ~El tiempo que tarda la bola en penetrar el material
+}
+
+::Q3:: ¿Cuál es la principal ventaja del ensayo de dureza Vickers sobre el Brinell?
+{
+    =Puede usarse en un rango más amplio de durezas y espesores de material
+    ~Es más rápido de realizar
+    ~Requiere menos preparación de la superficie
+    ~Proporciona resultados más precisos para materiales muy blandos
+}
+
+::Q4:: La resiliencia de un material está relacionada con...
+{
+    =Su capacidad para absorber energía en la región elástica
+    ~Su resistencia a la fractura frágil
+    ~Su ductilidad
+    ~Su resistencia a la fatiga
+}
+
+::Q5:: En el ensayo Rockwell, ¿qué se mide directamente?
+{
+    =La profundidad de penetración permanente
+    ~El diámetro de la huella
+    ~La fuerza necesaria para penetrar el material
+    ~El tiempo de aplicación de la carga
+}
+
+::Q6:: En un ensayo de fatiga, ¿qué factores influyen en la vida a fatiga de un componente? (Seleccione todas las correctas)
+{
+    ~%33.33333%La amplitud de la tensión aplicada
+    ~%33.33333%La presencia de defectos superficiales
+    ~%33.33333%El ambiente (por ejemplo, corrosivo o no)
+    ~%-100%El color del material
+}
+
+::Q7:: En el diagrama de Wöhler, ¿qué representa el eje horizontal?
+{
+    =El número de ciclos hasta la rotura
+    ~La amplitud de la tensión aplicada
+    ~El tiempo hasta la rotura
+    ~La deformación del material
+}
+
+::Q8:: ¿Qué información proporciona el módulo de Young en un ensayo de tracción?
+{
+    =La rigidez del material en la región elástica
+    ~La ductilidad del material
+    ~La resistencia máxima del material
+    ~La tenacidad del material
+}
+
+::Q9:: En un ensayo de dureza Brinell, ¿cómo afecta el aumento de la carga aplicada al valor de dureza obtenido, manteniendo constante el diámetro de la bola?
+{
+    =Aumenta el valor de dureza
+    ~Disminuye el valor de dureza
+    ~No afecta el valor de dureza
+    ~Aumenta la dureza solo para materiales duros
+}
+
+::Q10:: ¿Qué es el límite de fatiga en el diagrama de Wöhler?
+{
+    =La tensión por debajo de la cual el material teóricamente no fallará por fatiga
+    ~La tensión máxima que puede soportar el material en un ciclo
+    ~El número máximo de ciclos que puede soportar el material
+    ~La tensión que causa la falla en exactamente 10^6 ciclos
+}
+
+::Q11:: En el ensayo Vickers, ¿por qué se miden las dos diagonales de la huella?
+{
+    =Para promediarlas y obtener un resultado más preciso
+    ~Para calcular el área de la huella
+    ~Para determinar la anisotropía del material
+    ~Para verificar la calibración del equipo
+}
+
+::Q12:: ¿Qué representa la tenacidad en un material?
+{
+    =La capacidad para absorber energía antes de la fractura
+    ~La resistencia a la deformación plástica
+    ~La capacidad de recuperar su forma original tras la deformación
+    ~La resistencia a la iniciación de grietas
+}
+
+::Q13:: En un ensayo de tracción, ¿qué representa el fenómeno de estricción?
+{
+    =La reducción localizada de la sección transversal de la probeta
+    ~El aumento de la longitud de la probeta
+    ~La formación de grietas superficiales
+    ~La recuperación elástica tras la descarga
+}
+
+::Q14:: ¿Cuál es la principal diferencia entre los ensayos de dureza Rockwell B y C?
+{
+    =El tipo de penetrador y la carga aplicada
+    ~El tiempo de aplicación de la carga
+    ~El método de medición de la huella
+    ~La preparación de la superficie de la muestra
+}
+
+
+::Q15:: En un ensayo de tracción, ¿qué representa el fenómeno de cedencia o fluencia?
+{
+    =Una fluctuación en la carga durante la transición elástica-plástica
+    ~El punto de fractura del material
+    ~El inicio de la estricción
+    ~La recuperación elástica tras la descarga
+}
+
+::Q16:: En un ensayo Charpy, ¿qué se mide directamente?6
+{
+    =La energía absorbida durante el impacto
+    ~La fuerza máxima durante el impacto
+    ~La velocidad de propagación de la grieta
+    ~La deformación de la probeta
+}
+
