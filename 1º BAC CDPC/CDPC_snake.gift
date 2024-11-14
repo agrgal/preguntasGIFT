@@ -1,0 +1,371 @@
+// question: 0  name: Switch category to $course$/top/Edición de Imágenes
+$CATEGORY: $course$/top/Processing
+
+
+// question: 0  name: Switch category to $course$/top/Edición de Imágenes/GIMP
+$CATEGORY: $course$/top/Processing/Snake
+
+// Pregunta 1
+::Q1:: ¿Qué biblioteca se utiliza para manejar el sonido en el juego Snake?
+{
+    =Minim
+    ~Processing
+    ~Java Sound API
+    ~AudioPlayer
+}
+
+// Pregunta 2
+::Q2:: ¿Cuál es la función principal que se ejecuta continuamente en el juego Snake?
+{
+    =draw()
+    ~loop()
+    ~update()
+    ~run()
+}
+
+// Pregunta 3
+::Q3:: ¿Qué método se utiliza para detectar si la serpiente ha comido una fruta?
+{
+    =colisionCabezaFruta()
+    ~eatFruit()
+    ~checkCollision()
+    ~fruitEaten()
+}
+
+// Pregunta 4
+::Q4:: ¿Qué ocurre cuando la serpiente come una fruta?
+{
+    ~%33.33333% La puntuación aumenta
+    ~%33.33333% La longitud de la serpiente aumenta
+    ~%33.33333% La velocidad del juego aumenta
+    ~%-100% El juego termina
+}
+
+// Pregunta 5
+::Q5:: ¿Qué método se utiliza para reiniciar el juego?
+{
+    =reinicio()
+    ~restart()
+    ~newGame()
+    ~reset()
+}
+
+// Pregunta 6
+::Q6:: ¿Cuál es la condición principal para que el juego termine?
+{
+    =La serpiente colisiona consigo misma
+    ~La serpiente come todas las frutas
+    ~El jugador presiona la tecla 'Q'
+    ~La serpiente alcanza una longitud máxima
+}
+
+// Pregunta 7
+::Q7:: ¿Qué clase representa la unidad básica del juego Snake?
+{
+    =Cuadrado
+    ~Snake
+    ~Marco
+    ~Fruta
+}
+
+// Pregunta 8
+::Q8:: ¿Cómo se representa la serpiente en el juego?
+{
+    =Como una lista de objetos Cuadrado
+    ~Como un único objeto Snake
+    ~Como una matriz 2D
+    ~Como una cadena de caracteres
+}
+
+// Pregunta 9
+::Q9:: ¿Qué método de la clase Snake se encarga de mover la serpiente?
+{
+    =mover()
+    ~update()
+    ~move()
+    ~changePosition()
+}
+
+// Pregunta 10
+::Q10:: ¿Cómo se determina la dirección de la serpiente?
+{
+    =Mediante valores numéricos (0, 1, 2, 3)
+    ~Usando strings ("up", "down", "left", "right")
+    ~Con valores booleanos
+    ~Utilizando coordenadas (x, y)
+}
+
+// Pregunta 11
+::Q11:: ¿Qué método se utiliza para detectar si la serpiente ha colisionado consigo misma?
+{
+    =autoColision()
+    ~selfCollision()
+    ~checkSelfCollision()
+    ~isColliding()
+}
+
+// Pregunta 12
+::Q12:: ¿Cómo se genera la posición de una nueva fruta?
+{
+    =Aleatoriamente dentro del área de juego
+    ~En una posición fija predeterminada
+    ~En el centro de la pantalla
+    ~En los bordes del área de juego
+}
+
+// Pregunta 13
+::Q13:: ¿Qué clase se encarga de crear el borde del área de juego?
+{
+    =Marco
+    ~Border
+    ~GameArea
+    ~Boundary
+}
+
+// Pregunta 14
+::Q14:: ¿Qué método se utiliza para aumentar la longitud de la serpiente?
+{
+    =alargar()
+    ~grow()
+    ~increaseLength()
+    ~addSegment()
+}
+
+// Pregunta 15
+::Q15:: ¿Cómo se representa visualmente la cabeza de la serpiente?
+{
+    =Con un color diferente (rojo)
+    ~Con un tamaño mayor
+    ~Con una forma diferente
+    ~No se diferencia del resto del cuerpo
+}
+
+// Pregunta 16
+::Q16:: ¿Qué ocurre cuando la serpiente choca con el borde del área de juego?
+{
+    =Cambia de dirección girando 90 grados
+    ~El juego termina
+    ~Atraviesa el borde y aparece en el lado opuesto
+    ~Rebota en el borde
+}
+
+// Pregunta 17
+::Q17:: ¿Qué método se utiliza para determinar en qué cuadrante de la pantalla está la cabeza de la serpiente?
+{
+    =cuadrante()
+    ~getQuadrant()
+    ~checkPosition()
+    ~locationCheck()
+}
+
+// Pregunta 18
+::Q18:: ¿Cómo se maneja el aumento de dificultad en el juego?
+{
+    =Aumentando la velocidad del juego
+    ~Reduciendo el tamaño de la fruta
+    ~Añadiendo obstáculos
+    ~Disminuyendo el tamaño del área de juego
+}
+
+// Pregunta 19
+::Q19:: ¿Qué clase se utiliza para representar la fruta en el juego?
+{
+    =Fruta
+    ~Cuadrado
+    ~Marco
+    ~Objeto
+}
+
+// Pregunta 20
+::Q20:: ¿Cómo se detecta la entrada del usuario para cambiar la dirección de la serpiente?
+{
+    =Usando la función keyPressed y keyCode
+    ~Con un listener de teclado
+    ~Mediante clicks del mouse
+    ~A través de botones en la interfaz
+}
+
+// Pregunta 21
+::Q21:: ¿Qué método se utiliza para dibujar los elementos del juego en la pantalla?
+{
+    =mostrar()
+    ~draw()
+    ~render()
+    ~display()
+}
+
+// Pregunta 22
+::Q22:: ¿Cómo se calcula la puntuación en el juego?
+{
+    =Sumando puntos cada vez que la serpiente come una fruta
+    ~Basándose en el tiempo de juego
+    ~Contando el número de giros realizados
+    ~Multiplicando la longitud de la serpiente por un factor
+}
+
+// Pregunta 23
+::Q23:: ¿Qué función se utiliza para inicializar el juego y sus componentes?
+{
+    =setup()
+    ~init()
+    ~start()
+    ~begin()
+}
+
+// Pregunta 24
+::Q24:: ¿Cómo se maneja la colisión entre la serpiente y la fruta?
+{
+    =Comparando las coordenadas de la cabeza de la serpiente y la fruta
+    ~Usando un sistema de detección de colisiones basado en píxeles
+    ~Mediante un algoritmo de intersección de rectángulos
+    ~Utilizando una grilla para rastrear posiciones
+}
+
+// Pregunta 25
+::Q25:: ¿Qué método de la clase Snake determina si la serpiente está en la mitad superior o inferior de la pantalla?
+{
+    =hemisferioNS()
+    ~hemisferioEO()
+    ~cuadrante()
+    ~topOrBottom()
+}
+
+// Pregunta 26
+::Q26:: ¿Cómo se representa el marco del área de juego?
+{
+    =Como una lista de objetos Cuadrado
+    ~Como una lista de objetos Marco
+    ~Igual que la Fruta, pero de otro color.
+    ~Como un objeto rectangular
+}
+
+// Pregunta 27
+::Q27:: ¿Qué ocurre cuando el juego termina?
+{
+    ~%25% Se muestra la puntuación final
+    ~%25% Se detiene la música de fondo
+    ~%25% Se reproduce un sonido de "game over"
+    ~%25% Se ofrece la opción de reiniciar o salir
+}
+
+// Pregunta 28
+::Q28:: ¿Cómo se maneja el crecimiento de la serpiente en el código?
+{
+    =Añadiendo nuevos objetos Cuadrado a la lista miSnake
+    ~Aumentando el tamaño de los cuadrados existentes
+    ~Cambiando un valor numérico de longitud
+    ~Creando una nueva serpiente más larga
+}
+
+// Pregunta 29
+::Q29:: ¿Qué método se utiliza para determinar si un punto está dentro del área ocupada por la serpiente?
+{
+    =colisionZonaSnake()
+    ~autoColision()
+    ~colisionFrutaSnake()
+    ~Funciones matemáticas()
+}
+
+// Pregunta 30
+::Q30:: ¿Con qué instrucción se maneja la velocidad del juego en el código?
+{
+    =Ajustando el frameRate
+    ~Usando un temporizador interno
+    ~Modificando la velocidad de movimiento de la serpiente
+    ~Cambiando el intervalo de actualización del juego
+}
+
+// Pregunta 31
+::Q31:: En la función alargar de la clase Snake, ¿qué hace la siguiente línea de código?
+\[ this.longitud\=this.miSnake.size(); \]
+{
+    =Actualiza la longitud total de la serpiente
+    ~Añade un nuevo cuadrado a la serpiente
+    ~Cambia el color de la serpiente
+    ~Aumenta la velocidad de la serpiente
+}
+
+// Pregunta 32
+::Q32:: En la función `mover` de la clase Snake, ¿qué propósito tiene la siguiente expresión?
+\[ nuevox \= miSnake.get(0).x + (int(di\=\=1))*this.ancho - (int(di\=\=3))*this.ancho; \]
+{
+    =Calcula la nueva coordenada x de la cabeza de la serpiente basándose en la dirección
+    ~Determina si la serpiente ha chocado con el borde
+    ~Cambia el tamaño de la serpiente
+    ~Actualiza la posición de todos los segmentos de la serpiente
+}
+
+// Pregunta 33
+::Q33:: ¿Qué efecto tiene el siguiente código en la función `mover`?
+\[ di \= (di+1)%4; \]
+{
+    =Hace que la serpiente gire 90 grados en sentido horario al chocar con el borde
+    ~Aumenta la velocidad de la serpiente
+    ~Cambia la dirección de la serpiente aleatoriamente
+    ~Hace que la serpiente retroceda
+}
+
+// Pregunta 34
+::Q34:: En la función `alargar`, ¿por qué se usa un bucle for que comienza desde `this.longitud`?
+{
+    =Para añadir nuevos segmentos al final de la serpiente existente
+    ~Para cambiar el color de los segmentos existentes
+    ~Para mover toda la serpiente a una nueva posición
+    ~Para eliminar segmentos de la serpiente
+}
+
+// Pregunta 35
+::Q35:: ¿Con qué variable se maneja la velocidad del juego en el código?
+{
+    =vel
+    ~puntos
+    ~velocidad
+    ~speed
+}
+
+// Pregunta 36
+::Q36:: En la función cuadrante, ¿qué significa el valor de retorno 2?
+{
+=La cabeza de la serpiente está en el cuadrante inferior derecho
+~La serpiente se está moviendo hacia la derecha
+~La serpiente tiene una longitud de 2 unidades
+~La serpiente ha comido 2 frutas
+} 
+
+// Pregunta 37
+::Q37:: ¿Qué propósito tiene el método zonaSnake en la clase Snake?
+{
+=Calcula las coordenadas mínimas y máximas ocupadas por la serpiente
+~Determina si la serpiente ha chocado consigo misma
+~Dibuja un borde alrededor de la serpiente
+~Calcula la puntuación del jugador
+} 
+
+// Pregunta 38
+::Q38:: En la función colisionZonaSnake, ¿qué representa el array a?
+{
+=Las coordenadas mínimas y máximas de la zona ocupada por la serpiente
+~Las coordenadas de todas las frutas en el juego
+~Las direcciones posibles de movimiento de la serpiente
+~Los colores de los diferentes segmentos de la serpiente
+} 
+
+// Pregunta 39
+::Q39:: ¿Qué efecto tiene el siguiente código en el constructor de la clase Snake?
+\[ this.miSnake.get(0).c \= color(255,25,25); \]
+{
+=Cambia el color de la cabeza de la serpiente a rojo
+~Aumenta la velocidad de la serpiente
+~Añade un nuevo segmento a la serpiente
+~Cambia la dirección inicial de la serpiente
+} 
+
+// Pregunta 40
+::Q40:: En la función autoColision, ¿por qué el bucle for comienza desde miSnake.size() - 1 y termina en 1?
+{
+=Para comprobar si la cabeza ha colisionado con cualquier otro segmento del cuerpo
+~Para mover la serpiente hacia atrás
+~Para eliminar el último segmento de la serpiente
+~Para cambiar el color de todos los segmentos excepto la cabeza
+}
+
