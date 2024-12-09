@@ -1,0 +1,154 @@
+// Preguntas avanzadas para la categoría "GESTIÓN DE PROYECTOS"
+
+// question: 0  name: Switch category to $course$/top/Edición de Imágenes
+$CATEGORY: $course$/top/Bases de Datos
+
+
+// question: 0  name: Switch category to $course$/top/Edición de Imágenes/GIMP
+$CATEGORY: $course$/top/Bases de Datos/Big Data
+// Preguntas numeradas a partir de la número 1 en la categoría "Comunicación y Documentación Técnica en Proyectos"
+
+::1:: ¿Cuáles de las siguientes son "V" del Big Data? {
+    ~%25%Volumen
+    ~%25%Velocidad
+    ~%25%Variedad
+    ~%25%Veracidad
+}
+
+::2:: La "Veracidad" en Big Data se refiere a... {
+    ~%33.33333%La calidad de los datos recopilados
+    ~%33.33333%La fiabilidad de los datos
+    ~%33.33333%La precisión de los datos
+    ~%-100%La velocidad a la que se procesan los datos
+}
+
+::3:: El "Valor" en el contexto de Big Data representa... {
+    ~%50%La capacidad de extraer información útil de los datos
+    ~%50%La capacidad de extraer información beneficiosa para la toma de decisiones
+    ~%-100%El costo monetario de almacenar grandes volúmenes de datos
+    ~%-100%El volumen total de datos procesados
+}
+
+::4:: Una base de datos distribuida (BDD) se caracteriza por... {
+    ~%33.33333%Estar formada por múltiples computadoras o nodos conectados en red
+    ~%33.33333%Permitir que cada nodo tenga autonomía local
+    ~%33.33333%Funcionar como una única base de datos lógica
+    ~%-100%Estar almacenada en un único servidor centralizado
+}
+
+::5:: Las ventajas de las bases de datos distribuidas incluyen... {
+    ~%33.33333%Mayor disponibilidad
+    ~%33.33333%Mayor confiabilidad
+    ~%33.33333%Mayor eficiencia en el acceso a la información
+    ~%-100%Simplicidad en la gestión y sincronización
+}
+
+::6:: Las bases de datos relacionales se caracterizan por... {
+    ~%33.33333%Organizar los datos en tablas compuestas por filas y columnas
+    ~%33.33333%Establecer conexiones lógicas entre diferentes tablas
+    ~%33.33333%Utilizar el lenguaje SQL para manipular y consultar los datos
+    ~%-100%Almacenar datos exclusivamente en formato de texto plano
+}
+
+::7:: En las bases de datos relacionales... {
+    ~%33.33333%Se utilizan claves primarias como identificadores únicos para cada registro
+    ~%33.33333%Se emplean claves externas para establecer relaciones entre tablas
+    ~%33.33333%Se garantiza la integridad de los datos
+    ~%-100%No se permite la escalabilidad del sistema
+}
+
+::8:: ¿Cuál de las siguientes NO es una de las "V" del Big Data?
+{
+    ~Volumen
+    ~Velocidad
+    ~Variedad
+    =Virtualización
+}
+
+::9:: La "Visualización" en Big Data se refiere a...
+{
+    =La presentación clara y comprensible de los datos procesados
+    ~La capacidad de ver físicamente los servidores de datos
+    ~El proceso de codificación de datos en formato visual
+    ~La habilidad de predecir tendencias futuras
+}
+
+::10:: Una ventaja de las bases de datos distribuidas es...
+{
+    =Mayor disponibilidad y confiabilidad de los datos
+    ~Simplicidad en la gestión y sincronización
+    ~Menor costo de implementación
+    ~Eliminación completa de problemas de seguridad
+}
+
+::11:: En las bases de datos relacionales, una clave primaria...
+{
+    =Es un identificador único para cada registro en una tabla
+    ~Siempre debe ser un número entero
+    ~Puede repetirse en múltiples registros
+    ~No es necesaria para establecer relaciones entre tablas
+}
+
+::12:: Las bases de datos relacionales se caracterizan por...
+{
+    =Organizar los datos en tablas compuestas por filas y columnas
+    ~Almacenar datos exclusivamente en formato de texto plano
+    ~Utilizar un lenguaje de programación propietario para las consultas
+    ~No permitir relaciones entre diferentes conjuntos de datos
+}
+
+::13:: El lenguaje utilizado principalmente en las bases de datos relacionales es...
+{
+    =SQL (Structured Query Language)
+    ~HTML
+    ~Python
+    ~Java
+}
+
+::14:: Big Data se refiere a...
+{
+    =Enormes volúmenes de datos que superan la capacidad de procesamiento de herramientas tradicionales
+    ~Una empresa tecnológica especializada en almacenamiento de datos
+    ~Un tipo específico de base de datos relacional
+    ~Un lenguaje de programación para análisis de datos
+}
+
+::15:: ¿Cuál de las siguientes NO es una de las "V" del Big Data?
+{
+    ~Volumen
+    ~Velocidad
+    ~Variedad
+    =Virtualización
+}
+
+::16:: La "Veracidad" en Big Data se refiere a...
+{
+    =La calidad, fiabilidad y precisión de los datos recopilados
+    ~La velocidad a la que se procesan los datos
+    ~El volumen total de datos almacenados
+    ~La variedad de fuentes de datos utilizadas
+}
+
+::17:: ¿Qué representa el "Valor" en el contexto de Big Data?
+{
+    =La capacidad de extraer información útil y beneficiosa de los datos
+    ~El costo monetario de almacenar grandes volúmenes de datos
+    ~La velocidad de transmisión de datos entre sistemas
+    ~El volumen total de datos procesados
+}
+
+::18:: Una base de datos distribuida (BDD) se caracteriza por...
+{
+    =Estar formada por múltiples computadoras o nodos conectados en red
+    ~Estar almacenada en un único servidor centralizado
+    ~Utilizar exclusivamente datos estructurados
+    ~Ser accesible solo desde una ubicación física específica
+}
+
+::19:: ¿Cuál de las siguientes NO es una ventaja de las bases de datos distribuidas?
+{
+    ~Mayor disponibilidad
+    ~Mayor confiabilidad
+    ~Mayor eficiencia en el acceso a la información
+    =Simplicidad en la gestión y sincronización
+}
