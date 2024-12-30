@@ -1,0 +1,452 @@
+$CATEGORY: $course$/top/Ciberseguridad
+
+::Q1:: ¿Cuál es el objetivo principal de la ciberseguridad?
+{
+    =Proteger sistemas informáticos, redes, programas y datos contra ataques digitales y accesos no autorizados
+    ~Mejorar la velocidad de las conexiones de internet
+    ~Desarrollar nuevos programas de software
+    ~Aumentar la capacidad de almacenamiento de los dispositivos
+}
+
+::Q2:: ¿Qué es la criptografía?
+{
+    =Una técnica para proteger información mediante la transformación de datos en un formato ilegible para personas no autorizadas
+    ~Un método para aumentar la velocidad de procesamiento de datos
+    ~Una técnica para comprimir archivos
+    ~Un sistema para organizar bases de datos
+}
+
+::Q3:: ¿Qué estudia la criptología?
+{
+    =El estudio científico de la escritura secreta y los métodos para proteger la información
+    ~El diseño de hardware de computadoras
+    ~La programación de aplicaciones móviles
+    ~El desarrollo de inteligencia artificial
+}
+
+::Q4:: El criptoanálisis se dedica a...
+{
+    =Estudiar métodos para obtener el sentido de una información cifrada sin la clave
+    ~Crear nuevos algoritmos de cifrado
+    ~Desarrollar hardware especializado para cifrado
+    ~Mejorar la velocidad de las redes de comunicación
+}
+
+::Q5:: ¿Qué es un criptosistema?
+{
+    =Un conjunto completo de algoritmos y protocolos diseñados para proporcionar seguridad criptográfica
+    ~Un tipo de virus informático
+    ~Un sistema operativo especializado en seguridad
+    ~Una red de computadoras cifrada
+}
+
+::Q6:: ¿Cuál de los siguientes NO es un elemento de un criptosistema?
+{
+    =Velocidad de procesamiento
+    ~Alfabeto
+    ~Espacio de claves
+    ~Transformaciones de cifrado
+}
+
+::Q7:: El cifrado César es un ejemplo de...
+{
+    =Cifrado por sustitución
+    ~Cifrado asimétrico
+    ~Criptografía cuántica
+    ~Esteganografía
+}
+
+::Q8:: ¿Cuál es la principal debilidad del cifrado César?
+{
+    =Es vulnerable a ataques de fuerza bruta debido a las pocas claves posibles
+    ~Requiere mucho poder de procesamiento
+    ~Solo funciona con textos cortos
+    ~No puede cifrar números
+}
+
+::Q9:: El cifrado físico se refiere principalmente a...
+{
+    =Cifrado de dispositivos de almacenamiento físico como discos duros y unidades USB
+    ~Cifrado de documentos impresos
+    ~Protección de edificios y oficinas
+    ~Encriptación de señales de radio
+}
+
+::Q10:: ¿Qué es el cifrado de disco?
+{
+    =Una tecnología que protege la información convirtiéndola en código ilegible en un disco o volumen de disco
+    ~Un método para aumentar la capacidad de almacenamiento de los discos duros
+    ~Una técnica para mejorar la velocidad de lectura/escritura en discos
+    ~Un sistema para organizar archivos en un disco duro
+}
+
+::Q11:: ¿Cuál de los siguientes NO es un beneficio del cifrado físico?
+{
+    =Aumento de la velocidad de acceso a los datos
+    ~Protección de datos en reposo
+    ~Cumplimiento normativo
+    ~Seguridad adicional más allá de las medidas de control de acceso tradicionales
+}
+
+::Q12:: El Advanced Encryption Standard (AES) es un ejemplo de...
+{
+    =Algoritmo de cifrado simétrico
+    ~Algoritmo de cifrado asimétrico
+    ~Protocolo de comunicación segura
+    ~Sistema de gestión de claves
+}
+
+::Q13:: La criptografía de curva elíptica (ECC) ofrece...
+{
+    =Un nivel de protección similar a técnicas tradicionales pero con claves más pequeñas
+    ~Mayor velocidad de cifrado que AES
+    ~Mejor resistencia a ataques cuánticos
+    ~Compatibilidad con todos los dispositivos móviles
+}
+
+::Q14:: ¿Qué permite la criptografía homomórfica?
+{
+    =Realizar operaciones matemáticas en datos cifrados sin necesidad de descifrarlos primero
+    ~Cifrar datos más rápidamente que otros métodos
+    ~Generar claves de cifrado más seguras
+    ~Comprimir datos cifrados para ahorrar espacio
+}
+
+::Q15:: La esteganografía se diferencia de la criptografía en que...
+{
+    =Oculta la existencia misma del mensaje, no solo su contenido
+    ~Utiliza claves más largas para el cifrado
+    ~Solo funciona con archivos de imagen
+    ~Es más rápida en el proceso de cifrado y descifrado
+}
+
+::Q16:: ¿Cuál de los siguientes NO es un tipo común de esteganografía?
+{
+    =Esteganografía cuántica
+    ~Esteganografía de imagen
+    ~Esteganografía de audio
+    ~Esteganografía de texto
+}
+
+::Q17:: El estegoanálisis es...
+{
+    =La disciplina dedicada a la detección de mensajes ocultos mediante esteganografía
+    ~Una técnica para mejorar la calidad de las imágenes digitales
+    ~Un método para comprimir archivos de audio
+    ~Una herramienta para crear mensajes ocultos
+}
+
+::Q18:: ¿Cuál es la principal diferencia entre el cifrado simétrico y asimétrico?
+{
+    =El cifrado simétrico usa una única clave para cifrar y descifrar, mientras que el asimétrico usa un par de claves
+    ~El cifrado simétrico es más seguro que el asimétrico
+    ~El cifrado asimétrico es más rápido que el simétrico
+    ~El cifrado simétrico solo funciona con texto, mientras que el asimétrico funciona con cualquier tipo de dato
+}
+
+::Q19:: El problema de la distribución de claves es principalmente asociado con...
+{
+    =Cifrado simétrico
+    ~Cifrado asimétrico
+    ~Esteganografía
+    ~Criptografía cuántica
+}
+
+::Q20:: RSA es un ejemplo de...
+{
+    =Algoritmo de cifrado asimétrico
+    ~Algoritmo de cifrado simétrico
+    ~Protocolo de comunicación segura
+    ~Sistema de detección de intrusos
+}
+
+::Q21:: ¿Qué es el hacking ético?
+{
+    =Una práctica autorizada y legal que busca identificar vulnerabilidades en sistemas para mejorar su seguridad
+    ~Un tipo de ataque informático
+    ~Una técnica para desarrollar software más rápidamente
+    ~Un método para recuperar contraseñas olvidadas
+}
+
+::Q22:: ¿Cuál de las siguientes NO es una fase típica del hacking ético?
+{
+    =Desarrollo de malware
+    ~Reconocimiento
+    ~Escaneo y enumeración
+    ~Ganar acceso
+}
+
+::Q23:: Los hackers de "Sombrero Blanco" son...
+{
+    =Hackers éticos que trabajan para mejorar la seguridad
+    ~Ciberdelincuentes que buscan causar daño
+    ~Hackers que operan en una zona gris legal
+    ~Novatos en el mundo del hacking
+}
+
+::Q24:: ¿Qué caracteriza a los hackers de "Sombrero Negro"?
+{
+    =Buscan causar daño o beneficiarse ilegalmente
+    ~Trabajan para mejorar la seguridad de los sistemas
+    ~Son contratados por empresas para realizar pruebas de seguridad
+    ~Se enfocan en sistemas telefónicos
+}
+
+::Q25:: Los "Script Kiddies" son...
+{
+    =Principiantes que usan herramientas existentes sin entenderlas completamente
+    ~Hackers expertos en desarrollo de scripts
+    ~Especialistas en seguridad infantil en línea
+    ~Programadores de aplicaciones móviles
+}
+
+::Q26:: ¿Qué es el Information Gathering en el contexto de la ciberseguridad?
+{
+    =La recopilación de información sobre el objetivo utilizando fuentes abiertas
+    ~Un tipo de ataque de denegación de servicio
+    ~Una técnica para cifrar datos
+    ~Un método para desarrollar software seguro
+}
+
+::Q27:: El enfoque pasivo en Information Gathering implica...
+{
+    =Recolectar datos sin interactuar directamente con el objetivo
+    ~Realizar escaneos activos de la red objetivo
+    ~Intentar acceder a sistemas sin autorización
+    ~Enviar correos electrónicos de phishing al objetivo
+}
+
+::Q28:: ¿Qué es el PenTesting?
+{
+    =Simular ataques reales para evaluar la resistencia de los sistemas y redes
+    ~Un método para desarrollar software más rápidamente
+    ~Una técnica para mejorar el rendimiento de las redes
+    ~Un sistema de monitoreo de tráfico de red
+}
+
+::Q29:: ¿Cuál es la principal diferencia entre un simple escaneo de vulnerabilidades y el PenTesting?
+{
+    =El PenTesting busca explotar activamente las vulnerabilidades, mientras que el escaneo solo las identifica
+    ~El PenTesting es más rápido que el escaneo de vulnerabilidades
+    ~El escaneo de vulnerabilidades es ilegal, mientras que el PenTesting es legal
+    ~El PenTesting solo se realiza en redes, mientras que el escaneo de vulnerabilidades se hace en sistemas individuales
+}
+
+::Q30:: Las vulnerabilidades en sistemas informáticos pueden manifestarse como...
+{
+    =Todas las anteriores
+    ~Errores en el software
+    ~Configuraciones incorrectas
+    ~Problemas en la sanitización de datos de entrada del usuario
+}
+
+::Q31:: El análisis forense informático tiene como objetivo principal...
+{
+    =Extraer información de soportes digitales sin alterar su estado original
+    ~Mejorar el rendimiento de los sistemas informáticos
+    ~Desarrollar nuevo software de seguridad
+    ~Entrenar a personal en ciberseguridad
+}
+
+::Q32:: ¿Cuál de las siguientes NO es una etapa típica del proceso de análisis forense?
+{
+    =Desarrollo de nuevas herramientas forenses
+    ~Identificación de evidencias
+    ~Adquisición de datos
+    ~Análisis detallado
+}
+
+::Q35:: El Real Decreto 443/2024 en España establece...
+{
+    =El Esquema Nacional de Seguridad de redes y servicios 5G
+    ~La prohibición de tecnologías de cifrado cuántico
+    ~La obligatoriedad de usar software de código abierto en instituciones públicas
+    ~La creación de un cuerpo de policía cibernética
+}
+
+::Q36:: ¿Cuál es el objetivo principal del Esquema Nacional de Seguridad de redes y servicios 5G?
+{
+    =Garantizar la seguridad y confianza en las comunicaciones electrónicas, especialmente en el contexto de las nuevas tecnologías 5G
+    ~Aumentar la velocidad de las redes móviles
+    ~Reducir el costo de los servicios de telefonía móvil
+    ~Limitar el uso de tecnologías 5G en áreas urbanas
+}
+
+::Q37:: La Estrategia de Seguridad Nacional 2021 de España establece como prioridad...
+{
+    =La creación de una plataforma nacional de notificación y seguimiento de ciberincidentes
+    ~La prohibición de software extranjero en instituciones gubernamentales
+    ~La implementación obligatoria de blockchain en todas las transacciones financieras
+    ~El desarrollo de un sistema operativo nacional
+}
+
+::Q39:: ¿Cuál de las siguientes NO es una función de la Agencia de Ciberseguridad de la Comunidad de Madrid?
+{
+    =Regular el uso de criptomonedas
+    ~Proponer soluciones de ciberseguridad
+    ~Promocionar el talento en ciberseguridad
+    ~Fomentar el emprendimiento en el ecosistema empresarial de ciberseguridad
+}
+
+::Q41:: ¿Qué tipo de cifrado utiliza una única clave tanto para cifrar como para descifrar?
+{
+    =Cifrado simétrico
+    ~Cifrado asimétrico
+    ~Cifrado homomórfico
+    ~Cifrado cuántico
+}
+
+::Q42:: ¿Cuál es la principal ventaja del cifrado asimétrico sobre el simétrico?
+{
+    =Resuelve el problema de la distribución segura de claves
+    ~Es más rápido en el proceso de cifrado y descifrado
+    ~Utiliza menos recursos computacionales
+    ~Es más fácil de implementar
+}
+
+::Q43:: ¿Qué tipo de hackers se enfocan en detener a los Black Hat?
+{
+    =Red Hat
+    ~White Hat
+    ~Grey Hat
+    ~Blue Hat
+}
+
+::Q44:: Los hacktivistas son hackers que...
+{
+    =Utilizan sus habilidades para promover causas políticas o sociales
+    ~Trabajan exclusivamente para agencias gubernamentales
+    ~Se dedican a robar información financiera
+    ~Desarrollan software malicioso por diversión
+}
+
+::Q45:: ¿Cuál es el propósito principal de la esteganografía?
+{
+    =Ocultar la existencia de un mensaje dentro de otro medio
+    ~Cifrar mensajes para que sean ilegibles
+    ~Aumentar la velocidad de transmisión de datos
+    ~Comprimir archivos para ahorrar espacio
+}
+
+::Q46:: ¿Qué técnica de esteganografía utiliza la modificación de los bits menos significativos de los píxeles?
+{
+    =Esteganografía de imagen
+    ~Esteganografía de audio
+    ~Esteganografía de texto
+    ~Esteganografía de video
+}
+
+::Q47:: El estegoanálisis estadístico se basa en...
+{
+    =Análisis de patrones y distribuciones en los archivos sospechosos
+    ~Comparación visual de archivos
+    ~Decodificación manual de mensajes
+    ~Uso de inteligencia artificial para detectar anomalías
+}
+
+::Q48:: ¿Cuál es una de las principales desventajas de la esteganografía?
+{
+    =Capacidad limitada de información oculta
+    ~Alto costo de implementación
+    ~Incompatibilidad con sistemas modernos
+    ~Necesidad de hardware especializado
+}
+
+::Q49:: En el contexto del PenTesting, ¿qué significa "mantener acceso"?
+{
+    =Asegurar una forma de regresar al sistema comprometido
+    ~Mantener una conexión constante con el sistema objetivo
+    ~Preservar los logs del sistema atacado
+    ~Conservar las herramientas utilizadas durante el ataque
+}
+
+::Q50:: ¿Cuál es el propósito principal de "cubrir huellas" en un proceso de hacking ético?
+{
+    =Eliminar evidencias de la intrusión para simular un ataque real
+    ~Borrar todos los datos del sistema objetivo
+    ~Instalar software de monitoreo en el sistema
+    ~Informar al objetivo sobre las vulnerabilidades encontradas
+}
+
+::Q51:: ¿Cuáles de las siguientes son características del cifrado simétrico? (Seleccione todas las correctas)
+{
+    ~%33.33333% Utiliza una única clave para cifrar y descifrar
+    ~%33.33333% Es generalmente más rápido que el cifrado asimétrico
+    ~%33.33333% Es ideal para el cifrado de grandes cantidades de datos
+    ~%-100% Utiliza dos claves diferentes para cifrar y descifrar
+}
+
+::Q52:: En el contexto de la criptografía de clave pública, ¿qué afirmaciones son correctas? (Seleccione todas las que apliquen)
+{
+    ~%25% La clave pública puede ser compartida libremente
+    ~%25% La clave privada debe mantenerse en secreto
+    ~%25% Se utiliza para resolver el problema de distribución de claves
+    ~%25% Es computacionalmente más intensivo que el cifrado simétrico
+    ~%-100% Utiliza la misma clave para cifrar y descifrar
+}
+
+::Q53:: ¿Cuáles de los siguientes son algoritmos de cifrado simétrico? (Seleccione todos los correctos)
+{
+    ~%33.33333% AES (Advanced Encryption Standard)
+    ~%33.33333% DES (Data Encryption Standard)
+    ~%33.33333% Blowfish
+    ~%-100% RSA (Rivest-Shamir-Adleman)
+}
+
+::Q54:: En relación al cifrado asimétrico, ¿qué afirmaciones son verdaderas? (Seleccione todas las correctas)
+{
+    ~%33.33333% RSA es un ejemplo de algoritmo de cifrado asimétrico
+    ~%33.33333% Utiliza un par de claves, una pública y una privada
+    ~%33.33333% Es más lento que el cifrado simétrico para grandes volúmenes de datos
+    ~%-100% Requiere que ambas partes conozcan la clave privada
+}
+
+::Q55:: ¿Cuáles son las aplicaciones comunes del cifrado de clave pública? (Seleccione todas las que apliquen)
+{
+    ~%25% Firma digital
+    ~%25% Intercambio seguro de claves
+    ~%25% Autenticación
+    ~%25% Cifrado de correos electrónicos
+    ~%-100% Cifrado de grandes volúmenes de datos en tiempo real
+}
+
+::Q56:: En cuanto a la seguridad de los algoritmos de cifrado, ¿qué afirmaciones son correctas? (Seleccione todas las que apliquen)
+{
+    ~%33.33333% La longitud de la clave afecta directamente la seguridad del cifrado
+    ~%33.33333% AES con una clave de 256 bits se considera altamente seguro
+    ~%33.33333% La seguridad de RSA depende de la dificultad de factorizar grandes números primos
+    ~%-100% Un algoritmo más complejo siempre es más seguro que uno simple
+}
+
+::Q57:: ¿Cuáles son las ventajas del cifrado híbrido? (Seleccione todas las correctas)
+{
+    ~%33.33333% Combina la velocidad del cifrado simétrico con la seguridad en la distribución de claves del asimétrico
+    ~%33.33333% Permite el cifrado eficiente de grandes volúmenes de datos
+    ~%33.33333% Facilita el intercambio seguro de claves simétricas
+    ~%-100% Elimina completamente la necesidad de gestión de claves
+}
+
+::Q58:: En relación a la criptografía de curva elíptica (ECC), ¿qué afirmaciones son verdaderas? (Seleccione todas las que apliquen)
+{
+    ~%33.33333% Ofrece el mismo nivel de seguridad que RSA con claves más cortas
+    ~%33.33333% Es más eficiente en términos de uso de recursos computacionales
+    ~%33.33333% Se utiliza en algunos protocolos de firma digital
+    ~%-100% Es un tipo de cifrado simétrico
+}
+
+::Q59:: ¿Cuáles son los desafíos asociados con el cifrado simétrico? (Seleccione todos los que apliquen)
+{
+    ~%33.33333% Distribución segura de claves
+    ~%33.33333% Necesidad de un canal seguro para intercambiar claves
+    ~%33.33333% Gestión de un gran número de claves en redes grandes
+    ~%-100% Lentitud en el proceso de cifrado y descifrado
+}
+
+::Q60:: En cuanto a la implementación de sistemas criptográficos, ¿qué prácticas son recomendadas? (Seleccione todas las correctas)
+{
+    ~%25% Utilizar algoritmos de cifrado estandarizados y bien probados
+    ~%25% Implementar una gestión segura de claves
+    ~%25% Actualizar regularmente los sistemas para abordar vulnerabilidades conocidas
+    ~%25% Combinar diferentes técnicas de cifrado para mayor seguridad
+    ~%-100% Desarrollar algoritmos de cifrado propios para mayor seguridad
+}
