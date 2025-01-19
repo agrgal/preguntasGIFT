@@ -1,0 +1,671 @@
+// question: 0  name: Switch category to $course$/top/TEMA 2.  Máquinas. Termodinámica. Máquinas térmicas.
+$CATEGORY: $course$/top/TEMA 2.  Máquinas. Termodinámica. Máquinas térmicas.
+
+
+// question: 0  name: Switch category to $course$/top/TEMA 2.  Máquinas. Termodinámica. Máquinas térmicas./Tema 2. Bloque 3. Máquinas frigoríficas/Teoría sobre máquinas frigoríficas y bombas calor
+$CATEGORY: $course$/top/TEMA 2.  Máquinas. Termodinámica. Máquinas térmicas./Tema 2. Bloque 3. Máquinas frigoríficas/Teoría sobre máquinas frigoríficas y bombas calor
+
+
+// question: 5096935  name: Q1
+::Q1::Las máquinas frigoríficas se basan en la vaporización y licuefacción de fluidos con{
+	=un bajo punto de ebullición
+	~un alto punto de ebullición
+	~un punto de ebullición medio
+	~ninguna de las anteriores
+}
+
+
+// question: 5096944  name: Q12
+::Q12::El proceso que ocurre entre los puntos D y A en el ciclo es{
+	=absorción de calor y vaporización
+	~compresión y aumento de temperatura
+	~condensación y liberación de calor
+	~expansión y disminución de presión
+}
+
+
+// question: 5096945  name: Q13
+::Q13::El trabajo realizado por el compresor se representa en el ciclo entre los puntos{
+	=A y B
+	~B y C
+	~C y D
+	~D y A
+}
+
+
+// question: 5096946  name: Q14
+::Q14::La cesión de calor al foco caliente ocurre en el proceso{
+	=B → C
+	~C → D
+	~D → A
+	~A → B
+}
+
+
+// question: 5096947  name: Q15
+::Q15::En una máquina frigorífica, el foco frío corresponde a{
+	=el evaporador
+	~el condensador
+	~el compresor
+	~el expansor
+}
+
+
+// question: 5096948  name: Q16
+::Q16::El proceso C → D en el ciclo representa{
+	=la expansión del fluido
+	~la compresión del fluido
+	~la vaporización del fluido
+	~la condensación del fluido
+}
+
+
+// question: 5096949  name: Q17
+::Q17::Durante el proceso de expansión (C → D), el fluido refrigerante{
+	=se vaporiza parcialmente
+	~se condensa completamente
+	~aumenta su temperatura
+	~aumenta su presión
+}
+
+
+// question: 5096950  name: Q18
+::Q18::El calor absorbido del foco frío se representa como{
+	=Q2
+	~Q1
+	~W
+	~Q3
+}
+
+
+// question: 5096951  name: Q19
+::Q19::En el ciclo descrito, el fluido pasa de estado líquido a vapor principalmente en{
+	=el evaporador
+	~el condensador
+	~el compresor
+	~el expansor
+}
+
+
+// question: 5096936  name: Q2
+::Q2::El fluido utilizado en las máquinas frigoríficas se denomina{
+	=fluido refrigerante
+	~fluido calefactor
+	~fluido neutro
+	~fluido aislante
+}
+
+
+// question: 5096952  name: Q20
+::Q20::La función principal del compresor en una máquina frigorífica es{
+	=aumentar la presión y temperatura del vapor refrigerante
+	~disminuir la presión del refrigerante
+	~condensar el refrigerante
+	~evaporar el refrigerante
+}
+
+
+// question: 5096953  name: Q21
+::Q21::¿Cuál de las siguientes NO es una cualidad deseable en los líquidos frigoríficos?{
+	~Elevado calor latente de vaporización
+	~Baja presión de condensación
+	~Elevada conductividad térmica
+	=Alta reactividad química
+	~Fácilmente detectable en caso de fugas
+}
+
+
+// question: 5096954  name: Q22
+::Q22::A partir de 2025, se prohibirá el uso de HFC con un PCG igual o superior a{
+	=2500
+	~1500
+	~3000
+	~750
+	~5000
+}
+
+
+// question: 5096955  name: Q23
+::Q23::¿Cuál de los siguientes es considerado un refrigerante natural?{
+	~R-134a
+	~R-410A
+	=CO2 (R-744)
+	~R-32
+	~R-22
+}
+
+
+// question: 5096956  name: Q24
+::Q24::Los HFO (hidrofluoroolefinas) son prometedores porque{
+	~Tienen un alto potencial de agotamiento de la capa de ozono
+	~Son idénticos a los CFC
+	=Ofrecen un equilibrio entre rendimiento y sostenibilidad
+	~Tienen un alto potencial de calentamiento global
+	~Son tóxicos pero muy eficientes
+}
+
+
+// question: 5096957  name: Q25
+::Q25::¿Cuál de las siguientes afirmaciones es FALSA respecto a los refrigerantes actuales?{
+	~Los HFC como el R-134a no dañan la capa de ozono
+	~Los CFC están prohibidos debido a su alto potencial de agotamiento de la capa de ozono
+	~Los HCFC están siendo eliminados gradualmente
+	=Los HFC son la solución definitiva para el futuro de la refrigeración
+	~Se están desarrollando alternativas con bajo potencial de calentamiento global
+}
+
+
+// question: 5096958  name: Q27
+::Q27::En el proceso A-B del ciclo de Carnot de una máquina frigorífica{
+	=El compresor realiza un trabajo W y comprime el fluido refrigerante
+	~El fluido se expande en el evaporador
+	~El fluido cede calor al ambiente en el condensador
+	~El fluido se expande adiabáticamente en el expansor
+}
+
+
+// question: 5096959  name: Q28
+::Q28::¿Cuál de las siguientes afirmaciones es correcta sobre el proceso B-C en el ciclo de Carnot de una máquina frigorífica?{
+	~Es un proceso adiabático
+	~Ocurre en el evaporador
+	=El fluido cede calor Q1 al ambiente o agua de refrigeración
+	~La presión del fluido aumenta
+}
+
+
+// question: 5096960  name: Q29
+::Q29::En el ciclo de Carnot de una máquina frigorífica, el calor Q2 es absorbido por el fluido en{
+	~El proceso A-B
+	~El proceso B-C
+	~El proceso C-D
+	=El proceso D-A
+}
+
+
+// question: 5096937  name: Q3
+::Q3::En el circuito de una máquina frigorífica, la disminución de la presión del fluido se produce en{
+	=el expansor
+	~el compresor
+	~el evaporador
+	~el condensador
+}
+
+
+// question: 5096961  name: Q30
+::Q30::La eficiencia o efecto frigorífico (ε) de una máquina frigorífica de Carnot se define como{
+	=ε \= Q2 / W
+	~ε \= Q1 / W
+	~ε \= W / Q2
+	~ε \= (Q1 - Q2) / W
+}
+
+
+// question: 5096962  name: Q31
+::Q31::En una máquina frigorífica de Carnot, se cumple que{
+	~Q1 / T1 > Q2 / T2
+	~Q1 / T1 < Q2 / T2
+	=Q1 / T1 \= Q2 / T2
+	~Q1 / T2 \= Q2 / T1
+}
+
+
+// question: 5096963  name: Q32
+::Q32::La eficiencia de una máquina frigorífica de Carnot suele ser{
+	~Siempre menor que 1
+	~Siempre igual a 1
+	=Generalmente mayor que 1
+	~Siempre menor que 0
+}
+
+
+// question: 5096964  name: Q33
+::Q33::¿Cuál es la expresión correcta para la eficiencia de una máquina frigorífica de Carnot en función de las temperaturas?{
+	=ε \= T2 / (T1 - T2)
+	~ε \= T1 / (T1 - T2)
+	~ε \= (T1 - T2) / T2
+	~ε \= T1 / T2
+}
+
+
+// question: 5096965  name: Q34
+::Q34::En el ciclo de Carnot de una máquina frigorífica, ¿qué se cumple respecto a la variación de energía interna (∆U) del sistema?{
+	=∆U \= 0 J
+	~∆U > 0 J
+	~∆U < 0 J
+	~∆U depende de la temperatura del foco frío
+}
+
+
+// question: 5096966  name: Q35
+::Q35::En una máquina frigorífica de Carnot, la relación entre el trabajo realizado (W) y los calores intercambiados (Q1 y Q2) es{
+	=W \= Q1 - Q2
+	~W \= Q2 - Q1
+	~W \= Q1 + Q2
+	~W \= Q1 / Q2
+}
+
+
+// question: 5097011  name: Q36
+::Q36::¿Cuáles son las funciones principales del compresor en una instalación frigorífica? (Seleccione todas las correctas){
+	~%50%Elevar la presión del vapor
+	~%50%Aumentar la temperatura del vapor
+	~%-10%Condensar el refrigerante
+	~%-10%Evaporar el refrigerante
+}
+
+
+// question: 5097012  name: Q37
+::Q37::¿Qué dispositivos se encargan de controlar los valores de presión en el circuito?{
+	~%100%Presostatos de alta y baja presión
+	~%-10%Termostatos
+	~%-10%Manómetros
+	~%-10%Barómetros
+}
+
+
+// question: 5097013  name: Q38
+::Q38::El condensador en una instalación frigorífica es{
+	~%50%Un intercambiador de calor
+	~%50%Formado por un conducto en forma de serpentín
+	~%-10%Un dispositivo para aumentar la presión
+	~%-10%Un elemento para expandir el refrigerante
+}
+
+
+// question: 5097014  name: Q39
+::Q39::¿Qué funciones cumple el recipiente de líquido en una instalación frigorífica? (Seleccione todas las correctas){
+	~%50%Actúa como acumulador
+	~%50%Absorbe las variaciones de volumen
+	~%-10%Comprime el refrigerante
+	~%-10%Evapora el refrigerante
+}
+
+
+// question: 5096938  name: Q4
+::Q4::La vaporización del fluido refrigerante ocurre en{
+	=el evaporador
+	~el condensador
+	~el compresor
+	~el expansor
+}
+
+
+// question: 5097026  name: Q40
+::Q40::El visor de líquido y humedad permite (Seleccione todas las correctas){
+	~%33,33%Apreciar el nivel de carga del circuito
+	~%33,33%Observar si hay burbujas
+	~%33,33%Detectar la presencia de humedad
+	~%-10%Medir la temperatura del refrigerante
+}
+
+
+// question: 5097027  name: Q41
+::Q41::¿Cuáles son las funciones del filtro en una instalación frigorífica? (Seleccione todas las correctas){
+	~%33,33%Limpiar de impurezas el refrigerante
+	~%33,33%Eliminar la humedad
+	~%33,33%Neutralizar ácidos presentes en el refrigerante
+	~%-10%Aumentar la presión del refrigerante
+}
+
+
+// question: 5097039  name: Q42
+::Q42::En la válvula de expansión, el fluido refrigerante{
+	~%50%Se expande al pasar por un estrechamiento
+	~%50%Se transforma en una mezcla de líquido y vapor
+	~%-10%Aumenta su presión
+	~%-10%Se calienta
+}
+
+
+// question: 5097040  name: Q43
+::Q43::¿Qué porcentaje aproximado de líquido y vapor se obtiene después de la válvula de expansión?{
+	~%100%80% líquido, 20% vapor
+	~%-10%50% líquido, 50% vapor
+	~%-10%20% líquido, 80% vapor
+	~%-10%100% líquido
+}
+
+
+// question: 5097041  name: Q45
+::Q45::¿Dónde se encuentra típicamente el condensador en un frigorífico convencional?{
+	~%100%En la rejilla situada en la parte trasera
+	~%-10%En la parte frontal
+	~%-10%En el interior del compartimento de alimentos
+	~%-10%En la base del frigorífico
+}
+
+
+// question: 5097042  name: Q46
+::Q46::¿Qué ocurre con el vapor en el condensador? (Seleccione todas las correctas){
+	~%50%Se va licuando
+	~%50%Cede calor al ambiente
+	~%-10%Absorbe calor del ambiente
+	~%-10%Aumenta su presión
+}
+
+
+// question: 5097043  name: Q47
+::Q47::El papel impregnado en una sal de cobalto en el visor de humedad sirve para{
+	~%100%Detectar la presencia de humedad mediante un cambio de color
+	~%-10%Medir la temperatura del refrigerante
+	~%-10%Filtrar impurezas
+	~%-10%Aumentar la presión del refrigerante
+}
+
+
+// question: 5097044  name: Q48
+::Q48::¿Cuál es el propósito de bajar la presión en la válvula de expansión?{
+	~%100%Lograr que la temperatura de saturación esté por debajo de la temperatura del recinto a enfriar
+	~%-10%Aumentar la eficiencia del compresor
+	~%-10%Calentar el refrigerante
+	~%-10%Condensar el refrigerante
+}
+
+
+// question: 5097045  name: Q49
+::Q49::¿Qué problemas puede causar la presencia de una parte de líquido mezclado con el vapor en el compresor?{
+	~%100%Problemas de corrosión
+	~%-10%Aumento de la eficiencia
+	~%-10%Mejora en la refrigeración
+	~%-10%Disminución del consumo energético
+}
+
+
+// question: 5096939  name: Q5
+::Q5::El proceso de vaporización en una máquina frigorífica{
+	=absorbe calor del ambiente que se quiere mantener frío
+	~cede calor al ambiente que se quiere mantener frío
+	~no intercambia calor con el ambiente
+	~aumenta la presión del fluido
+}
+
+
+// question: 5097046  name: Q50
+::Q50::El subenfriamiento del líquido condensado antes de la expansión sirve para{
+	~%100%Garantizar tener solamente líquido en la válvula de expansión
+	~%-10%Aumentar la temperatura del refrigerante
+	~%-10%Evaporar completamente el refrigerante
+	~%-10%Disminuir la eficiencia del sistema
+}
+
+
+// question: 5097047  name: Q51
+::Q51::¿Por qué se utiliza una válvula de expansión en lugar de una turbina?{
+	~%50%Es más simple
+	~%50%Es más barata
+	~%-10%Es más eficiente
+	~%-10%Produce más trabajo
+}
+
+
+// question: 5097048  name: Q52
+::Q52::¿Qué ocurre con la temperatura del refrigerante al pasar por la válvula de expansión?{
+	~%100%Disminuye
+	~%-10%Aumenta
+	~%-10%Se mantiene constante
+	~%-10%Oscila rápidamente
+}
+
+
+// question: 5097049  name: Q53
+::Q53::Los presostatos de alta y baja presión permiten (Seleccione todas las correctas){
+	~%50%Detectar anomalías en el sistema
+	~%50%Proteger la instalación de sobrepresiones
+	~%-10%Aumentar la eficiencia del sistema
+	~%-10%Enfriar el refrigerante
+}
+
+
+// question: 5097050  name: Q54
+::Q54::¿Qué forma tiene típicamente el conducto del condensador?{
+	~%100%Serpentín
+	~%-10%Línea recta
+	~%-10%Espiral
+	~%-10%Zigzag
+}
+
+
+// question: 5097051  name: Q55
+::Q55::¿Por qué el condensador tiene forma de serpentín?{
+	~%100%Para aumentar la superficie de contacto entre el fluido interior y el medio exterior
+	~%-10%Para disminuir la presión del refrigerante
+	~%-10%Para aumentar la velocidad del fluido
+	~%-10%Para facilitar la instalación
+}
+
+
+// question: 5097052  name: Q56
+::Q56::¿Cuál es el objetivo principal de una bomba de calor? Una sola respuesta es válida{
+	~%100%Ceder calor al foco caliente
+	~%-10%Extraer calor del foco frío
+	~%-10%Generar electricidad
+	~%-10%Producir hielo
+}
+
+
+// question: 5097053  name: Q57
+::Q57::¿En qué situaciones se utilizan comúnmente las bombas de calor? (Seleccione todas las correctas){
+	~%25%Viviendas
+	~%25%Secaderos
+	~%25%Invernaderos
+	~%25%Piscinas climatizadas
+	~%-10%Refrigeración de alimentos
+}
+
+
+// question: 5097054  name: Q58
+::Q58::¿Qué principio termodinámico se aplica en el funcionamiento de una bomba de calor ideal?{
+	~%100%El ciclo de Carnot invertido
+	~%-10%El ciclo de Otto
+	~%-10%El ciclo de Rankine
+	~%-10%El ciclo de Stirling
+}
+
+
+// question: 5097055  name: Q59
+::Q59::En una bomba de calor, ¿qué representa Q1?{
+	~%100%El calor cedido al foco caliente
+	~%-10%El calor absorbido del foco frío
+	~%-10%El trabajo realizado por el compresor
+	~%-10%La energía interna del sistema
+}
+
+
+// question: 5096940  name: Q6
+::Q6::El componente que aporta trabajo al sistema en una máquina frigorífica es{
+	=el compresor
+	~el evaporador
+	~el condensador
+	~el expansor
+}
+
+
+// question: 5097056  name: Q60
+::Q60::¿Cuál es la principal diferencia entre una bomba de calor y una máquina frigorífica?{
+	~%100%El objetivo. La bomba de calor busca calentar, mientras que la máquina frigorífica busca enfriar
+	~%-10%El ciclo termodinámico utilizado
+	~%-10%Los componentes del sistema
+	~%-10%El tipo de refrigerante utilizado
+}
+
+
+// question: 5097057  name: Q61
+::Q61::En una bomba de calor, ¿qué componente realiza el trabajo W?{
+	~%100%El compresor
+	~%-10%El condensador
+	~%-10%El evaporador
+	~%-10%La válvula de expansión
+}
+
+
+// question: 5097058  name: Q62
+::Q62::¿Cómo se define la eficiencia (ε) de una bomba de calor?{
+	~%100%ε \= Q1 / W
+	~%-10%ε \= Q2 / W
+	~%-10%ε \= W / Q1
+	~%-10%ε \= (Q1 - Q2) / W
+}
+
+
+// question: 5097059  name: Q63
+::Q63::¿Qué factor influye más en la eficiencia de una bomba de calor?{
+	~%100%La diferencia de temperatura entre el foco frío y el foco caliente
+	~%-10%La presión atmosférica
+	~%-10%La humedad relativa del aire
+	~%-10%La velocidad de rotación del compresor
+}
+
+
+// question: 5097060  name: Q64
+::Q64::En una bomba de calor ideal (de Carnot), ¿cómo se relacionan Q1 y Q2 con las temperaturas T1 y T2?{
+	~%100%Q1/T1 \= Q2/T2
+	~%-10%Q1/T1 > Q2/T2
+	~%-10%Q1/T1 < Q2/T2
+	~%-10%Q1/T2 \= Q2/T1
+}
+
+
+// question: 5097061  name: Q65
+::Q65::¿Qué proceso ocurre en el condensador de una bomba de calor?{
+	~%100%El fluido cede calor al foco caliente y se licúa
+	~%-10%El fluido absorbe calor del foco frío y se evapora
+	~%-10%El fluido se expande y disminuye su temperatura
+	~%-10%El fluido se comprime y aumenta su presión
+}
+
+
+// question: 5097062  name: Q66
+::Q66::¿Cuál es la ventaja principal de una bomba de calor frente a un sistema de calefacción convencional?{
+	~%100%Mayor eficiencia energética
+	~Menor costo inicial
+	~%-10%Instalación más sencilla
+	~%-10%No requiere mantenimiento
+}
+
+
+// question: 5097063  name: Q67
+::Q67::En una bomba de calor, ¿qué ocurre en el evaporador?{
+	~%100%El fluido absorbe calor del foco frío y se evapora
+	~%-10%El fluido cede calor al foco caliente y se condensa
+	~%-10%El fluido aumenta su presión
+	~%-10%El fluido disminuye su temperatura sin cambiar de fase
+}
+
+
+// question: 5097064  name: Q68
+::Q68::¿Qué tipo de energía utiliza usualmente el compresor una bomba de calor? (una sola respuesta){
+	~%100%Energía eléctrica
+	~%-10%Energía solar directa
+	~%-10%Combustibles fósiles
+	~%-10%Energía nuclear
+}
+
+
+// question: 5097065  name: Q69
+::Q69::¿Cuál de las siguientes NO es una aplicación común de las bombas de calor?{
+	~%100%Refrigeración de alimentos en supermercados
+	~%-10%Calefacción de viviendas
+	~%-10%Climatización de piscinas
+	~%-10%Secado industrial
+}
+
+
+// question: 5096941  name: Q7
+::Q7::En el condensador, el fluido refrigerante{
+	=pasa de estado vapor a estado líquido
+	~pasa de estado líquido a estado vapor
+	~mantiene su estado
+	~aumenta su presión
+}
+
+
+// question: 5097066  name: Q70
+::Q70::¿Qué ocurre con la eficiencia de una bomba de calor cuando la diferencia de temperatura entre el foco frío y el foco caliente aumenta?{
+	~%100%Disminuye
+	~%-10%Aumenta
+	~%-10%Permanece constante
+	~%-10%Oscila periódicamente
+}
+
+
+// question: 5097067  name: Q71
+::Q71::En una bomba de calor, ¿qué representa el trabajo W?{
+	~%100%La energía eléctrica consumida por el compresor
+	~%-10%El calor absorbido del foco frío
+	~%-10%El calor cedido al foco caliente
+	~%-10%La energía térmica total del sistema
+}
+
+
+// question: 5097068  name: Q72
+::Q72::¿Cuál de los siguientes NO es un componente típico de una bomba de calor?{
+	~%100%Turbina de expansión
+	~%-10%Compresor
+	~%-10%Condensador
+	~%-10%Válvula de expansión
+}
+
+
+// question: 5097069  name: Q73
+::Q73::¿Qué tipo de bomba de calor es más eficiente para calefacción doméstica?{
+	~%100%Bomba de calor geotérmica
+	~%-10%Bomba de calor aire-aire
+	~%-10%Bomba de calor aire-agua
+	~%-10%Bomba de calor agua-agua
+}
+
+
+// question: 5097070  name: Q74
+::Q74::¿Cuál es el rango típico de eficiencia (COP) para una bomba de calor moderna en condiciones óptimas?{
+	~%100%Entre 3 y 5
+	~%-10%Menor que 1
+	~%-10%Entre 1 y 2
+	~%-10%Mayor que 10
+}
+
+
+// question: 5097071  name: Q75
+::Q75::¿Qué ventaja ofrece una bomba de calor reversible?{
+	~%100%Puede proporcionar tanto calefacción como refrigeración
+	~%-10%Consume menos energía que una bomba de calor estándar
+	~%-10%No requiere refrigerante
+	~%-10%Funciona sin compresor
+}
+
+
+// question: 5097072  name: Q76
+::Q76::¿Cuál de los siguientes NO es un método de refrigeración alternativo?{
+	~%100%Refrigeración por regresión de vapor
+	~%-10%Instalaciones frigoríficas de absorción
+	~%-10%Expansión de Joule-Kelvin
+	~%-10%Refrigeradores termoeléctricos o células Peltier
+}
+
+
+// question: 5097073  name: Q77
+::Q77::La desmagnetización adiabática es un método de refrigeración que{
+	~%100%Se utiliza para alcanzar temperaturas extremadamente bajas
+	~%-10%Es comúnmente usado en refrigeradores domésticos
+	~%-10%Requiere el uso de compresores
+	~%-10%Utiliza fluidos refrigerantes convencionales
+}
+
+
+// question: 5096942  name: Q8
+::Q8::El calor cedido al ambiente en una máquina frigorífica ocurre en{
+	=el condensador
+	~el evaporador
+	~el compresor
+	~el expansor
+}
+
+
+// question: 5096943  name: Q9
+::Q9::El ciclo de una máquina frigorífica es{
+	=cerrado
+	~abierto
+	~semi-cerrado
+	~variable
+}
+
+
