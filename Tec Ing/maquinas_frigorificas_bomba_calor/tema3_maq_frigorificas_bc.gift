@@ -216,18 +216,18 @@ $CATEGORY: $course$/top/Teoría sobre máquinas térmicas
 
 ::Q30:: La eficiencia o efecto frigorífico (ε) de una máquina frigorífica de Carnot se define como
 {
-    =ε = Q2 / W
-    ~ε = Q1 / W
-    ~ε = W / Q2
-    ~ε = (Q1 - Q2) / W
+    =ε \= Q2 / W
+    ~ε \= Q1 / W
+    ~ε \= W / Q2
+    ~ε \= (Q1 - Q2) / W
 }
 
 ::Q31:: En una máquina frigorífica de Carnot, se cumple que
 {
     ~Q1 / T1 > Q2 / T2
     ~Q1 / T1 < Q2 / T2
-    =Q1 / T1 = Q2 / T2
-    ~Q1 / T2 = Q2 / T1
+    =Q1 / T1 \= Q2 / T2
+    ~Q1 / T2 \= Q2 / T1
 }
 
 ::Q32:: La eficiencia de una máquina frigorífica de Carnot suele ser
@@ -240,15 +240,15 @@ $CATEGORY: $course$/top/Teoría sobre máquinas térmicas
 
 ::Q33:: ¿Cuál es la expresión correcta para la eficiencia de una máquina frigorífica de Carnot en función de las temperaturas?
 {
-    =ε = T2 / (T1 - T2)
-    ~ε = T1 / (T1 - T2)
-    ~ε = (T1 - T2) / T2
-    ~ε = T1 / T2
+    =ε \= T2 / (T1 - T2)
+    ~ε \= T1 / (T1 - T2)
+    ~ε \= (T1 - T2) / T2
+    ~ε \= T1 / T2
 }
 
 ::Q34:: En el ciclo de Carnot de una máquina frigorífica, ¿qué se cumple respecto a la variación de energía interna (∆U) del sistema?
 {
-    =∆U = 0 J
+    =∆U \= 0 J
     ~∆U > 0 J
     ~∆U < 0 J
     ~∆U depende de la temperatura del foco frío
@@ -256,8 +256,337 @@ $CATEGORY: $course$/top/Teoría sobre máquinas térmicas
 
 ::Q35:: En una máquina frigorífica de Carnot, la relación entre el trabajo realizado (W) y los calores intercambiados (Q1 y Q2) es
 {
-    =W = Q1 - Q2
-    ~W = Q2 - Q1
-    ~W = Q1 + Q2
-    ~W = Q1 / Q2
+    =W \= Q1 - Q2
+    ~W \= Q2 - Q1
+    ~W \= Q1 + Q2
+    ~W \= Q1 / Q2
+}
+
+::Q36:: ¿Cuáles son las funciones principales del compresor en una instalación frigorífica? (Seleccione todas las correctas)
+{
+    ~%50%Elevar la presión del vapor
+    ~%50%Aumentar la temperatura del vapor
+    ~%-10%Condensar el refrigerante
+    ~%-10%Evaporar el refrigerante
+}
+
+::Q37:: ¿Qué dispositivos se encargan de controlar los valores de presión en el circuito?
+{
+    ~%100%Presostatos de alta y baja presión
+    ~%-10%Termostatos
+    ~%-10%Manómetros
+    ~%-10%Barómetros
+}
+
+::Q38:: El condensador en una instalación frigorífica es
+{
+    ~%50%Un intercambiador de calor
+    ~%50%Formado por un conducto en forma de serpentín
+    ~%-10%Un dispositivo para aumentar la presión
+    ~%-10%Un elemento para expandir el refrigerante
+}
+
+::Q39:: ¿Qué funciones cumple el recipiente de líquido en una instalación frigorífica? (Seleccione todas las correctas)
+{
+    ~%50%Actúa como acumulador
+    ~%50%Absorbe las variaciones de volumen
+    ~%-10%Comprime el refrigerante
+    ~%-10%Evapora el refrigerante
+}
+
+::Q40:: El visor de líquido y humedad permite (Seleccione todas las correctas)
+{
+    ~%33.33%Apreciar el nivel de carga del circuito
+    ~%33.33%Observar si hay burbujas
+    ~%33.33%Detectar la presencia de humedad
+    ~%-100%Medir la temperatura del refrigerante
+}
+
+::Q41:: ¿Cuáles son las funciones del filtro en una instalación frigorífica? (Seleccione todas las correctas)
+{
+    ~%33.33%Limpiar de impurezas el refrigerante
+    ~%33.33%Eliminar la humedad
+    ~%33.33%Neutralizar ácidos presentes en el refrigerante
+    ~%-100%Aumentar la presión del refrigerante
+}
+
+::Q42:: En la válvula de expansión, el fluido refrigerante
+{
+    ~%50%Se expande al pasar por un estrechamiento
+    ~%50%Se transforma en una mezcla de líquido y vapor
+    ~%-10%Aumenta su presión
+    ~%-10%Se calienta
+}
+
+::Q43:: ¿Qué porcentaje aproximado de líquido y vapor se obtiene después de la válvula de expansión?
+{
+    ~%100%80% líquido, 20% vapor
+    ~%-10%50% líquido, 50% vapor
+    ~%-10%20% líquido, 80% vapor
+    ~%-10%100% líquido
+}
+
+::Q45:: ¿Dónde se encuentra típicamente el condensador en un frigorífico convencional?
+{
+    ~%100%En la rejilla situada en la parte trasera
+    ~%-10%En la parte frontal
+    ~%-10%En el interior del compartimento de alimentos
+    ~%-10%En la base del frigorífico
+}
+
+::Q46:: ¿Qué ocurre con el vapor en el condensador? (Seleccione todas las correctas)
+{
+    ~%50%Se va licuando
+    ~%50%Cede calor al ambiente
+    ~%-10%Absorbe calor del ambiente
+    ~%-10%Aumenta su presión
+}
+
+::Q47:: El papel impregnado en una sal de cobalto en el visor de humedad sirve para
+{
+    ~%100%Detectar la presencia de humedad mediante un cambio de color
+    ~%-10%Medir la temperatura del refrigerante
+    ~%-10%Filtrar impurezas
+    ~%-10%Aumentar la presión del refrigerante
+}
+
+::Q48:: ¿Cuál es el propósito de bajar la presión en la válvula de expansión?
+{
+    ~%100%Lograr que la temperatura de saturación esté por debajo de la temperatura del recinto a enfriar
+    ~%-10%Aumentar la eficiencia del compresor
+    ~%-10%Calentar el refrigerante
+    ~%-10%Condensar el refrigerante
+}
+
+::Q49:: ¿Qué problemas puede causar la presencia de una parte de líquido mezclado con el vapor en el compresor?
+{
+    ~%100%Problemas de corrosión
+    ~%-10%Aumento de la eficiencia
+    ~%-10%Mejora en la refrigeración
+    ~%-10%Disminución del consumo energético
+}
+
+::Q50:: El subenfriamiento del líquido condensado antes de la expansión sirve para
+{
+    ~%100%Garantizar tener solamente líquido en la válvula de expansión
+    ~%-10%Aumentar la temperatura del refrigerante
+    ~%-10%Evaporar completamente el refrigerante
+    ~%-10%Disminuir la eficiencia del sistema
+}
+
+::Q51:: ¿Por qué se utiliza una válvula de expansión en lugar de una turbina?
+{
+    ~%50%Es más simple
+    ~%50%Es más barata
+    ~%-10%Es más eficiente
+    ~%-10%Produce más trabajo
+}
+
+::Q52:: ¿Qué ocurre con la temperatura del refrigerante al pasar por la válvula de expansión?
+{
+    ~%100%Disminuye
+    ~%-10%Aumenta
+    ~%-10%Se mantiene constante
+    ~%-10%Oscila rápidamente
+}
+
+::Q53:: Los presostatos de alta y baja presión permiten (Seleccione todas las correctas)
+{
+    ~%50%Detectar anomalías en el sistema
+    ~%50%Proteger la instalación de sobrepresiones
+    ~%-10%Aumentar la eficiencia del sistema
+    ~%-10%Enfriar el refrigerante
+}
+
+::Q54:: ¿Qué forma tiene típicamente el conducto del condensador?
+{
+    ~%100%Serpentín
+    ~%-10%Línea recta
+    ~%-10%Espiral
+    ~%-10%Zigzag
+}
+
+::Q55:: ¿Por qué el condensador tiene forma de serpentín?
+{
+    ~%100%Para aumentar la superficie de contacto entre el fluido interior y el medio exterior
+    ~%-10%Para disminuir la presión del refrigerante
+    ~%-10%Para aumentar la velocidad del fluido
+    ~%-10%Para facilitar la instalación
+}
+
+::Q56:: ¿Cuál es el objetivo principal de una bomba de calor? Una sola respuesta es válida
+{
+    ~%100%Ceder calor al foco caliente
+    ~%-10%Extraer calor del foco frío
+    ~%-10%Generar electricidad
+    ~%-10%Producir hielo
+}
+
+::Q57:: ¿En qué situaciones se utilizan comúnmente las bombas de calor? (Seleccione todas las correctas)
+{
+    ~%25%Viviendas
+    ~%25%Secaderos
+    ~%25%Invernaderos
+    ~%25%Piscinas climatizadas
+    ~%-10%Refrigeración de alimentos
+}
+
+::Q58:: ¿Qué principio termodinámico se aplica en el funcionamiento de una bomba de calor ideal?
+{
+    ~%100%El ciclo de Carnot invertido
+    ~%-10%El ciclo de Otto
+    ~%-10%El ciclo de Rankine
+    ~%-10%El ciclo de Stirling
+}
+
+::Q59:: En una bomba de calor, ¿qué representa Q1?
+{
+    ~%100%El calor cedido al foco caliente
+    ~%-10%El calor absorbido del foco frío
+    ~%-10%El trabajo realizado por el compresor
+    ~%-10%La energía interna del sistema
+}
+
+::Q60:: ¿Cuál es la principal diferencia entre una bomba de calor y una máquina frigorífica?
+{
+    ~%100%El objetivo. La bomba de calor busca calentar, mientras que la máquina frigorífica busca enfriar
+    ~%-10%El ciclo termodinámico utilizado
+    ~%-10%Los componentes del sistema
+    ~%-10%El tipo de refrigerante utilizado
+}
+
+::Q61:: En una bomba de calor, ¿qué componente realiza el trabajo W?
+{
+    ~%100%El compresor
+    ~%-10%El condensador
+    ~%-10%El evaporador
+    ~%-10%La válvula de expansión
+}
+
+::Q62:: ¿Cómo se define la eficiencia (ε) de una bomba de calor?
+{
+    ~%100%ε \= Q1 / W
+    ~%-10%ε \= Q2 / W
+    ~%-10%ε \= W / Q1
+    ~%-10%ε \= (Q1 - Q2) / W
+}
+
+::Q63:: ¿Qué factor influye más en la eficiencia de una bomba de calor?
+{
+    ~%100%La diferencia de temperatura entre el foco frío y el foco caliente
+    ~%-10%La presión atmosférica
+    ~%-10%La humedad relativa del aire
+    ~%-10%La velocidad de rotación del compresor
+}
+
+::Q64:: En una bomba de calor ideal (de Carnot), ¿cómo se relacionan Q1 y Q2 con las temperaturas T1 y T2?
+{
+    ~%100%Q1/T1 \= Q2/T2
+    ~%-10%Q1/T1 > Q2/T2
+    ~%-10%Q1/T1 < Q2/T2
+    ~%-10%Q1/T2 \= Q2/T1
+}
+
+::Q65:: ¿Qué proceso ocurre en el condensador de una bomba de calor?
+{
+    ~%100%El fluido cede calor al foco caliente y se licúa
+    ~%-10%El fluido absorbe calor del foco frío y se evapora
+    ~%-10%El fluido se expande y disminuye su temperatura
+    ~%-10%El fluido se comprime y aumenta su presión
+}
+
+::Q66:: ¿Cuál es la ventaja principal de una bomba de calor frente a un sistema de calefacción convencional?
+{
+    ~%100%Mayor eficiencia energética
+    ~%0%Menor costo inicial
+    ~%-10%Instalación más sencilla
+    ~%-10%No requiere mantenimiento
+}
+
+::Q67:: En una bomba de calor, ¿qué ocurre en el evaporador?
+{
+    ~%100%El fluido absorbe calor del foco frío y se evapora
+    ~%-10%El fluido cede calor al foco caliente y se condensa
+    ~%-10%El fluido aumenta su presión
+    ~%-10%El fluido disminuye su temperatura sin cambiar de fase
+}
+
+::Q68:: ¿Qué tipo de energía utiliza usualmente el compresor una bomba de calor? (una sola respuesta)
+{
+    ~%100%Energía eléctrica
+    ~%-10%Energía solar directa
+    ~%-10%Combustibles fósiles
+    ~%-10%Energía nuclear
+}
+
+::Q69:: ¿Cuál de las siguientes NO es una aplicación común de las bombas de calor?
+{
+    ~%100%Refrigeración de alimentos en supermercados
+    ~%-10%Calefacción de viviendas
+    ~%-10%Climatización de piscinas
+    ~%-10%Secado industrial
+}
+
+::Q70:: ¿Qué ocurre con la eficiencia de una bomba de calor cuando la diferencia de temperatura entre el foco frío y el foco caliente aumenta?
+{
+    ~%100%Disminuye
+    ~%-10%Aumenta
+    ~%-10%Permanece constante
+    ~%-10%Oscila periódicamente
+}
+
+::Q71:: En una bomba de calor, ¿qué representa el trabajo W?
+{
+    ~%100%La energía eléctrica consumida por el compresor
+    ~%-10%El calor absorbido del foco frío
+    ~%-10%El calor cedido al foco caliente
+    ~%-10%La energía térmica total del sistema
+}
+
+::Q72:: ¿Cuál de los siguientes NO es un componente típico de una bomba de calor?
+{
+    ~%100%Turbina de expansión
+    ~%-10%Compresor
+    ~%-10%Condensador
+    ~%-10%Válvula de expansión
+}
+
+::Q73:: ¿Qué tipo de bomba de calor es más eficiente para calefacción doméstica?
+{
+    ~%100%Bomba de calor geotérmica
+    ~%-10%Bomba de calor aire-aire
+    ~%-10%Bomba de calor aire-agua
+    ~%-10%Bomba de calor agua-agua
+}
+
+::Q74:: ¿Cuál es el rango típico de eficiencia (COP) para una bomba de calor moderna en condiciones óptimas?
+{
+    ~%100%Entre 3 y 5
+    ~%-10%Menor que 1
+    ~%-10%Entre 1 y 2
+    ~%-10%Mayor que 10
+}
+
+::Q75:: ¿Qué ventaja ofrece una bomba de calor reversible?
+{
+    ~%100%Puede proporcionar tanto calefacción como refrigeración
+    ~%-10%Consume menos energía que una bomba de calor estándar
+    ~%-10%No requiere refrigerante
+    ~%-10%Funciona sin compresor
+}
+
+::Q76:: ¿Cuál de los siguientes NO es un método de refrigeración alternativo?
+{
+~%100%Refrigeración por regresión de vapor
+~%-10%Instalaciones frigoríficas de absorción
+~%-10%Expansión de Joule-Kelvin
+~%-10%Refrigeradores termoeléctricos o células Peltier
+} 
+
+::Q77:: La desmagnetización adiabática es un método de refrigeración que
+{
+~%100%Se utiliza para alcanzar temperaturas extremadamente bajas
+~%-10%Es comúnmente usado en refrigeradores domésticos
+~%-10%Requiere el uso de compresores
+~%-10%Utiliza fluidos refrigerantes convencionales
 }
