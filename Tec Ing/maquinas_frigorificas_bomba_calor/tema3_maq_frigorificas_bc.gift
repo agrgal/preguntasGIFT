@@ -1,6 +1,4 @@
-$CATEGORY: $course$/top/
-
-TEMA 2. Máquinas. Termodinámica. Máquinas térmicas/Tema 2. Bloque 3. Máquinas frigoríficas/Teoría
+$CATEGORY: $course$/top/TEMA 2. Máquinas. Termodinámica. Máquinas térmicas/Tema 2. Bloque 3. Máquinas frigoríficas/Teoría
 
 ::Q1:: Las máquinas frigoríficas se basan en la vaporización y licuefacción de fluidos con
 {
@@ -500,7 +498,7 @@ TEMA 2. Máquinas. Termodinámica. Máquinas térmicas/Tema 2. Bloque 3. Máquin
 ::Q66:: ¿Cuál es la ventaja principal de una bomba de calor frente a un sistema de calefacción convencional?
 {
     ~%100%Mayor eficiencia energética
-    ~%-0%Menor costo inicial
+    ~%0%Menor costo inicial
     ~%-10%Instalación más sencilla
     ~%-10%No requiere mantenimiento
 }
