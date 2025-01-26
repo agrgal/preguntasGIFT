@@ -1,0 +1,291 @@
+// Preguntas avanzadas para la categoría "GESTIÓN DE PROYECTOS"
+
+// question: 0  name: Switch category to $course$/top/Edición de Imágenes
+$CATEGORY: $course$/top/Processing
+
+
+// question: 0  name: Switch category to $course$/top/Edición de Imágenes/GIMP
+$CATEGORY: $course$/top/Processing/Diana de Dardos
+
+::Q1:: ¿Por qué se usa la función noLoop() en este programa? {
+    =Para que el dibujo se realice solo una vez
+    ~Para detener la ejecución del programa
+    ~Para crear un bucle infinito
+    ~Para pausar el programa temporalmente
+}
+
+::Q2:: ¿Cuál es el propósito de la función radians() en este código? {
+    =Convertir grados a radianes para las funciones trigonométricas
+    ~Convertir radianes a grados
+    ~Calcular el radio de la diana
+    ~Determinar el ángulo de rotación de la diana
+}
+
+::Q3:: ¿Por qué se usan las funciones cos() y sin() en este programa? {
+    =Para calcular las coordenadas x e y de los puntos en el círculo
+    ~Para determinar el color de los sectores
+    ~Para establecer el tamaño de la diana
+    ~Para calcular el número de sectores
+}
+
+::Q4:: ¿Qué logra el uso de módulo (%) en la expresión int(angulo/18)%2? {
+    =Alterna entre dos valores (0 y 1) para cada sector de 18º
+    ~Calcula el número total de sectores en 360º
+    ~Determina el ángulo de cada sector
+    ~Establece el radio de la diana
+}
+
+::Q5:: ¿Por qué se usa un bucle for con un incremento de 0.1 para angulo? {
+    =Para crear una apariencia suave en los bordes de los sectores
+    ~Para reducir el tiempo de ejecución del programa
+    ~Para crear exactamente 360 líneas
+    ~Para simular el movimiento de la diana
+}
+
+::Q6:: ¿Cuál es la función de la variable valor\=int(angulo/18)%2en el código? {
+    =Alternar entre 0 y 1 para determinar el color de cada sector
+    ~Contar el número de sectores dibujados
+    ~Calcular el radio de la diana
+    ~Determinar el grosor de las líneas
+}
+
+::Q7:: ¿Por qué se resta 9 grados en las funciones trigonométricas? {
+    =Para empezar con un sector en negro totalmente centrado
+    ~Para crear un efecto de rotación
+    ~Para aumentar el número de sectores
+    ~Para cambiar el tamaño de la diana
+}
+
+::Q8:: ¿Cuál es el propósito del segundo bucle for (for (j\=0; j<2; j\=j+1)....) anidado en el código? {
+    =Dibujar las coronas interiores de colores alternos rojo y verde
+    ~Crear los sectores principales de la diana
+    ~Dibujar el círculo exterior de la diana
+    ~Numerar los sectores de la diana
+}
+
+::Q9:: ¿Por qué se usa la función ellipse() en lugar de circulo()? {
+    =ellipse() es más flexible y permite crear círculos perfectos
+    ~circulo() no existe en Processing
+    ~circulo() es más eficiente en términos de rendimiento
+    ~No hay diferencia, ambas funciones son intercambiables
+}
+
+::Q10:: ¿Qué logra la línea fill(0,255,0) seguida de ellipse(centerX,centerY,40,40);? {
+    =Dibuja un círculo verde en el centro de la diana
+    ~Establece el color de fondo de la ventana
+    ~Dibuja un círculo rojo en el centro de la diana
+    ~Crea un borde verde alrededor de la diana
+}
+
+::Q11:: ¿Por qué se calcula centerX y centerY en lugar de usar valores fijos? {
+    =Para que la diana se centre automáticamente independientemente del tamaño de la ventana
+    ~Para crear un efecto de movimiento en la diana
+    ~Para calcular el radio de la diana
+    ~Para determinar el número de sectores
+}
+
+::Q12:: ¿Cuál es el propósito de la variable radio en este programa? {
+    =Determinar el tamaño general de la diana
+    ~Contar el número de rotaciones de la diana
+    ~Calcular el número de sectores
+    ~Establecer el grosor de las líneas
+}
+
+::Q13:: ¿Por qué se usa la función background() al inicio de draw()? {
+    =Para limpiar la ventana y preparar un nuevo dibujo con fondo en blanco
+    ~Para crear un efecto de parpadeo
+    ~Para cambiar el color de la diana
+    ~Para aumentar el contraste de los colores
+}
+
+::Q14:: ¿Qué efecto tiene el uso de noFill() antes de dibujar ciertas elipses? {
+    =Hace que las elipses sean transparentes, dibujando solo el contorno
+    ~Rellena las elipses de negro
+    ~Hace que las elipses sean invisibles
+    ~Aumenta el grosor del contorno de las elipses
+}
+
+::Q15:: ¿Por qué se dibujan los sectores a líneas? {
+    =Para crear un número preciso de sectores de colores alternos eficientemente
+    ~Para hacer que la diana gire
+    ~Para cambiar el ancho de cada sector
+    ~Para calcular el radio de la diana
+}
+
+::Q16:: ¿Cuál es el propósito de las variables inicioA y finalA en el código? {
+    =Determinar los puntos de inicio y fin de las líneas en las coronas interiores
+    ~Calcular el ángulo total de rotación de la diana
+    ~Establecer el número de sectores en la diana
+    ~Definir el grosor de las líneas en la diana
+}
+
+::Q17:: ¿Por qué se usa la función stroke() repetidamente en el código? {
+    =Para cambiar el color de las líneas que se dibujan
+    ~Para aumentar el grosor de las líneas
+    ~Para crear un efecto de sombra
+    ~Para borrar líneas previamente dibujadas
+}
+
+::Q18:: ¿Qué logra la expresión 255*valor en la función stroke(255*valor, 255*valor, 255*valor);
+? {
+    =Alterna el color entre blanco y negro
+    ~Alterna el color entre rojo y verde
+    ~Aumenta gradualmente el brillo del color
+    ~Reduce gradualmente la opacidad del color
+}
+
+::Q19:: ¿Por qué se usa la función setup() en este programa? {
+    =Para inicializar la configuración básica del sketch una sola vez
+    ~Para dibujar la diana repetidamente
+    ~Para calcular el radio de la diana
+    ~Para determinar los colores de los sectores
+}
+
+::Q20:: ¿Cuál es el propósito de la función draw() en este programa? {
+    =Contener todo el código para dibujar la diana
+    ~Crear un bucle infinito de dibujo
+    ~Inicializar las variables del programa
+    ~Calcular el tamaño de la ventana
+}
+
+::Q21:: ¿Qué funciones matemáticas se utilizan principalmente para calcular las posiciones de los elementos en la diana? {
+    ~%50%cos()
+    ~%50%sin()
+    ~%-10%tan()
+    ~%-10%log()
+}
+
+::Q22:: ¿Qué métodos se utilizan para controlar el color de los elementos en la diana? {
+    ~%33,33%fill()
+    ~%33,33%stroke()
+    ~%33,33%noFill()
+    ~%-10%tint()
+}
+
+::Q23:: ¿Qué estructuras de control se utilizan en el programa para crear los patrones repetitivos de la diana? {
+    ~%50%Bucles for
+    ~%50%Bucles for anidados
+    ~%-10%Bucles while
+    ~%-10%Condicionales if
+}
+
+::Q24:: ¿Qué tipos de formas geométricas se utilizan para construir la diana? {
+    ~%50%Círculos (ellipse)
+    ~%50%Líneas (line)
+    ~%-10%Rectángulos (rect)
+    ~%-10%Triángulos (triangle)
+}
+
+::Q25:: ¿Qué operaciones se realizan con la variable 'radio' en el programa? {
+    ~%33,33%Se usa para calcular el tamaño de la diana
+    ~%33,33%Se utiliza en las funciones trigonométricas
+    ~%33,33%Se modifica para crear las coronas interiores
+    ~%-10%Se incrementa en cada frame
+}
+
+::Q26:: ¿Qué técnicas se utilizan para crear la alternancia de colores en los sectores de la diana? {
+    ~%50%Uso del operador módulo (%)
+    ~%50%Multiplicación por 0 o 255
+    ~%-10%Uso de un array de colores
+    ~%-10%Generación de colores aleatorios
+}
+
+::Q27:: ¿Qué métodos se utilizan para posicionar los elementos en el centro de la ventana? {
+    ~%50%Cálculo de centerX y centerY
+    ~%50%Uso de width y height
+    ~%-10%Uso de mouseX y mouseY
+    ~%-10%Uso de constantes predefinidas
+}
+
+::Q28:: ¿Qué funciones de Processing afectan a la configuración del lienzo de dibujo? {
+    ~%33,33%size()
+    ~%33,33%background()
+    ~%33,33%noLoop()
+    ~%-10%createCanvas()
+}
+
+::Q29:: ¿Qué operaciones matemáticas se relacionan con la variable 'angulo'? {
+    ~%33,33%División
+    ~%33,33%Módulo
+    ~%33,33%Conversión a radianes
+    ~%-10%Exponenciación
+}
+
+::Q30:: ¿Qué técnicas se utilizan para crear las diferentes capas visuales de la diana? {
+    ~%33,33%Dibujo de círculos concéntricos
+    ~%33,33%Uso de bucles anidados
+    ~%33,33%Alternancia de colores
+    ~%-10%Uso de imágenes prediseñadas
+}
+
+::Q31:: ¿Qué métodos se utilizan para controlar la precisión del dibujo de los sectores? {
+    ~%50%Uso de incrementos pequeños en el ángulo (0.1)
+    ~%50%Ajuste del ángulo (-9 grados)
+    ~%-10%Uso de la función smooth()
+    ~%-10%Aumento del frame rate
+}
+
+::Q32:: ¿Qué funciones de Processing se utilizan para establecer los atributos de dibujo? {
+    ~%33,33%stroke()
+    ~%33,33%fill()
+    ~%33,33%noFill()
+    ~%-10%blend()
+}
+
+::Q33:: ¿Qué operaciones se realizan con las variables 'width' y 'height'? {
+    ~%50%Cálculo del centro de la ventana
+    ~%50%Determinación del tamaño de la diana
+    ~%-10%Cálculo del número de sectores
+    ~%-10%Ajuste del grosor de las líneas
+}
+
+::Q34:: ¿Qué técnicas se utilizan para crear la estructura de la diana? {
+    ~%33,33%Dibujo de círculos concéntricos
+    ~%33,33%Trazado de líneas radiales formando sectores
+    ~%-10%Dibujos de polígonos de colores alternos
+    ~%-10%Uso de formas triangulares
+}
+
+::Q35:: ¿Qué métodos se utilizan para controlar el flujo de ejecución del programa? {
+    ~%50%Uso de setup() para inicialización
+    ~%50%Uso de draw() para el dibujo principal
+    ~%-10%Uso de loop() para animación continua
+    ~%-10%Uso de update() para actualizar variables
+}
+
+::Q36:: ¿Qué operaciones se realizan con la variable 'valor'? {
+    ~%50%Alternancia entre 0 y 1
+    ~%50%Multiplicación para determinar colores
+    ~%-10%Suma para incrementar el radio
+    ~%-10%División para calcular ángulos
+}
+
+::Q37:: ¿Qué técnicas se utilizan para crear las coronas interiores de la diana? {
+    ~%33,33%Uso de bucles anidados
+    ~%33,33%Cálculo de radios interiores
+    ~%33,33%Alternancia de colores rojo y verde
+    ~%-10%Aplicación de gradientes
+}
+
+::Q38:: ¿Qué funciones trigonométricas se utilizan en el programa y con qué propósito? {
+    ~%50%cos() para calcular coordenadas x
+    ~%50%sin() para calcular coordenadas y
+    ~%-10%cos() para calcular coordenadas y
+    ~%-10%sin() para calcular coordenadas x
+    ~%-10%tan() para calcular ángulos
+    ~%-10%atan2() para determinar direcciones
+}
+
+::Q39:: ¿Qué métodos se utilizan para controlar la apariencia de las líneas en la diana? {
+    ~%50%Uso de stroke() para color
+    ~%50%Cálculo preciso de puntos de inicio y fin
+    ~%-10%Uso de strokeWeight() para grosor
+    ~%-10%Aplicación de estilos de línea discontinua
+}
+
+::Q40:: ¿Qué técnicas de optimización se pueden identificar en el código? {
+    ~%33,33%Uso de noLoop() para evitar redibujos innecesarios
+    ~%33,33%Precálculo de valores como centerX y centerY
+    ~%33,33%Uso eficiente de bucles para dibujar patrones repetitivos
+    ~%-10%Uso de arrays o listas de números para almacenar colores predefinidos
+}
