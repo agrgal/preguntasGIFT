@@ -1,0 +1,558 @@
+$CATEGORY: $course$/top/TEMA 3. Bloque A. Neumática
+
+$CATEGORY: $course$/top/TEMA 3. Bloque A. Neumática/Teoría o cuestiones cortas sobre neumática
+
+::Pregunta 1:: ¿Cuál es la función principal de un compresor en un sistema neumático? {
+    ~%50%aumentar la presión del aire
+    ~%50%suministrar el caudal adecuado
+    ~%-10%reducir la presión del aire
+    ~%-10%generar energía eléctrica
+}
+
+::Pregunta 2:: ¿Qué valores son importantes al utilizar un compresor? {
+    ~%50%la relación entre la presión de salida y la de entrada
+    ~%50%el caudal que suministra
+    ~%-10%la temperatura del aire
+    ~%-10%el tipo de motor utilizado
+}
+
+::Pregunta 3:: ¿Qué tipos de compresores volumétricos existen? {
+    ~%50%compresores alternativos
+    ~%50%compresores rotativos
+    ~%-10%compresores centrífugos
+    ~%-10%compresores de tornillo (como tipo volumétrico)
+}
+
+::Pregunta 4:: ¿Cómo funcionan los compresores alternativos de pistón? {
+    ~%100%mediante un movimiento rectilíneo alternativo del émbolo
+    ~%-10%mediante un movimiento circular continuo
+    ~%-10%mediante un sistema de tornillos helicoidales
+    ~%-10%mediante un impulsor centrífugo
+}
+
+::Pregunta 5:: ¿Qué tipo de compresor proporciona un caudal de aire a pulsos? {
+    ~%100%compresor alternativo
+    ~%-10%compresor rotativo
+    ~%-10%compresor centrífugo
+    ~%-10%compresor de tornillo
+}
+
+::Pregunta 6:: ¿Cuál es el rango de presión típico para un compresor alternativo de pistón monofásico? {
+    ~%100%entre 3 y 10 bar
+    ~%-10%entre 1 y 3 bar
+    ~%-10%entre 10 y 25 bar
+    ~%-10%entre 25 y 50 bar
+}
+
+::Pregunta 7:: ¿Por qué se necesitan aletas de refrigeración en los compresores alternativos de pistón? {
+    ~%100%para disminuir la temperatura del aire
+    ~%-10%para aumentar la presión del aire
+    ~%-10%para aumentar el caudal de aire
+    ~%-10%para reducir el ruido
+}
+
+::Pregunta 8:: ¿Cómo funciona un compresor alternativo de pistón bifásico? {
+    ~%100%comprime el aire en dos etapas
+    ~%-10%comprime el aire en una sola etapa
+    ~%-10%utiliza un sistema rotativo continuo
+    ~%-10%utiliza un impulsor centrífugo
+}
+
+::Pregunta 9:: ¿Cuál es el propósito del serpentín de refrigeración en un compresor bifásico? {
+    ~%100%enfriar el aire comprimido entre etapas
+    ~%-10%para aumentar la presión del aire
+    ~%-10%para reducir el caudal de aire
+    ~%-10%para aumentar la eficiencia energética
+}
+
+::Pregunta 10:: ¿Qué sucede con el aire después de la segunda etapa de compresión en un compresor bifásico? {
+    ~%100%se pasa por un purgador antes de almacenarse
+    ~%-10%se almacena directamente en el depósito
+    ~%-10%se utiliza inmediatamente
+    ~%-10%se libera al ambiente
+}
+
+::Pregunta 11:: ¿Cómo funcionan los compresores rotativos de paletas? {
+    ~%100%mediante un sistema rotativo continuo con paletas
+    ~%-10%mediante un movimiento rectilíneo alternativo del émbolo
+    ~%-10%mediante un impulsor centrífugo
+    ~%-10%mediante un sistema de tornillos helicoidales
+}
+
+::Pregunta 12:: ¿Qué características tienen los compresores rotativos de paletas? {
+    ~%50%son silenciosos
+    ~%50%proporcionan un caudal constante
+    ~%-10%son ruidosos
+    ~%-10%son grandes y pesados
+}
+
+::Pregunta 13:: ¿Qué tipo de compresor es conocido por ser silencioso y proporcionar un caudal constante? {
+    ~%50%compresor rotativo de paletas
+    ~%50%compresor de tornillo
+    ~%-10%compresor alternativo de pistón
+    ~%-10%compresor centrífugo
+}
+
+::Pregunta 14:: ¿Cómo funcionan los compresores rotativos de tornillo? {
+    ~%100%mediante un sistema de tornillos helicoidales que engranan
+    ~%-10%mediante un movimiento rectilíneo alternativo del émbolo
+    ~%-10%mediante un impulsor centrífugo
+    ~%-10%mediante un sistema rotativo continuo con paletas
+}
+
+::Pregunta 15:: ¿Qué ventajas tienen los compresores rotativos de tornillo? {
+    ~%33.3333%son silenciosos
+    ~%33.3333%proporcionan un caudal constante
+    ~%33.3333%son rentables a largo plazo debido a su bajo desgaste
+    ~%-10%son baratos inicialmente
+}
+
+::Pregunta 16:: ¿Por qué los compresores rotativos de tornillo son rentables a largo plazo? {
+    ~%100%debido a su bajo desgaste
+    ~%-10%debido a su bajo costo inicial
+    ~%-10%debido a su alta eficiencia energética
+    ~%-10%debido a su capacidad de compresión alta
+}
+
+::Pregunta 17:: ¿Qué tipo de compresor es adecuado para aplicaciones que requieren un caudal constante de aire? {
+    ~%50%compresor rotativo de paletas
+    ~%50%compresor de tornillo
+    ~%-10%compresor alternativo de pistón
+    ~%-10%compresor centrífugo
+}
+
+::Pregunta 18:: ¿Cuál es una desventaja de los compresores rotativos de tornillo? {
+    ~%100%son costosos inicialmente
+    ~%-10%son ruidosos
+    ~%-10%son ineficientes energéticamente
+    ~%-10%son grandes y pesados
+}
+
+::Pregunta 19:: ¿Qué principio físico se aplica en los compresores volumétricos? {
+    ~%100%Ley de Boyle-Mariotte
+    ~%-10%Ley de Newton
+    ~%-10%Ley de Ohm
+    ~%-10%Ley de la conservación de la energía
+}
+
+::Pregunta 20:: ¿Qué tipo de compresores son adecuados para aplicaciones que requieren alta presión y bajo caudal? {
+    ~%100%compresores alternativos de pistón
+    ~%-10%compresores rotativos de paletas
+    ~%-10%compresores centrífugos
+    ~%-10%compresores de tornillo
+}
+
+::Pregunta 21:: ¿Cómo funcionan los compresores dinámicos? {
+    ~%50%el aire aumenta su velocidad al pasar por conductos de sección decreciente
+    ~%50%la energía cinética se transforma en presión en un difusor
+    ~%-10%mediante un movimiento rectilíneo alternativo del émbolo
+    ~%-10%mediante un sistema de tornillos helicoidales
+}
+
+::Pregunta 22:: ¿Cuál es la función principal de un acumulador en un sistema neumático? {
+    ~%100%almacenar aire comprimido para suministrarlo cuando se necesite
+    ~%-10%filtrar el aire comprimido
+    ~%-10%secar el aire comprimido
+    ~%-10%regular la presión del aire
+}
+
+::Pregunta 23:: ¿Qué sucede con el agua en el aire comprimido durante la etapa de refrigeración? {
+    ~%100%se condensa y cae en la parte inferior del refrigerador
+    ~%-10%se evapora completamente
+    ~%-10%no se modifica su contenido
+    ~%-10%se elimina mediante un filtro
+}
+
+::Pregunta 24:: ¿Cuál es el propósito de los secadores en el tratamiento del aire comprimido? {
+    ~%100%reducir el contenido de vapor de agua en el aire
+    ~%-10%filtrar partículas sólidas
+    ~%-10%regular la presión del aire
+    ~%-10%lubricar los componentes neumáticos
+}
+
+::Pregunta 25:: ¿Cuál es la función del regulador de presión en un sistema neumático? {
+    ~%100%mantener constante la presión de trabajo del aire comprimido
+    ~%-10%filtrar el aire comprimido
+    ~%-10%secar el aire comprimido
+    ~%-10%almacenar aire comprimido
+}
+
+::Pregunta 26:: ¿Qué tipo de energía transforman los elementos de consumo en un circuito neumático? {
+    ~%100%energía neumática en energía mecánica
+    ~%-10%energía eléctrica en energía mecánica
+    ~%-10%energía química en energía mecánica
+    ~%-10%energía térmica en energía mecánica
+}
+
+::Pregunta 27:: ¿Qué tipos de elementos de consumo existen en circuitos neumáticos? {
+    ~%50%cilindros
+    ~%50%motores
+    ~%-10%compresores
+    ~%-10%filtros
+}
+
+::Pregunta 28:: ¿Cómo funciona un cilindro neumático de simple efecto? {
+    ~%100%el aire comprimido actúa en una sola cámara del émbolo
+    ~%-10%el aire comprimido actúa en ambas cámaras del émbolo
+    ~%-10%el aire comprimido no actúa en ninguna cámara del émbolo
+    ~%-10%el aire comprimido actúa solo en la cámara del vástago
+}
+
+::Pregunta 29:: ¿Cómo se realiza el retorno en un cilindro de simple efecto? {
+    ~%50%por la acción de un muelle
+    ~%50%por la acción de una fuerza externa (carga)
+    ~%-10%por la acción de un motor eléctrico
+    ~%-10%por la acción de un compresor
+}
+
+::Pregunta 30:: ¿Qué tipo de cilindros son más utilizados en aplicaciones neumáticas? {
+    ~%100%cilindros de doble efecto
+    ~%-10%cilindros de simple efecto
+    ~%-10%cilindros hidráulicos
+    ~%-10%cilindros eléctricos
+}
+
+::Pregunta 31:: ¿Qué ventaja tienen los cilindros de simple efecto? {
+    ~%100%son económicos y requieren menos presión de aire
+    ~%-10%son más precisos que los cilindros de doble efecto
+    ~%-10%son más grandes que los cilindros de doble efecto
+    ~%-10%requieren más presión de aire que los cilindros de doble efecto
+}
+
+::Pregunta 32:: ¿Qué tipo de motores neumáticos se utilizan en ambientes deflagrantes? {
+    ~%100%motores neumáticos
+    ~%-10%motores eléctricos
+    ~%-10%motores hidráulicos
+    ~%-10%motores de combustión interna
+}
+
+::Pregunta 33:: ¿Qué ventaja tienen los motores neumáticos sobre los eléctricos? {
+    ~%100%permiten una rápida inversión del sentido de giro
+    ~%-10%son más eficientes energéticamente
+    ~%-10%son más silenciosos
+    ~%-10%son más pesados
+}
+
+::Pregunta 34:: ¿Qué tipo de motores neumáticos son adecuados para altas velocidades de giro? {
+    ~%100%motores de turbina
+    ~%-10%motores de paletas
+    ~%-10%motores rotativos de pistones
+    ~%-10%motores de caudal constante
+}
+
+::Pregunta 35:: ¿Cómo funcionan los motores rotativos de pistones? {
+    ~%100%mediante cilindros de simple efecto unidos a un eje principal
+    ~%-10%mediante cilindros de doble efecto unidos a un eje principal
+    ~%-10%mediante un rotor excéntrico con paletas
+    ~%-10%mediante un impulsor centrífugo
+}
+
+::Pregunta 36:: ¿Qué tipo de motores neumáticos son más ligeros y de construcción más sencilla? {
+    ~%100%motores de paletas
+    ~%-10%motores rotativos de pistones
+    ~%-10%motores de turbina
+    ~%-10%motores hidráulicos
+}
+
+::Pregunta 37:: ¿Qué fuerza actúa sobre las paletas en un motor de paletas? {
+    ~%100%la fuerza del aire comprimido y la fuerza centrífuga
+    ~%-10%la fuerza del aire comprimido y la fuerza de rozamiento
+    ~%-10%la fuerza del aire comprimido y la fuerza de gravedad
+    ~%-10%la fuerza del aire comprimido y la fuerza magnética
+}
+
+::Pregunta 38:: ¿Qué tipo de industrias suelen utilizar motores neumáticos? {
+    ~%33.3333%minería
+    ~%33.3333%industria química
+    ~%33.3333%industria del petróleo
+    ~%-10%industria textil
+}
+
+::Pregunta 39:: ¿Qué tipo de motores neumáticos permiten variaciones constantes de velocidad? {
+    ~%100%motores de caudal variable
+    ~%-10%motores de caudal constante
+    ~%-10%motores hidráulicos
+    ~%-10%motores eléctricos
+}
+
+::Pregunta 40:: ¿Qué tipo de motores son adecuados para arranques y paros casi instantáneos? {
+    ~%100%motores neumáticos
+    ~%-10%motores eléctricos
+    ~%-10%motores hidráulicos
+    ~%-10%motores de combustión interna
+}
+
+::Pregunta 41:: ¿Qué tipo de motores neumáticos existen? {
+    ~%100%motores de caudal constante o variable y un solo sentido de giro o dos sentidos
+    ~%-10%motores de caudal constante o variable y un solo sentido de giro
+    ~%-10%motores de caudal constante o variable y dos sentidos de giro
+    ~%-10%motores de caudal constante y un solo sentido de giro
+}
+
+::Pregunta 42:: ¿Qué tipo de motores neumáticos son adecuados para velocidades de giro muy altas y potencias pequeñas? {
+    ~%100%motores de turbina
+    ~%-10%motores de paletas
+    ~%-10%motores rotativos de pistones
+    ~%-10%motores de caudal constante
+}
+
+::Pregunta 43:: ¿Qué función tienen los elementos de control en sistemas neumáticos? {
+    ~%100%controlar el flujo, la presión y el caudal del aire comprimido
+    ~%-10%suministrar aire comprimido
+    ~%-10%limpiar el aire comprimido
+    ~%-10%generar aire comprimido
+}
+
+::Pregunta 44:: ¿Cómo se designan los elementos de control en sistemas neumáticos? {
+    ~%100%válvulas
+    ~%-10%cilindros
+    ~%-10%motores
+    ~%-10%compresores
+}
+
+::Pregunta 43:: ¿De qué formas se pueden activar las válvulas? {
+    ~%25%manualmente
+    ~%25%por medios mecánicos
+    ~%25%por medios neumáticos o hidráulicos
+    ~%25%por medios eléctricos
+}
+
+::Pregunta 44:: ¿Qué tipos fundamentales de válvulas se distinguen según su función? {
+    ~%33.3333%válvulas de control de dirección
+    ~%33.3333%válvulas de control de caudal
+    ~%33.3333%válvulas de control de presión
+    ~%-10%válvulas de seguridad
+}
+
+::Pregunta 45:: ¿Qué es lo que gobiernan las válvulas de control de dirección? {
+    ~%100%la dirección y el sentido en que circula el aire comprimido
+    ~%-10%el caudal del aire comprimido
+    ~%-10%la presión del aire comprimido
+    ~%-10%la temperatura del aire comprimido
+}
+
+::Pregunta 46:: ¿Qué indican los números que caracterizan a las válvulas de control de dirección? {
+    ~%50%el número de vías
+    ~%50%el número de posiciones
+    ~%-10%el diámetro de las vías
+    ~%-10%la presión máxima de trabajo
+}
+
+::Pregunta 47:: ¿Qué indica el número de vías en una válvula? {
+    ~%100%el número de conductos de entrada y salida que pueden conectarse
+    ~%-10%el diámetro de los conductos
+    ~%-10%la presión máxima de trabajo
+    ~%-10%la temperatura máxima de trabajo
+}
+
+::Pregunta 48:: ¿Qué indica el número de posiciones en una válvula? {
+    ~%100%las diferentes opciones de trabajo de la válvula
+    ~%-10%el número de conductos
+    ~%-10%la presión máxima de trabajo
+    ~%-10%la temperatura máxima de trabajo
+}
+
+::Pregunta 49:: ¿Qué elementos contiene la forma constructiva de una válvula? {
+    ~%33.3333%cuerpo o estructura básica
+    ~%33.3333%elemento móvil
+    ~%33.3333%elementos de accionamiento
+    ~%-10%sistema de refrigeración
+}
+
+::Pregunta 50:: ¿Qué tipos de válvulas se distinguen según su elemento móvil? {
+    ~%50%válvulas de asiento
+    ~%50%válvulas de corredera
+    ~%-10%válvulas de pistón
+    ~%-10%válvulas de diafragma
+}
+
+::Pregunta 51:: ¿Qué caracteriza a las válvulas de asiento? {
+    ~%100%el paso o cierre del aire se efectúa mediante el apoyo o separación de dos órganos de la propia válvula
+    ~%-10%el paso del aire se realiza por medio de una corredera
+    ~%-10%el paso del aire se realiza por medio de un pistón
+    ~%-10%el paso del aire se realiza por medio de un diafragma
+}
+
+::Pregunta 52:: ¿Qué caracteriza a las válvulas de corredera? {
+    ~%100%el paso del aire se realiza por medio de una corredera debidamente diseñada
+    ~%-10%el paso o cierre del aire se efectúa mediante el apoyo o separación de dos órganos de la propia válvula
+    ~%-10%el paso del aire se realiza por medio de un pistón
+    ~%-10%el paso del aire se realiza por medio de un diafragma
+}
+
+::Pregunta 53:: ¿Qué son los dispositivos de mando en las válvulas? {
+    ~%100%dispositivos que causan las acciones externas que originan el paso de una válvula de una posición a otra
+    ~%-10%dispositivos que miden la presión del aire
+    ~%-10%dispositivos que controlan el caudal del aire
+    ~%-10%dispositivos que enfrían el aire
+}
+
+::Pregunta 54:: ¿Qué tipos de accionamiento pueden tener las válvulas? {
+    ~%33.3333%accionados por el operador
+    ~%33.3333%accionables por un órgano mecánico móvil
+    ~%33.3333%accionables por un sistema eléctrico o neumático
+    ~%-10%accionables por un sistema hidráulico
+}
+
+::Pregunta 55:: ¿Qué es una electroválvula? {
+    ~%100%válvula accionada por un electroimán
+    ~%-10%válvula accionada por un operador
+    ~%-10%válvula accionada por un órgano mecánico móvil
+    ~%-10%válvula accionada por un sistema neumático
+}
+
+::Pregunta 56:: ¿Qué es una válvula biestable? {
+    ~%100%válvula que adquiere una posición al activarla y permanece en esa posición aunque cese la causa que la activó
+    ~%-10%válvula que regresa a la posición de reposo por la acción de un muelle
+    ~%-10%válvula que se acciona solo manualmente
+    ~%-10%válvula que se acciona solo eléctricamente
+}
+
+::Pregunta 57:: ¿Cuál es la función de una válvula antirretorno? {
+    ~%100%cerrar por completo el paso del aire comprimido en un sentido y dejarlo libre en el contrario
+    ~%-10%permitir el paso del aire en ambos sentidos
+    ~%-10%regular el caudal del aire
+    ~%-10%regular la presión del aire
+}
+
+::Pregunta 58:: ¿Cuál es la función de una válvula selectora (función OR)? {
+    ~%100%permitir el paso del aire cuando éste procede de un conducto o de otro conducto
+    ~%-10%permitir el paso del aire solo si hay presión en ambos conductos
+    ~%-10%cerrar el paso del aire en ambos conductos
+    ~%-10%regular la presión del aire
+}
+
+::Pregunta 59:: ¿Cuál es la función de una válvula distribuidora automática de tres vías (escape rápido)? {
+    ~%100%evacuar rápidamente el aire de cualquier recipiente
+    ~%-10%permitir el paso del aire en un solo sentido
+    ~%-10%regular el caudal del aire
+    ~%-10%regular la presión del aire
+}
+
+::Pregunta 60:: ¿Cuál es la función de una válvula de simultaneidad (función AND)? {
+    ~%100%permitir la salida de aire comprimido si, y solo si, existe presión en ambas entradas
+    ~%-10%permitir el paso del aire cuando éste procede de un conducto o de otro conducto
+    ~%-10%cerrar el paso del aire en ambos conductos
+    ~%-10%regular la presión del aire
+}
+
+::Pregunta 61:: ¿Qué dos grandes grupos de válvulas de control de caudal existen? {
+    ~%50%reguladores unidireccionales
+    ~%50%reguladores bidireccionales
+    ~%-10%válvulas de seguridad
+    ~%-10%válvulas de secuencia
+}
+
+::Pregunta 62:: ¿Para qué se utilizan los reguladores unidireccionales? {
+    ~%50%regular la velocidad de desplazamiento de los cilindros neumáticos
+    ~%50%obtener retardos en los circuitos de mando
+    ~%-10%regular la presión del aire
+    ~%-10%cerrar el paso del aire
+}
+
+::Pregunta 63:: ¿Cómo se realiza la regulación del caudal en los reguladores bidireccionales? {
+    ~%100%mediante el giro de un tornillo que disminuye o aumenta la sección de paso
+    ~%-10%mediante el apoyo o separación de dos órganos de la propia válvula
+    ~%-10%mediante un pistón
+    ~%-10%mediante un diafragma
+}
+
+::Pregunta 64:: ¿Qué tipos de válvulas de control de presión se mencionan  en los apuntes? {
+    ~%33.3333%válvulas de seguridad
+    ~%33.3333%válvulas de secuencia
+    ~%33.3333%reguladores de presión
+    ~%-10%válvulas antirretorno
+}
+
+::Pregunta 65:: ¿Cuál es la función de una válvula de seguridad? {
+    ~%100%mantener la presión constante por debajo de cierto umbral
+    ~%-10%regular el caudal del aire
+    ~%-10%permitir el paso del aire en un solo sentido
+    ~%-10%permitir el paso del aire en ambos sentidos
+}
+
+::Pregunta 66:: ¿Cuál es la función de una válvula de secuencia? {
+    ~%100%alimentar elementos a presiones diferentes
+    ~%-10%mantener la presión constante
+    ~%-10%regular el caudal del aire
+    ~%-10%permitir el paso del aire en un solo sentido
+}
+
+::Pregunta 67:: ¿Qué hace un regulador de presión? {
+    ~%100%mantiene la presión a la salida estable, aunque en la entrada fluctúe
+    ~%-10%mantiene el caudal a la salida estable, aunque en la entrada fluctúe
+    ~%-10%mantiene la temperatura a la salida estable, aunque en la entrada fluctúe
+    ~%-10%mantiene la presión a la entrada estable
+}
+
+::Pregunta 68:: ¿Qué significan los números en la designación de una válvula, por ejemplo, en una válvula 5/3? {
+    ~%50%5 vías (conexiones)
+    ~%50%3 posiciones
+    ~%-10%5 posiciones
+    ~%-10%3 vías (conexiones)
+}
+
+::Pregunta 69:: ¿Cómo se representa cada posición en el símbolo esquemático de una válvula? {
+    ~%100%con un cuadrado
+    ~%-10%con un círculo
+    ~%-10%con un triángulo
+    ~%-10%con un rombo
+}
+
+::Pregunta 70:: ¿Qué indica el término "retorno" en una válvula? {
+    ~%100%que el regreso a la condición de reposo suele producirse por la acción de un muelle
+    ~%-10%que la válvula requiere una alimentación constante
+    ~%-10%que la válvula solo funciona en un sentido
+    ~%-10%que la válvula solo funciona con presión
+}
+
+::Pregunta 71:: ¿En qué se basa el funcionamiento de un elemento temporizador neumático? {
+    ~%100%el tiempo que tarda el aire comprimido en llenar un acumulador a través de una estrangulación
+    ~%-10%la velocidad del pistón en un cilindro
+    ~%-10%la presión del aire en el circuito principal
+    ~%-10%la temperatura del aire en el circuito
+}
+
+::Pregunta 72:: ¿Qué componentes principales conforman un elemento temporizador neumático? {
+    ~%33.3333%un regulador unidireccional
+    ~%33.3333%un acumulador
+    ~%33.3333%una válvula neumática 3/2 pilotada por presión directa y retorno de muelle
+    ~%-10%una válvula neumática 3/2 pilotada por una seta y retorno de muelle
+    ~%-10%una válvula neumática 3/2 pilotada por una seta y retorno neumático
+    ~%-10%un filtro de aire
+}
+
+::Pregunta 73:: ¿Qué diferencia fundamental existe entre un temporizador a la conexión y uno a la desconexión? {
+    ~%100%en la orientación de la válvula antirretorno con estrangulación regulable
+    ~%-10%en el tamaño del acumulador
+    ~%-10%en la presión del aire comprimido
+    ~%-10%en el tipo de válvula neumática utilizada
+}
+
+::Pregunta 74:: ¿Cómo se enumeran los cilindros en un esquema de movimientos secuenciales neumáticos? {
+    ~%100%en el orden 1.0, 2.0, 3.0, ...
+    ~%-10%en el orden 1.1, 2.1, 3.1, ...
+    ~%-10%en el orden 1.2, 2.2, 3.2, ...
+    ~%-10%en el orden 1.02, 2.02, 3.02, ...
+}
+
+::Pregunta 75:: ¿Cómo se enumeran los captadores de información que influyen en el movimiento de salida del vástago de un cilindro? {
+    ~%100%de la forma n.2, n.4, ... (número del elemento de potencia punto número par)
+    ~%-10%de la forma n.3, n.5, ... (número del elemento de potencia punto número impar)
+    ~%-10%de la forma n.1
+    ~%-10%de la forma n.02, n.03
+}
+
+::Pregunta 76:: ¿Cómo se enumeran los captadores de información que influyen en el movimiento de retorno del vástago de un cilindro? {
+    ~%-10%de la forma n.2, n.4, ... (número del elemento de potencia punto número par)
+    ~%100%de la forma n.3, n.5, ... (número del elemento de potencia punto número impar)
+    ~%-10%de la forma n.1
+    ~%-10%de la forma n.02, n.03
+}
+
+::Pregunta 77:: La numeración n.1 (1.1, 2.1, 3.1, ...) se reserva para..  {
+    ~%50%órgano de gobierno del elemento de potencia
+    ~%50%válvula de control del elemento de potencia
+    ~%-10%válvula de simultaneidad o selectoras.
+    ~%-10%válvulas unidireccionales
+}
