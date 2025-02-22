@@ -1,0 +1,418 @@
+$CATEGORY: $course$/top/TEMA 3. Bloque B. Hidráulica/
+
+$CATEGORY: $course$/top/TEMA 3. Bloque B. Hidráulica/Hidráulica.Teoría/
+
+::Q1:: ¿Cuáles de las siguientes afirmaciones sobre la evaporación y condensación en un recipiente cerrado son correctas? {
+~%33.33333%La velocidad de evaporación depende de la superficie del líquido y la temperatura.
+~%-10%La velocidad de condensación es constante durante todo el proceso.
+~%33.33333%En el equilibrio dinámico, la velocidad de evaporación es igual a la de condensación.
+~%-10%La presión de vapor disminuye con el aumento de la temperatura.
+~%33.33333%Las moléculas vaporizadas pueden adherirse a las paredes del recipiente y condensarse.
+~%-10%La velocidad de evaporación aumenta con el tiempo en un recipiente cerrado.
+}
+
+::Q2:: ¿Qué factores influyen en la ebullición de un líquido? {
+~%33.33333%La presión atmosférica del entorno.
+~%-10%La cantidad de líquido en el recipiente.
+~%33.33333%La temperatura del líquido.
+~%-10%El color del recipiente que contiene el líquido.
+~%33.33333%La presión de vapor del líquido.
+~%-10%La forma del recipiente que contiene el líquido.
+}
+
+::Q3:: Respecto a la ebullición del agua en diferentes altitudes, ¿cuáles de las siguientes afirmaciones son correctas? {
+~%33.33333%El agua hierve a menor temperatura en la cima del monte Everest que a nivel del mar.
+~%-10%La presión atmosférica no afecta al punto de ebullición del agua.
+~%33.33333%A nivel del mar, el agua hierve aproximadamente a 100°C.
+~%-10%El agua siempre hierve a 100°C independientemente de la altitud.
+~%33.33333%En la cima del monte Everest, el agua hierve a una temperatura cercana a los 70°C.
+~%-10%La altitud no tiene ningún efecto sobre el punto de ebullición del agua.
+}
+
+::Q4:: En relación con la cavitación en sistemas hidráulicos, ¿cuáles de las siguientes afirmaciones son verdaderas? {
+~%50%La cavitación puede provocar problemas de corrosión en bombas y turbinas.
+~%-10%La cavitación solo ocurre en líquidos a temperaturas muy altas.
+~%-10%La cavitación mejora la eficiencia de los sistemas hidráulicos.
+~%50%El conocimiento de la presión de vapor es crucial para prevenir la cavitación.
+~%-10%La cavitación solo afecta a sistemas hidráulicos que utilizan agua como fluido.
+}
+
+::Q5:: ¿Cuáles de las siguientes afirmaciones sobre la presión de vapor y el punto de ebullición son correctas? {
+~%-10%Todos los líquidos tienen el mismo punto de ebullición a 1 atm de presión.
+~%50%El éter tiene un punto de ebullición más bajo que el agua a 1 atm de presión.
+~%-10%La presión de vapor de un líquido es independiente de su temperatura.
+~%50%El alcohol etílico hierve a una temperatura intermedia entre el éter y el agua a 1 atm de presión.
+~%-10%La presión de vapor solo es relevante para el agua, no para otros líquidos.
+}
+
+::Q6:: ¿Qué es la viscosidad en un fluido? {
+~%100%La resistencia al flujo entre capas del fluido debido al rozamiento interno
+~%-10%La capacidad del fluido para flotar sobre otros líquidos
+~%-10%La tendencia del fluido a evaporarse rápidamente
+~%-10%La propiedad del fluido que determina su color
+~%-10%La capacidad del fluido para conducir electricidad
+}
+
+::Q7:: ¿Cuáles de las siguientes afirmaciones sobre la viscosidad dinámica son correctas? {
+~%33.33333%Se mide en pascales por segundo (Pa⋅s) en el Sistema Internacional
+~%33.33333%Varía considerablemente con la temperatura
+~%33.33333%No depende de la presión
+~%-10%Aumenta siempre con la presión
+~%-10%Es constante para todos los fluidos a una temperatura dada
+}
+
+::Q8:: La viscosidad cinemática {
+~%33.33333%Se define como la viscosidad dinámica dividida por la densidad
+~%33.33333%En los gases, varía mucho con la presión y la temperatura
+~%33.33333%Se mide en m²/s o en Stokes (St)
+~%-10%Es independiente de la temperatura en los líquidos
+~%-10%Siempre es mayor que la viscosidad dinámica
+}
+
+::Q9:: Respecto al índice de viscosidad (I.V.) y la clasificación SAE, ¿cuáles de las siguientes afirmaciones son correctas? {
+~%33.33333%La clasificación SAE compara la viscosidad del aceite con dos aceites patrones
+~%33.33333%Para aceites de automoción, se indican dos valores de viscosidad
+~%33.33333%En la notación "15W40", el 40 representa la viscosidad a temperatura de arranque
+~%-10%El índice de viscosidad es independiente de la temperatura
+~%-10%La clasificación SAE solo se aplica a aceites industriales, no de automoción
+}
+
+::Q10:: ¿Qué es el punto de fluidez y cómo se relaciona con los sistemas hidráulicos? {
+~%100%Es la temperatura más baja a la que fluye un líquido
+~%-10%Es la temperatura a la que un líquido se congela completamente
+~%-10%Es la temperatura máxima a la que puede operar un sistema hidráulico
+~%-10%No tiene relación con los sistemas hidráulicos
+~%-10%Es la temperatura a la que un líquido alcanza su máxima viscosidad
+~%-10%Son 10ºC más de la temperatura más baja a la que fluye un líquido, o a la temperatura que debe trabajar.
+}
+
+::Q11:: ¿Qué fuerzas actúan sobre las moléculas de un líquido en su interior? {
+~%50%Fuerzas de Van der Waals
+~%50%Puentes de hidrógeno
+~%-10%Fuerzas gravitacionales
+~%-10%Fuerzas electromagnéticas
+}
+
+::Q12:: La tensión superficial de un líquido se define como... {
+~%100%El trabajo necesario para aumentar la superficie del líquido por unidad de área
+~%-10%La fuerza necesaria para romper la superficie del líquido
+~%-10%La presión ejercida por la atmósfera sobre la superficie del líquido
+~%-10%La temperatura a la que el líquido comienza a evaporarse
+}
+
+::Q13:: ¿Cuáles de las siguientes afirmaciones sobre el menisco son correctas? {
+~%25%El menisco cóncavo se forma cuando el líquido "moja" al sólido
+~%25%El menisco convexo se forma cuando el líquido "no moja" al sólido
+~%25%En el menisco cóncavo, las fuerzas de adherencia son mayores que las de cohesión
+~%25%En el menisco convexo, las fuerzas de cohesión son mayores que las de adherencia
+~%-10%El menisco siempre es cóncavo en todos los líquidos
+}
+
+::Q14:: ¿Cuáles son las unidades de la tensión superficial en el Sistema Internacional? {
+~%100%N/m
+~%-10%N/m²
+~%-10%kg/m
+~%-10%J/m²
+}
+
+::Q15:: Respecto a la resistencia a la oxidación de los fluidos oleohidráulicos, ¿cuáles de las siguientes afirmaciones son correctas? {
+~%33.33333%Los fluidos oleohidráulicos suelen oxidarse fácilmente por contener carbono e hidrógeno
+~%33.33333%Los óxidos solubles pueden favorecer fenómenos de corrosión
+~%33.33333%Se suelen añadir aditivos antioxidantes a los fluidos oleohidráulicos
+~%-10%La oxidación no afecta el rendimiento de los sistemas hidráulicos
+~%-10%Todos los óxidos formados son beneficiosos para el sistema hidráulico
+}
+
+::Q16:: ¿Por qué algunos objetos pequeños y densos pueden flotar en la superficie de un líquido a pesar de tener mayor densidad? {
+~%100%Debido a la tensión superficial que actúa como una "cama elástica" en la superficie del líquido
+~%-10%Porque estos objetos son naturalmente impermeables
+~%-10%Debido a la presión atmosférica que los mantiene en la superficie
+~%-10%Porque estos objetos tienen una densidad menor que el líquido
+}
+
+::Q17:: ¿Qué describe una línea de corriente o línea de flujo en un fluido? {
+~%100%La trayectoria de cada partícula del fluido en una conducción
+~%-10%La dirección del flujo de calor en el fluido
+~%-10%La variación de presión a lo largo de la tubería
+~%-10%El cambio de densidad del fluido en la conducción
+}
+
+::Q18:: En relación con los regímenes de flujo en una tubería, ¿cuáles de las siguientes afirmaciones son correctas? {
+~%25%El régimen laminar ocurre cuando las partículas se mueven "por capas" superpuestas
+~%25%El régimen turbulento se caracteriza por un movimiento entremezclado y caótico de las partículas
+~%25%En el régimen laminar, el movimiento es paralelo a las paredes de las tuberías
+~%25%El régimen turbulento se produce cuando se supera la velocidad crítica del fluido
+~%-10%El régimen laminar siempre produce más pérdidas de energía que el turbulento
+}
+
+::Q19:: Respecto al número de Reynolds y los regímenes de flujo en tuberías, seleccione las afirmaciones correcta... {
+~%33.33333%En una cañería recta, el flujo es laminar si el número de Reynolds es menor a 2320
+~%33.33333%La fórmula para calcular la velocidad crítica es vc = (2320 x μ) / (ρ x D)
+~%33.33333%En una cañería curva, el flujo es claramente turbulento si el número de Reynolds supera 12400
+~%-10%El número de Reynolds depende únicamente de la velocidad del fluido
+~%-10%En todas las situaciones, un número de Reynolds superior a 2320 indica régimen turbulento
+}
+
+::Q20:: En relación al número de Reynolds y los regímenes de flujo en una cañería recta, ¿cuáles de las siguientes afirmaciones son correctas? {
+~%50%El número de Reynolds no debe sobrepasar 2320 para evitar el régimen turbulento
+~%50%El régimen turbulento causa pérdidas de energía
+~%-10%La velocidad crítica se calcula como vc = (2320 x μ) / (ρ x R)
+~%-10%El régimen laminar siempre se mantiene independientemente del número de Reynolds
+~%-10%El número de Reynolds crítico en una cañería recta es 12400
+}
+
+::Q21:: Respecto a los regímenes de flujo en una cañería curva, seleccione las afirmaciones correctas... {
+~%25%El flujo es laminar cuando el número de Reynolds es menor a 2320
+~%25%El flujo es claramente turbulento cuando el número de Reynolds supera 12400
+~%25%Entre 2320 y 12400, el régimen depende de los radios de la curva y del diámetro de la cañería
+~%25%Hay tres posibles regímenes de flujo en una cañería curva, que son... laminar, de transición y turbulento
+~%-10%El flujo en una cañería curva siempre es turbulento independientemente del número de Reynolds
+}
+
+::Q22:: ¿Quién formuló el principio fundamental de la hidrostática? {
+~%100%Blaise Pascal
+~%-10%Isaac Newton
+~%-10%Arquímedes
+~%-10%Daniel Bernoulli
+}
+
+::Q23:: El principio de Pascal establece que... {
+~%100%La presión ejercida en un punto de la masa líquida se transmite íntegramente y por igual en todas direcciones
+~%-10%La presión en un líquido solo se transmite hacia abajo
+~%-10%La presión en un líquido disminuye con la profundidad
+~%-10%La presión en un líquido solo se transmite horizontalmente
+}
+
+::Q24:: ¿Cuáles de las siguientes son aplicaciones del principio de Pascal? {
+~%33.33333%Prensa hidráulica
+~%33.33333%Gato hidráulico
+~%33.33333%Frenos hidráulicos
+~%-10%Turbinas de vapor
+~%-10%Paneles solares
+}
+
+::Q25:: En una prensa hidráulica, si F1 es la fuerza aplicada en el pistón pequeño y F2 es la fuerza resultante en el pistón grande, ¿qué relación se cumple? {
+~%100%F1/S1 = F2/S2
+~%-10%F1 x S1 = F2 x S2
+~%-10%F1/S2 = F2/S1
+~%-10%F1 + S1 = F2 + S2
+}
+
+::Q26:: En una prensa hidráulica, si el área del pistón grande (A2) es mayor que el área del pistón pequeño (A1), ¿qué sucede con el recorrido de los émbolos? {
+~%100%El recorrido del émbolo menor (l1) es mayor que el del émbolo mayor (l2)
+~%-10%El recorrido del émbolo mayor (l2) es mayor que el del émbolo menor (l1)
+~%-10%Ambos émbolos tienen el mismo recorrido
+~%-10%El recorrido de los émbolos no está relacionado con sus áreas
+}
+
+::Q27:: La ecuación de continuidad se basa en \:{
+~%100%El principio de conservación de la masa
+~%-10%El principio de Pascal
+~%-10%La ley de Boyle
+~%-10%La ley de Hooke
+}
+
+::Q28:: Según la ecuación de continuidad, en un líquido incompresible y de densidad constante con régimen laminar, ¿qué relación existe entre la velocidad del fluido y el área de la sección transversal de la cañería? {
+~%100%La velocidad es inversamente proporcional al área de la sección transversal
+~%-10%La velocidad es directamente proporcional al área de la sección transversal
+~%-10%La velocidad es independiente del área de la sección transversal
+~%-10%La velocidad es proporcional al cuadrado del área de la sección transversal
+}
+
+::Q29:: ¿Qué expresa la ecuación Q1 \= Q2 en la ecuación de continuidad? {
+~%100%Los caudales en diferentes secciones de la tubería son iguales
+~%-10%Las velocidades en diferentes secciones de la tubería son iguales
+~%-10%Las presiones en diferentes secciones de la tubería son iguales
+~%-10%Las densidades en diferentes secciones de la tubería son iguales
+}
+
+::Q30:: ¿Cuáles son las condiciones necesarias para que se cumpla la ecuación de continuidad? {
+~%25%El líquido debe ser incompresible
+~%25%La densidad del líquido debe ser constante
+~%25%El régimen de flujo debe ser laminar
+~%25%El flujo debe ocurrir en una cañería o tubería
+~%-10%El líquido debe estar en reposo
+}
+
+::Q31:: Si una tubería se estrecha de una sección A1 a una sección A2 más pequeña, ¿qué ocurre con la velocidad del fluido? {
+~%100%La velocidad aumenta en la sección más estrecha
+~%-10%La velocidad disminuye en la sección más estrecha
+~%-10%La velocidad permanece constante en toda la tubería
+~%-10%La velocidad se vuelve cero en la sección más estrecha
+}
+
+::Q32:: ¿Cuáles son las tres energías asociadas a una masa de líquido que circula por una cañería según el teorema de Bernoulli? {
+~%33.33333%Energía hidrostática
+~%33.33333%Energía potencial o estática
+~%33.33333%Energía cinética o hidrodinámica
+~%-10%Energía térmica
+~%-10%Energía electromagnética
+}
+
+::Q33:: La energía hidrostática en el teorema de Bernoulli se expresa como\: {
+~%100%W = p · V
+~%-10%W = m · g · h
+~%-10%W = 1/2 · m · v²
+~%-10%W = F · d
+}
+
+::Q34:: En la ecuación de Bernoulli, ¿qué representa el término "p/ρg"? {
+~%100%La altura piezométrica
+~%-10%La altura dinámica
+~%-10%La altura total de carga
+~%-10%La altura geométrica
+}
+
+::Q35:: ¿Qué asunción se hace sobre el volumen del líquido en diferentes puntos de la cañería? {
+~%100%V1 = A1 · l1 = V2 = A2 · l2
+~%-10%V1 > V2
+~%-10%V1 < V2
+~%-10%V1 ≠ V2
+}
+
+::Q36:: La energía cinética en el teorema de Bernoulli se expresa como\: {
+~%100%Ec = 1/2 · m · v²
+~%-10%Ec = m · g · h
+~%-10%Ec = p · V
+~%-10%Ec = F · d
+}
+
+::Q37:: ¿Qué representa "H" en la ecuación final del teorema de Bernoulli? {
+~%100%La altura total de carga
+~%-10%La altura geométrica
+~%-10%La altura piezométrica
+~%-10%La altura dinámica
+}
+
+::Q38:: En la ecuación de Bernoulli, ¿qué término representa la altura dinámica? {
+~%100%v²/2g
+~%-10%p/ρg
+~%-10%h
+~%-10%H
+}
+
+::Q39:: ¿Qué suposición se hace sobre la densidad del líquido en el teorema de Bernoulli? {
+~%100%La densidad es constante
+~%-10%La densidad aumenta con la velocidad
+~%-10%La densidad disminuye con la presión
+~%-10%La densidad varía con la altura
+}
+
+::Q40:: La forma final de la ecuación de Bernoulli se obtiene al dividir todos los términos por\: {
+~%100%ρ · g
+~%-10%p · V
+~%-10%1/2 · m · v²
+~%-10%m · g · h
+}
+
+::Q41:: ¿Cuál de las siguientes NO es una componente de la altura total de carga (H) en la ecuación de Bernoulli? {
+~%-10%Altura geométrica (h)
+~%-10%Altura piezométrica (p/ρg)
+~%-10%Altura dinámica (v²/2g)
+~%100%Altura barométrica (ρgh)
+}
+
+::Q42:: ¿Qué sucede con la velocidad del fluido cuando se reduce la sección de una cañería según el efecto Venturi? {
+~%100%La velocidad aumenta
+~%-10%La velocidad disminuye
+~%-10%La velocidad permanece constante
+~%-10%La velocidad se vuelve cero
+}
+
+::Q43:: El efecto Venturi se utiliza en\: {
+~%33.33333%Válvulas reductoras de presión
+~%33.33333%Sistemas de riego para mezclar fertilizantes
+~%33.33333%Carburadores de automóviles
+~%-10%Sistemas de calefacción
+~%-10%Paneles solares
+}
+
+::Q44:: Según la ecuación de Bernoulli simplificada para una cañería a la misma altura, ¿qué relación existe entre la presión y la velocidad? {
+~%100%Si la presión disminuye, la velocidad aumenta
+~%-10%Si la presión disminuye, la velocidad disminuye
+~%-10%La presión y la velocidad aumentan simultáneamente
+~%-10%La presión y la velocidad no están relacionadas
+}
+
+::Q45:: ¿Cuál de los siguientes NO es un efecto relacionado con el vuelo de los aviones? {
+~%-10%Efecto Venturi
+~%-10%Efecto Coanda
+~%-10%Ángulo de ataque
+~%100%Efecto Doppler
+}
+
+::Q46:: El efecto Venturi se basa en\: {
+~%33.33333%El principio de Bernoulli
+~%33.33333%La ecuación de continuidad
+~%33.33333%La conservación de la energía en fluidos
+~%-10%La ley de Hooke
+~%-10%El principio de Arquímedes
+~%-10%El principio de Pascal
+}
+
+::Q47:: En un líquido no viscoso circulando por una tubería horizontal, según la ecuación de Bernoulli simplificada, ¿qué relación existe entre las presiones en diferentes puntos? {
+~%100%p1 \= p2
+~%-10%p1 > p2
+~%-10%p1 < p2
+~%-10%No hay relación entre p1 y p2
+}
+
+::Q48:: La ecuación de Darcy-Weissbach se utiliza para calcular\: {
+~%33.33333%La pérdida de carga en una tubería
+~%33.33333%La pérdida de presión debido a la viscosidad del fluido
+~%33.33333%La energía hidrostática perdida en un fluido viscoso
+~%-10%La velocidad del fluido en una tubería
+~%-10%El diámetro óptimo de una tubería
+}
+
+::Q49:: Según el esquema de un sistema hidráulico, ¿cuál es la función del "Depósito"? {
+~%100%Almacenar el fluido hidráulico
+~%-10%Generar presión en el sistema
+~%-10%Regular el flujo del fluido
+~%-10%Convertir la energía hidráulica en mecánica
+}
+
+::Q50:: ¿Cuáles de los siguientes elementos forman parte del bucle de control en el sistema hidráulico representado en el esquema? {
+~%50%Elementos actuadores
+~%50%Elementos de regulación y control
+~%-10%Motor
+~%-10%Elementos de transporte
+}
+
+::Q51:: Los grupos de accionamiento en un sistema hidráulico están principalmente compuestos por\: {
+~%33.33333%Bombas
+~%33.33333%Motores
+~%33.33333%Depósito, filtros, manómetros y válvulas de seguridad
+~%-10%Actuadores
+~%-10%Tuberías
+}
+
+::Q52:: ¿Cuáles de las siguientes son características principales de las bombas hidráulicas? {
+~%25%Valor nominal de la presión
+~%25%Caudal
+~%25%Desplazamiento
+~%25%Rendimiento
+~%-10%Viscosidad
+}
+
+::Q53:: ¿Qué funciones realiza el depósito en un sistema hidráulico? {
+~%33.33333%Almacena el fluido hidráulico
+~%33.33333%Disipa el calor del líquido
+~%33.33333%Separa impurezas y purga el aire
+~%-10%Genera presión en el sistema
+~%-10%Controla la velocidad del fluido
+}
+
+::Q54:: ¿Cuál es la misión de la válvula limitadora de presión en un sistema hidráulico? {
+~%100%Ajustar la presión de salida del líquido a un valor máximo admitido
+~%-10%Aumentar la presión del líquido
+~%-10%Medir la presión del líquido
+~%-10%Filtrar el líquido
+}
+
+::Q55:: ¿Cómo se representan las tuberías en un esquema de circuito hidráulico según los apuntes? {
+~%50%Las tuberías del circuito principal se dibujan con trazos continuos
+~%50%Las tuberías para el control de las válvulas se dibujan con trazos discontinuos
+~%-10%Todas las tuberías se dibujan con el mismo tipo de trazo
+~%-10%No se representan las tuberías en los esquemas
+}
