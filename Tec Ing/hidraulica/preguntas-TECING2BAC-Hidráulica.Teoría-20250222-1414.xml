@@ -608,22 +608,22 @@
     </answer>
   </question>
 
-<!-- question: 5342372  -->
+<!-- question: 5342515  -->
   <question type="multichoice">
     <name>
       <text>Q19</text>
     </name>
-    <questiontext format="moodle_auto_format">
-      <text>Respecto al número de Reynolds y los regímenes de flujo en tuberías, seleccione las afirmaciones correcta...</text>
+    <questiontext format="html">
+      <text><![CDATA[<p>Respecto al número de Reynolds y los regímenes de flujo en tuberías, seleccione las afirmaciones correcta...</p>]]></text>
     </questiontext>
-    <generalfeedback format="moodle_auto_format">
+    <generalfeedback format="html">
       <text></text>
     </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <idnumber></idnumber>
-    <single>true</single>
+    <single>false</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <showstandardinstruction>0</showstandardinstruction>
@@ -643,13 +643,7 @@
       </feedback>
     </answer>
     <answer fraction="33.33333" format="moodle_auto_format">
-      <text>La fórmula para calcular la velocidad crítica es vc</text>
-      <feedback format="moodle_auto_format">
-        <text></text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="moodle_auto_format">
-      <text>(2320 x μ) / (ρ x D)</text>
+      <text>La fórmula para calcular la velocidad crítica es vc = (2320 x μ) / (ρ x D)</text>
       <feedback format="moodle_auto_format">
         <text></text>
       </feedback>
@@ -740,22 +734,22 @@
     </answer>
   </question>
 
-<!-- question: 5342373  -->
+<!-- question: 5342516  -->
   <question type="multichoice">
     <name>
       <text>Q20</text>
     </name>
-    <questiontext format="moodle_auto_format">
-      <text>En relación al número de Reynolds y los regímenes de flujo en una cañería recta, ¿cuáles de las siguientes afirmaciones son correctas?</text>
+    <questiontext format="html">
+      <text><![CDATA[<p>En relación al número de Reynolds y los regímenes de flujo en una cañería recta, ¿cuáles de las siguientes afirmaciones son correctas?</p>]]></text>
     </questiontext>
-    <generalfeedback format="moodle_auto_format">
+    <generalfeedback format="html">
       <text></text>
     </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <idnumber></idnumber>
-    <single>true</single>
+    <single>false</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <showstandardinstruction>0</showstandardinstruction>
@@ -781,13 +775,7 @@
       </feedback>
     </answer>
     <answer fraction="-10" format="moodle_auto_format">
-      <text>La velocidad crítica se calcula como vc</text>
-      <feedback format="moodle_auto_format">
-        <text></text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="moodle_auto_format">
-      <text>(2320 x μ) / (ρ x R)</text>
+      <text>La velocidad crítica se calcula como vc = (2320 x μ) / (ρ x R)</text>
       <feedback format="moodle_auto_format">
         <text></text>
       </feedback>
@@ -1034,7 +1022,7 @@
     </answer>
   </question>
 
-<!-- question: 5342378  -->
+<!-- question: 5342517  -->
   <question type="multichoice">
     <name>
       <text>Q25</text>
@@ -1049,7 +1037,7 @@
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <idnumber></idnumber>
-    <single>true</single>
+    <single>false</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <showstandardinstruction>0</showstandardinstruction>
@@ -1063,49 +1051,25 @@
       <text></text>
     </incorrectfeedback>
     <answer fraction="100" format="moodle_auto_format">
-      <text>F1/S1</text>
-      <feedback format="moodle_auto_format">
-        <text></text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="moodle_auto_format">
-      <text>F2/S2</text>
+      <text>F1/S1 = F2/S2</text>
       <feedback format="moodle_auto_format">
         <text></text>
       </feedback>
     </answer>
     <answer fraction="-10" format="moodle_auto_format">
-      <text>F1 x S1</text>
-      <feedback format="moodle_auto_format">
-        <text></text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="moodle_auto_format">
-      <text>F2 x S2</text>
+      <text>F1 x S1 = F2 x S2</text>
       <feedback format="moodle_auto_format">
         <text></text>
       </feedback>
     </answer>
     <answer fraction="-10" format="moodle_auto_format">
-      <text>F1/S2</text>
-      <feedback format="moodle_auto_format">
-        <text></text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="moodle_auto_format">
-      <text>F2/S1</text>
+      <text>F1/S2 = F2/S1</text>
       <feedback format="moodle_auto_format">
         <text></text>
       </feedback>
     </answer>
     <answer fraction="-10" format="moodle_auto_format">
-      <text>F1 + S1</text>
-      <feedback format="moodle_auto_format">
-        <text></text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="moodle_auto_format">
-      <text>F2 + S2</text>
+      <text>F1 + S1 = F2 + S2</text>
       <feedback format="moodle_auto_format">
         <text></text>
       </feedback>
@@ -1568,7 +1532,7 @@
     </answer>
   </question>
 
-<!-- question: 5342386  -->
+<!-- question: 5342518  -->
   <question type="multichoice">
     <name>
       <text>Q33</text>
@@ -1583,7 +1547,7 @@
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <idnumber></idnumber>
-    <single>true</single>
+    <single>false</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <showstandardinstruction>0</showstandardinstruction>
@@ -1597,49 +1561,25 @@
       <text></text>
     </incorrectfeedback>
     <answer fraction="100" format="moodle_auto_format">
-      <text>W</text>
-      <feedback format="moodle_auto_format">
-        <text></text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="moodle_auto_format">
-      <text>p · V</text>
+      <text>W = p · V</text>
       <feedback format="moodle_auto_format">
         <text></text>
       </feedback>
     </answer>
     <answer fraction="-10" format="moodle_auto_format">
-      <text>W</text>
-      <feedback format="moodle_auto_format">
-        <text></text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="moodle_auto_format">
-      <text>m · g · h</text>
+      <text>W = m · g · h</text>
       <feedback format="moodle_auto_format">
         <text></text>
       </feedback>
     </answer>
     <answer fraction="-10" format="moodle_auto_format">
-      <text>W</text>
-      <feedback format="moodle_auto_format">
-        <text></text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="moodle_auto_format">
-      <text>1/2 · m · v²</text>
+      <text>W = 1/2 · m · v²</text>
       <feedback format="moodle_auto_format">
         <text></text>
       </feedback>
     </answer>
     <answer fraction="-10" format="moodle_auto_format">
-      <text>W</text>
-      <feedback format="moodle_auto_format">
-        <text></text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="moodle_auto_format">
-      <text>F · d</text>
+      <text>W = F · d</text>
       <feedback format="moodle_auto_format">
         <text></text>
       </feedback>
@@ -1700,7 +1640,7 @@
     </answer>
   </question>
 
-<!-- question: 5342388  -->
+<!-- question: 5342519  -->
   <question type="multichoice">
     <name>
       <text>Q35</text>
@@ -1715,7 +1655,7 @@
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <idnumber></idnumber>
-    <single>true</single>
+    <single>false</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <showstandardinstruction>0</showstandardinstruction>
@@ -1729,25 +1669,7 @@
       <text></text>
     </incorrectfeedback>
     <answer fraction="100" format="moodle_auto_format">
-      <text>V1</text>
-      <feedback format="moodle_auto_format">
-        <text></text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="moodle_auto_format">
-      <text>A1 · l1</text>
-      <feedback format="moodle_auto_format">
-        <text></text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="moodle_auto_format">
-      <text>V2</text>
-      <feedback format="moodle_auto_format">
-        <text></text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="moodle_auto_format">
-      <text>A2 · l2</text>
+      <text>V1 =V2</text>
       <feedback format="moodle_auto_format">
         <text></text>
       </feedback>
@@ -1772,7 +1694,7 @@
     </answer>
   </question>
 
-<!-- question: 5342389  -->
+<!-- question: 5342520  -->
   <question type="multichoice">
     <name>
       <text>Q36</text>
@@ -1787,7 +1709,7 @@
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <idnumber></idnumber>
-    <single>true</single>
+    <single>false</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <showstandardinstruction>0</showstandardinstruction>
@@ -1801,49 +1723,25 @@
       <text></text>
     </incorrectfeedback>
     <answer fraction="100" format="moodle_auto_format">
-      <text>Ec</text>
-      <feedback format="moodle_auto_format">
-        <text></text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="moodle_auto_format">
-      <text>1/2 · m · v²</text>
+      <text>Ec = 1/2 · m · v²</text>
       <feedback format="moodle_auto_format">
         <text></text>
       </feedback>
     </answer>
     <answer fraction="-10" format="moodle_auto_format">
-      <text>Ec</text>
-      <feedback format="moodle_auto_format">
-        <text></text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="moodle_auto_format">
-      <text>m · g · h</text>
+      <text>Ec = m · g · h</text>
       <feedback format="moodle_auto_format">
         <text></text>
       </feedback>
     </answer>
     <answer fraction="-10" format="moodle_auto_format">
-      <text>Ec</text>
-      <feedback format="moodle_auto_format">
-        <text></text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="moodle_auto_format">
-      <text>p · V</text>
+      <text>Ec = p · V</text>
       <feedback format="moodle_auto_format">
         <text></text>
       </feedback>
     </answer>
     <answer fraction="-10" format="moodle_auto_format">
-      <text>Ec</text>
-      <feedback format="moodle_auto_format">
-        <text></text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="moodle_auto_format">
-      <text>F · d</text>
+      <text>Ec = F · d</text>
       <feedback format="moodle_auto_format">
         <text></text>
       </feedback>
