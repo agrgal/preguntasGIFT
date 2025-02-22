@@ -24,17 +24,6 @@
     <idnumber>T3B_Teoría</idnumber>
   </question>
 
-<!-- question: 0  -->
-  <question type="category">
-    <category>
-      <text>$course$/top/TEMA 3. Bloque B. Hidráulica/Hidráulica.Teoría/</text>
-    </category>
-    <info format="moodle_auto_format">
-      <text></text>
-    </info>
-    <idnumber></idnumber>
-  </question>
-
 <!-- question: 5342354  -->
   <question type="multichoice">
     <name>
