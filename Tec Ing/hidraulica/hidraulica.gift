@@ -147,7 +147,7 @@ $CATEGORY: $course$/top/TEMA 3. Bloque B. Hidráulica/Hidráulica.Teoría/
 
 ::Q19:: Respecto al número de Reynolds y los regímenes de flujo en tuberías, seleccione las afirmaciones correcta... {
 ~%33.33333%En una cañería recta, el flujo es laminar si el número de Reynolds es menor a 2320
-~%33.33333%La fórmula para calcular la velocidad crítica es vc = (2320 x μ) / (ρ x D)
+~%33.33333%La fórmula para calcular la velocidad crítica es vc \= (2320 x μ) / (ρ x D)
 ~%33.33333%En una cañería curva, el flujo es claramente turbulento si el número de Reynolds supera 12400
 ~%-10%El número de Reynolds depende únicamente de la velocidad del fluido
 ~%-10%En todas las situaciones, un número de Reynolds superior a 2320 indica régimen turbulento
@@ -156,7 +156,7 @@ $CATEGORY: $course$/top/TEMA 3. Bloque B. Hidráulica/Hidráulica.Teoría/
 ::Q20:: En relación al número de Reynolds y los regímenes de flujo en una cañería recta, ¿cuáles de las siguientes afirmaciones son correctas? {
 ~%50%El número de Reynolds no debe sobrepasar 2320 para evitar el régimen turbulento
 ~%50%El régimen turbulento causa pérdidas de energía
-~%-10%La velocidad crítica se calcula como vc = (2320 x μ) / (ρ x R)
+~%-10%La velocidad crítica se calcula como vc \= (2320 x μ) / (ρ x R)
 ~%-10%El régimen laminar siempre se mantiene independientemente del número de Reynolds
 ~%-10%El número de Reynolds crítico en una cañería recta es 12400
 }
@@ -192,10 +192,10 @@ $CATEGORY: $course$/top/TEMA 3. Bloque B. Hidráulica/Hidráulica.Teoría/
 }
 
 ::Q25:: En una prensa hidráulica, si F1 es la fuerza aplicada en el pistón pequeño y F2 es la fuerza resultante en el pistón grande, ¿qué relación se cumple? {
-~%100%F1/S1 = F2/S2
-~%-10%F1 x S1 = F2 x S2
-~%-10%F1/S2 = F2/S1
-~%-10%F1 + S1 = F2 + S2
+~%100%F1/S1 \= F2/S2
+~%-10%F1 x S1 \= F2 x S2
+~%-10%F1/S2 \= F2/S1
+~%-10%F1 + S1 \= F2 + S2
 }
 
 ::Q26:: En una prensa hidráulica, si el área del pistón grande (A2) es mayor que el área del pistón pequeño (A1), ¿qué sucede con el recorrido de los émbolos? {
@@ -250,10 +250,10 @@ $CATEGORY: $course$/top/TEMA 3. Bloque B. Hidráulica/Hidráulica.Teoría/
 }
 
 ::Q33:: La energía hidrostática en el teorema de Bernoulli se expresa como\: {
-~%100%W = p · V
-~%-10%W = m · g · h
-~%-10%W = 1/2 · m · v²
-~%-10%W = F · d
+~%100%W \= p · V
+~%-10%W \= m · g · h
+~%-10%W \= 1/2 · m · v²
+~%-10%W \= F · d
 }
 
 ::Q34:: En la ecuación de Bernoulli, ¿qué representa el término "p/ρg"? {
@@ -264,17 +264,17 @@ $CATEGORY: $course$/top/TEMA 3. Bloque B. Hidráulica/Hidráulica.Teoría/
 }
 
 ::Q35:: ¿Qué asunción se hace sobre el volumen del líquido en diferentes puntos de la cañería? {
-~%100%V1 = A1 · l1 = V2 = A2 · l2
+~%100%V1 \= A1 · l1 \= V2 \= A2 · l2
 ~%-10%V1 > V2
 ~%-10%V1 < V2
 ~%-10%V1 ≠ V2
 }
 
 ::Q36:: La energía cinética en el teorema de Bernoulli se expresa como\: {
-~%100%Ec = 1/2 · m · v²
-~%-10%Ec = m · g · h
-~%-10%Ec = p · V
-~%-10%Ec = F · d
+~%100%Ec \= 1/2 · m · v²
+~%-10%Ec \= m · g · h
+~%-10%Ec \= p · V
+~%-10%Ec \= F · d
 }
 
 ::Q37:: ¿Qué representa "H" en la ecuación final del teorema de Bernoulli? {
