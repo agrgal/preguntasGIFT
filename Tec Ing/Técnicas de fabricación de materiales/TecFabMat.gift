@@ -478,9 +478,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 68: Elección múltiple (3 respuestas correctas)
 ::P68:: ¿Cuáles de los siguientes son pasos del proceso de moldeo por arena? {
-    ~%33.33%Elaboración de un modelo con madera o plástico
-    ~%33.33%Compactación de arena alrededor del modelo
-    ~%33.33%Vaciado del metal fundido en el molde
+    ~%33.33333%Elaboración de un modelo con madera o plástico
+    ~%33.33333%Compactación de arena alrededor del modelo
+    ~%33.33333%Vaciado del metal fundido en el molde
     ~%-10%Inyección de plástico en un molde frío
 }
 
@@ -510,9 +510,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 72: Elección múltiple (3 respuestas correctas)
 ::P72:: ¿Cuáles de los siguientes son ejemplos de productos fabricados mediante moldeo por inyección? {
-    ~%33.33%Juguetes
-    ~%33.33%Cubos de cocina
-    ~%33.33%Cuencos
+    ~%33.33333%Juguetes
+    ~%33.33333%Cubos de cocina
+    ~%33.33333%Cuencos
     ~%-10%Tubos de aluminio
 }
 
@@ -566,9 +566,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 79: Elección múltiple (3 respuestas correctas)
 ::P79:: ¿Cuáles de los siguientes son tipos de moldes utilizados en la fundición? {
-    ~%33.33%Molde de arena
-    ~%33.33%Molde permanente en coquilla
-    ~%33.33%Molde por inyección
+    ~%33.33333%Molde de arena
+    ~%33.33333%Molde permanente en coquilla
+    ~%33.33333%Molde por inyección
     ~%-10%Molde por extrusión
 }
 
@@ -598,9 +598,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 83: Elección múltiple (3 respuestas correctas)
 ::P83:: ¿Cuáles de los siguientes son defectos comunes en piezas moldeadas? {
-    ~%33.33%Porosidad
-    ~%33.33%Rebabas
-    ~%33.33%Grietas
+    ~%33.33333%Porosidad
+    ~%33.33333%Rebabas
+    ~%33.33333%Grietas
     ~%-10%Acritud
 }
 
@@ -646,9 +646,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 89: Elección múltiple (3 respuestas correctas)
 ::P89:: ¿Cuáles de los siguientes son defectos comunes en piezas forjadas? {
-    ~%33.33%Grietas
-    ~%33.33%Rebabas
-    ~%33.33%Porosidad
+    ~%33.33333%Grietas
+    ~%33.33333%Rebabas
+    ~%33.33333%Porosidad
     ~%-10%Acritud
 }
 
@@ -678,9 +678,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 93: Elección múltiple (3 respuestas correctas)
 ::P93:: ¿Cuáles de los siguientes son ventajas de la forja? {
-    ~%33.33%Mejora de las propiedades mecánicas
-    ~%33.33%Reducción de defectos internos
-    ~%33.33%Mayor resistencia y durabilidad
+    ~%33.33333%Mejora de las propiedades mecánicas
+    ~%33.33333%Reducción de defectos internos
+    ~%33.33333%Mayor resistencia y durabilidad
     ~%-10%Mayor facilidad de mecanizado
 }
 
@@ -726,9 +726,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 99: Elección múltiple (3 respuestas correctas)
 ::P99:: ¿Cuáles de los siguientes son tipos de estampación? {
-    ~%33.33%Estampación en frío
-    ~%33.33%Estampación en caliente
-    ~%33.33%Estampación progresiva
+    ~%33.33333%Estampación en frío
+    ~%33.33333%Estampación en caliente
+    ~%33.33333%Estampación progresiva
     ~%-10%Estampación por inyección
 }
 
@@ -758,9 +758,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 103: Elección múltiple (3 respuestas correctas)
 ::P103:: ¿Cuáles de los siguientes son ventajas de la extrusión? {
-    ~%33.33%Producción continua de perfiles
-    ~%33.33%Aprovechamiento eficiente del material
-    ~%33.33%Mejora de las propiedades mecánicas del material
+    ~%33.33333%Producción continua de perfiles
+    ~%33.33333%Aprovechamiento eficiente del material
+    ~%33.33333%Mejora de las propiedades mecánicas del material
     ~%-10%Mayor facilidad de mecanizado
 }
 
@@ -806,9 +806,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 109: Elección múltiple (3 respuestas correctas)
 ::P109:: ¿Cuáles de los siguientes son defectos comunes en piezas conformadas por embutición? {
-    ~%33.33%Arrugas
-    ~%33.33%Grietas
-    ~%33.33%Variaciones en el espesor
+    ~%33.33333%Arrugas
+    ~%33.33333%Grietas
+    ~%33.33333%Variaciones en el espesor
     ~%-10%Porosidad
 }
 
@@ -838,9 +838,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 113: Elección múltiple (3 respuestas correctas)
 ::P113:: ¿Cuáles de los siguientes son herramientas comunes en el corte de chapas? {
-    ~%33.33%Cizalla
-    ~%33.33%Prensa
-    ~%33.33%Sierra de cinta
+    ~%33.33333%Cizalla
+    ~%33.33333%Prensa
+    ~%33.33333%Sierra de cinta
     ~%-10%Lima
 }
 
@@ -870,9 +870,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 117: Elección múltiple (3 respuestas correctas)
 ::P117:: ¿Cuáles de los siguientes son productos comunes fabricados mediante conformado al vacío? {
-    ~%33.33%Envases de yogur
-    ~%33.33%Bandejas de bombones
-    ~%33.33%Hueveras
+    ~%33.33333%Envases de yogur
+    ~%33.33333%Bandejas de bombones
+    ~%33.33333%Hueveras
     ~%-10%Tubos de aluminio
 }
 
@@ -926,9 +926,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 124: Elección múltiple (3 respuestas correctas)
 ::P124:: ¿Cuáles de los siguientes son tipos de limas utilizadas en el limado? {
-    ~%33.33%Lima plana
-    ~%33.33%Lima redonda
-    ~%33.33%Lima triangular
+    ~%33.33333%Lima plana
+    ~%33.33333%Lima redonda
+    ~%33.33333%Lima triangular
     ~%-10%Broca helicoidal
 }
 
@@ -958,9 +958,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 128: Elección múltiple (3 respuestas correctas)
 ::P128:: ¿Cuáles de los siguientes son herramientas utilizadas en el roscado? {
-    ~%33.33%Macho
-    ~%33.33%Terraja
-    ~%33.33%Broca
+    ~%33.33333%Macho
+    ~%33.33333%Terraja
+    ~%33.33333%Broca
     ~%-10%Lima redonda
 }
 
@@ -990,9 +990,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 132: Elección múltiple (3 respuestas correctas)
 ::P132:: ¿Cuáles de los siguientes son operaciones comunes en el torneado? {
-    ~%33.33%Cilindrado
-    ~%33.33%Refrentado
-    ~%33.33%Ranurado
+    ~%33.33333%Cilindrado
+    ~%33.33333%Refrentado
+    ~%33.33333%Ranurado
     ~%-10%Serrado
 }
 
@@ -1022,9 +1022,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 136: Elección múltiple (3 respuestas correctas)
 ::P136:: ¿Cuáles de los siguientes son factores que influyen en el fresado? {
-    ~%33.33%Velocidad de corte
-    ~%33.33%Avance por diente
-    ~%33.33%Profundidad de pasada
+    ~%33.33333%Velocidad de corte
+    ~%33.33333%Avance por diente
+    ~%33.33333%Profundidad de pasada
     ~%-10%Temperatura de fusión
 }
 
@@ -1054,9 +1054,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 140: Elección múltiple (3 respuestas correctas)
 ::P140:: ¿Cuáles de los siguientes son ventajas del fresado? {
-    ~%33.33%Alta precisión dimensional
-    ~%33.33%Versatilidad en formas complejas
-    ~%33.33%Producción en serie
+    ~%33.33333%Alta precisión dimensional
+    ~%33.33333%Versatilidad en formas complejas
+    ~%33.33333%Producción en serie
     ~%-10%Mayor facilidad de mecanizado
 }
 
@@ -1086,9 +1086,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 144: Elección múltiple (3 respuestas correctas)
 ::P144:: ¿Cuáles de los siguientes son factores que influyen en la calidad de una soldadura? {
-    ~%33.33%Preparación de las piezas
-    ~%33.33%Selección del método de soldadura
-    ~%33.33%Habilidad del soldador
+    ~%33.33333%Preparación de las piezas
+    ~%33.33333%Selección del método de soldadura
+    ~%33.33333%Habilidad del soldador
     ~%-10%Temperatura ambiente
 }
 
@@ -1118,9 +1118,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 148: Elección múltiple (3 respuestas correctas)
 ::P148:: ¿Cuáles de los siguientes son elementos comunes en un ensamble atornillado? {
-    ~%33.33%Tornillos
-    ~%33.33%Tuercas
-    ~%33.33%Arandelas
+    ~%33.33333%Tornillos
+    ~%33.33333%Tuercas
+    ~%33.33333%Arandelas
     ~%-10%Adhesivos
 }
 
@@ -1150,9 +1150,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 152: Elección múltiple (3 respuestas correctas)
 ::P152:: ¿Cuáles de los siguientes son ventajas de las uniones atornilladas? {
-    ~%33.33%Facilidad de desmontaje
-    ~%33.33%Resistencia mecánica
-    ~%33.33%Versatilidad
+    ~%33.33333%Facilidad de desmontaje
+    ~%33.33333%Resistencia mecánica
+    ~%33.33333%Versatilidad
     ~%-10%Resistencia a la oxidación
 }
 
@@ -1182,9 +1182,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 156: Elección múltiple (3 respuestas correctas)
 ::P156:: ¿Cuáles de los siguientes son aplicaciones comunes del grapado? {
-    ~%33.33%Unión de maderas
-    ~%33.33%Fijación de tejidos
-    ~%33.33%Ensamblaje de muebles
+    ~%33.33333%Unión de maderas
+    ~%33.33333%Fijación de tejidos
+    ~%33.33333%Ensamblaje de muebles
     ~%-10%Unión de metales
 }
 
@@ -1214,9 +1214,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 160: Elección múltiple (3 respuestas correctas)
 ::P160:: ¿Cuáles de los siguientes son factores que influyen en la calidad de una unión atornillada? {
-    ~%33.33%Par de apriete
-    ~%33.33%Tipo de tornillo
-    ~%33.33%Uso de arandelas
+    ~%33.33333%Par de apriete
+    ~%33.33333%Tipo de tornillo
+    ~%33.33333%Uso de arandelas
     ~%-10%Uso de destornilladores largos
 }
 
@@ -1246,9 +1246,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 164: Elección múltiple (3 respuestas correctas)
 ::P164:: ¿Cuáles de las siguientes son propiedades del grafeno mencionadas en el documento? {
-    ~%33.33%Transparencia
-    ~%33.33%Flexibilidad
-    ~%33.33%Alta conductividad eléctrica
+    ~%33.33333%Transparencia
+    ~%33.33333%Flexibilidad
+    ~%33.33333%Alta conductividad eléctrica
     ~%-10%Baja resistencia mecánica
 }
 
@@ -1278,9 +1278,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 168: Elección múltiple (3 respuestas correctas)
 ::P168:: ¿Cuáles de las siguientes son aplicaciones del grafeno mencionadas en el documento? {
-    ~%33.33%Circuitos flexibles
-    ~%33.33%Baterías de alta capacidad
-    ~%33.33%Sensores médicos
+    ~%33.33333%Circuitos flexibles
+    ~%33.33333%Baterías de alta capacidad
+    ~%33.33333%Sensores médicos
     ~%-10%Materiales de construcción pesados
 }
 
@@ -1310,9 +1310,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 172: Elección múltiple (3 respuestas correctas)
 ::P172:: ¿Cuáles de las siguientes son propiedades de los superconductores mencionadas en el documento? {
-    ~%33.33%Conducción eléctrica sin pérdidas
-    ~%33.33%Expulsión del campo magnético
-    ~%33.33%Necesidad de bajas temperaturas
+    ~%33.33333%Conducción eléctrica sin pérdidas
+    ~%33.33333%Expulsión del campo magnético
+    ~%33.33333%Necesidad de bajas temperaturas
     ~%-10%Alta resistencia mecánica
 }
 
@@ -1342,9 +1342,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 176: Elección múltiple (3 respuestas correctas)
 ::P176:: ¿Cuáles de las siguientes son características del grafeno mencionadas en el documento? {
-    ~%33.33%Impermeabilidad
-    ~%33.33%Abundancia
-    ~%33.33%Económico
+    ~%33.33333%Impermeabilidad
+    ~%33.33333%Abundancia
+    ~%33.33333%Económico
     ~%-10%Poca resistencia mecánica
 }
 
@@ -1374,9 +1374,9 @@ $CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
 
 // Pregunta 180: Elección múltiple (3 respuestas correctas)
 ::P180:: ¿Cuáles de las siguientes son aplicaciones potenciales de los superconductores mencionadas en el documento? {
-    ~%33.33%Energía
-    ~%33.33%Medio ambiente
-    ~%33.33%Salud
+    ~%33.33333%Energía
+    ~%33.33333%Medio ambiente
+    ~%33.33333%Salud
     ~%-10%Agricultura
 }
 
