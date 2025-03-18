@@ -1,0 +1,1389 @@
+// Preguntas avanzadas para la categoría "GESTIÓN DE PROYECTOS"
+
+// Category: GESTIÓN DE PROYECTOS
+$CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales
+
+$CATEGORY: $course$/top/B2.Técnicas de fabricación de materiales/Teoría
+
+::P1::¿Cuáles son los objetivos de los tratamientos térmicos en metales y aleaciones? {
+~%33.333%Aumentar la dureza y resistencia mecánica
+~%33.333%Mejorar la ductilidad o plasticidad
+~%33.333%Facilitar su conformación
+~%-10%Disminuir la conductividad térmica
+}
+
+::P2::El temple se caracteriza por\ {
+~%50%Enfriamientos rápidos
+~%50%Enfriamientos continuos
+~%-10%Calentamientos lentos
+~%-10%Mantenimiento a temperatura constante
+}
+
+::P3::¿Qué factores influyen en la templabilidad de un acero? {
+~%50%La composición química
+~%50%El contenido de carbono
+~%-10%El tamaño de la pieza
+~%-10%La temperatura ambiente
+}
+
+::P4::En el ensayo Jominy, ¿qué se mantiene constante? {
+~%33.333%El diámetro de la probeta
+~%33.333%La longitud de la probeta
+~%33.333%El caudal de agua para el temple
+~%-10%La composición del acero
+}
+
+::P5::¿Qué elementos de aleación aumentan la templabilidad del acero? {
+~%25%Molibdeno
+~%25%Aluminio
+~%25%Silicio
+~%25%Tungsteno
+}
+
+::P6::¿Qué factores influyen en la velocidad de enfriamiento durante el temple? {
+~%33.333%Composición del acero
+~%33.333%Temperatura de calentamiento
+~%33.333%Medio de temple
+~%-10%Presión atmosférica
+}
+
+::P7::¿Qué medios de temple se utilizan comúnmente? {
+~%33.333%Agua
+~%33.333%Aceite
+~%33.333%Aire
+~%-10%Nitrógeno líquido
+}
+
+::P8::El recocido consiste en\ {
+~%33.333%Calentar el material hasta una temperatura determinada
+~%33.333%Mantener la temperatura durante un tiempo previsto
+~%33.333%Enfriar lentamente
+~%-10%Enfriar rápidamente
+}
+
+::P9::¿Cuáles son los objetivos del recocido? {
+~%25%Eliminar tensiones del temple
+~%25%Aumentar la plasticidad
+~%25%Aumentar la ductilidad
+~%25%Aumentar la tenacidad
+}
+
+::P10::El normalizado se realiza\ {
+~%50%Calentando el material a una temperatura superior a la crítica superior
+~%50%Enfriando al aire
+~%-10%Enfriando en aceite
+~%-10%Manteniendo la temperatura constante
+}
+
+::P11::La globulización en aceros produce {
+~%33.333%Máxima blandura
+~%33.333%Máxima ductilidad
+~%33.333%Facilidad de mecanizado
+~%-10%Máxima dureza
+}
+
+::P12::El revenido se realiza {
+~%50%Después del temple
+~%50%A una temperatura inferior al punto A1
+~%-10%A una temperatura superior al punto A1
+~%-10%Antes del temple
+}
+
+::P13::Los tratamientos termoquímicos modifican {
+~%50%La composición química superficial
+~%50%Las propiedades superficiales
+~%-10%La composición química del núcleo
+~%-10%Las propiedades del núcleo
+}
+
+::P14::La cementación se aplica para obtener {
+~%33.333%Dureza superficial
+~%33.333%Resistencia al desgaste
+~%33.333%Tenacidad interior
+~%-10%Fragilidad superficial
+}
+
+::P15::¿Qué tipos de aditivos se pueden usar en la cementación? {
+~%33.333%Sólidos
+~%33.333%Líquidos
+~%33.333%Gaseosos
+~%-10%Plasmáticos
+}
+
+::P16::La martensita se forma en los aceros mediante {
+~%50%Un proceso de transformación sin difusión
+~%50%Un enfriamiento rápido
+~%-10%Un calentamiento lento
+~%-10%Un proceso de difusión
+}
+
+::P17::La templabilidad de un acero se define como {
+~%50%La aptitud para endurecerse por formación de martensita
+~%50%La capacidad de transformarse durante un tratamiento térmico
+~%-10%La resistencia a la deformación plástica
+~%-10%La capacidad de conducir el calor
+}
+
+::P18::En el diagrama hierro-carbono, la línea A1 representa {
+~%50%La temperatura crítica inferior
+~%50%La temperatura de transformación de austenita en ferrita y cementita
+~%-10%La temperatura crítica superior
+~%-10%La temperatura de fusión
+}
+
+::P19::El normalizado en aceros consigue {
+~%33.333%Afinar el grano
+~%33.333%Disminuir el tamaño de grano medio
+~%33.333%Uniformizar la distribución de tamaños de grano
+~%-10%Aumentar el tamaño de grano
+}
+
+::P20::La carbonitruración es un tratamiento que {
+~%50%Aumenta la cantidad de carbono en la capa exterior
+~%50%Mejora la resistencia al desgaste
+~%-10%Disminuye la dureza superficial
+~%-10%Aumenta la ductilidad del núcleo
+}
+
+::P21::¿Cuál es el objetivo principal del temple en aceros? {
+=Obtener una estructura martensítica
+~Aumentar la ductilidad
+~Eliminar tensiones internas
+~Disminuir la dureza superficial
+}
+
+::P22::En el ensayo Jominy, ¿qué se mide a lo largo de la probeta? {
+=La dureza
+~La temperatura
+~La composición química
+~El tamaño de grano
+}
+
+::P23::¿Qué tratamiento térmico se aplica después del temple para reducir la fragilidad? {
+=Revenido
+~Recocido
+~Normalizado
+~Cementación
+}
+
+::P24::¿Cuál es el propósito principal del normalizado en aceros? {
+=Afinar el grano y uniformizar su distribución
+~Aumentar la dureza superficial
+~Eliminar tensiones internas
+~Aumentar el contenido de carbono
+}
+
+::P25::¿Qué estructura se busca obtener en el proceso de globulización? {
+=Esferoidita
+~Martensita
+~Bainita
+~Austenita
+}
+
+::P26::¿Cuáles son los objetivos de los tratamientos termoquímicos? {
+~%50%Modificar la composición química superficial
+~%50%Mejorar las propiedades superficiales
+~%-10%Modificar la composición química del núcleo
+~%-10%Disminuir la dureza superficial
+}
+
+::P27::La cementación se aplica para obtener\:  {
+~%33.333%Dureza superficial
+~%33.333%Resistencia al desgaste
+~%33.333%Tenacidad interior
+~%-10%Fragilidad superficial
+}
+
+::P28::¿Qué tipos de aditivos se pueden usar en la cementación? {
+=Sólidos, líquidos y gaseosos
+~Sólidos y líquidos únicamente
+~Gaseosos y líquidos únicamente
+~Sólidos y gaseosos únicamente
+}
+
+::P29::La carbonitruración es un proceso que\:  {
+~%50%Añade carbono a la superficie del acero
+~%50%Añade nitrógeno a la superficie del acero
+~%-10%Elimina carbono de la superficie del acero
+~%-10%Elimina nitrógeno de la superficie del acero
+}
+
+::P30::¿Qué gas se emplea comúnmente como aditivo gaseoso en la cementación? {
+=Monóxido de carbono
+~Dióxido de carbono
+~Metano
+~Nitrógeno
+}
+
+::P31::El espesor de la capa cementada depende de\:  {
+~%50%El tiempo de permanencia
+~%50%La temperatura del proceso
+~%-10%El tipo de acero utilizado
+~%-10%La presión atmosférica
+}
+
+::P32::La nitruración es un proceso que\:  {
+=Añade nitrógeno a la superficie del acero
+~Añade carbono a la superficie del acero
+~Elimina nitrógeno de la superficie del acero
+~Añade oxígeno a la superficie del acero
+}
+
+::P33::¿Cuáles son las ventajas de los tratamientos termoquímicos? {
+~%33.333%Mejoran la resistencia al desgaste
+~%33.333%Aumentan la dureza superficial
+~%33.333%Mantienen las propiedades del núcleo
+~%-10%Disminuyen la resistencia a la corrosión
+}
+
+::P34::En la cementación gaseosa, el monóxido de carbono se descompone en\:  {
+=Carbono atómico
+~Carbono molecular
+~Dióxido de carbono
+~Metano
+}
+
+::P35::Los tratamientos termoquímicos se aplican principalmente a\:  {
+~%50%Aceros
+~%50%Aleaciones de hierro
+~%-10%Aleaciones de aluminio
+~%-10%Polímeros
+}
+
+::P36::¿Cuáles son los principales objetivos de los tratamientos contra la oxidación y la corrosión? {
+~%50%Proteger la superficie del metal
+~%50%Aumentar la vida útil del material
+~%-10%Aumentar la dureza superficial
+~%-10%Mejorar la conductividad eléctrica
+}
+
+::P37::Los recubrimientos metálicos se pueden aplicar mediante\: {
+~%33.333%Inmersión en caliente
+~%33.333%Electrodeposición
+~%33.333%Proyección térmica
+~%-10%Tratamiento térmico
+}
+
+::P38::¿Qué metal se utiliza comúnmente en la galvanización? {
+=Zinc
+~Cobre
+~Níquel
+~Cromo
+}
+
+::P39::El proceso de anodizado se aplica principalmente a\: {
+=Aluminio
+~Acero
+~Cobre
+~Titanio
+}
+
+::P40::¿Cuáles son las ventajas de los recubrimientos metálicos? {
+~%33.333%Protección contra la corrosión
+~%33.333%Mejora del aspecto estético
+~%33.333%Aumento de la resistencia al desgaste
+~%-10%Aumento de la conductividad térmica
+}
+
+::P41::El cromado es un proceso de\: {
+=Electrodeposición
+~Inmersión en caliente
+~Proyección térmica
+~Tratamiento térmico
+}
+
+::P42::¿Qué tipos de recubrimientos no metálicos se utilizan para proteger contra la oxidación y la corrosión? {
+~%33.333%Pinturas
+~%33.333%Esmaltes
+~%33.333%Polímeros
+~%-10%Cerámicos conductores
+}
+
+::P43::La protección catódica es un método que\: {
+=Convierte toda la superficie metálica en un cátodo
+~Convierte toda la superficie metálica en un ánodo
+~Elimina todos los electrones de la superficie
+~Aumenta la temperatura de la superficie
+}
+
+::P44::¿Cuál de los siguientes NO es un método común de aplicación de recubrimientos metálicos? {
+=Difusión térmica
+~Inmersión en caliente
+~Electrodeposición
+~Proyección térmica
+}
+
+::P45::Los inhibidores de corrosión actúan\: {
+~%50%Formando una película protectora sobre el metal
+~%50%Modificando el medio corrosivo
+~%-10%Aumentando la temperatura del metal
+~%-10%Cambiando la composición interna del metal
+}
+
+::P46::Las operaciones de conformado incluyen\: {
+~%33.333%Laminación
+~%33.333%Forjado
+~%33.333%Extrusión
+~%-10%Fundición
+}
+
+::P47::¿Qué tipo de proceso de conformado utiliza rodillos para reducir el espesor de un metal? {
+=Laminación
+~Forjado
+~Extrusión
+~Estampado
+}
+
+::P48::El forjado se caracteriza por\: {
+~%50%Aplicar presión o impacto al metal
+~%50%Deformar plásticamente el metal
+~%-10%Utilizar rodillos para conformar el metal
+~%-10%Arrancar material del metal
+}
+
+::P49::¿Cuál de los siguientes procesos NO es una operación de conformado? {
+=Nitruración
+~Estirado
+~Embutido
+~Doblado
+}
+
+::P50::La extrusión consiste en\: {
+=Forzar el material a través de una matriz
+~Estirar el material hasta romperlo
+~Doblar el material con una prensa
+~Calentar el material hasta fundirlo
+}
+
+::P51::El torneado es un proceso de\: {
+~%50%Arrancar material
+~%50%Conformado de viruta
+~%-10%Unión de piezas
+~%-10%Tratamiento térmico
+}
+
+::P52::¿Cuál es la diferencia principal entre torneado y fresado? {
+=El torneado gira la pieza, el fresado gira la herramienta
+~El torneado utiliza calor, el fresado no
+~El torneado es para metales, el fresado para plásticos
+~El torneado es más preciso que el fresado
+}
+
+::P53::En el fresado, la herramienta de corte realiza\: {
+~%50%Movimiento rotativo
+~%50%Avance lineal o circular
+~%-10%Solo movimiento lineal
+~%-10%Solo movimiento de vibración
+}
+
+::P54::Las operaciones de ensamblaje incluyen\: {
+~%33.333%Soldadura
+~%33.333%Remachado
+~%33.333%Atornillado
+~%-10%Forjado
+}
+
+::P55::¿Qué tipo de unión se considera permanente? {
+=Soldadura
+~Atornillado
+~Pegado
+~Unión con clips
+}
+
+::P56::El remachado es un proceso de unión que utiliza\: {
+~%50%Deformación plástica
+~%50%Un elemento de unión deformable
+~%-10%Adhesivos
+~%-10%Soldadura
+}
+
+::P57::En las uniones atornilladas, ¿qué elemento proporciona la fuerza de sujeción? {
+=El par de apriete
+~La temperatura
+~La presión
+~La vibración
+}
+
+::P58::¿Qué técnica de conformación se utiliza para fabricar latas de refresco? {
+=Embutido
+~Extrusión
+~Forjado
+~Laminación
+}
+
+::P59::En el doblado de chapas, la deformación se concentra en\: {
+~%50%La zona de la curva
+~%50%La zona cercana a la matriz
+~%-10%Toda la chapa por igual
+~%-10%Los bordes de la chapa
+}
+
+::P60::¿Cuál de las siguientes NO es una técnica de conformación de chapas? {
+=Torneado
+~Estirado
+~Embutido
+~Doblado
+}
+
+::P61::La estampación es un proceso que se utiliza para\: {
+~%50%Cortar
+~%50%Conformar chapas
+~%-10%Unir piezas
+~%-10%Endurecer materiales
+}
+
+::P62::¿Qué tipo de unión es desmontable y permite la reutilización de los componentes? {
+=Atornillada
+~Soldada
+~Remachada
+~Adhesiva
+}
+
+::P63::Los aceros que se han deformado plásticamente por laminación, por ejemplo, tienen una microestructura perlítica, con tamaños de grano relativamente grandes y de forma irregular. ¿Qué tratamiento térmico se aplica a estos aceros? {
+=Normalizado
+~Temple
+~Revenido
+~Recocido
+}
+
+::P64:: ¿Qué proceso o procesos de conformado en frío se utiliza para reducir el diámetro de un alambre o barra, aumentando su longitud? {
+~%50%Trefilado
+~%50%Estirado
+~%-10%Laminado
+~%-10%Extrusión
+}
+
+::P65::¿Cuál de los siguientes es un proceso de conformado que utiliza un fluido a alta presión para deformar el material? {
+=Conformado hidráulico
+~Laminado
+~Forjado
+~Extrusión
+}
+
+// Pregunta 66: Elección múltiple (2 respuestas correctas)
+::P66:: ¿Cuáles de los siguientes son tipos de moldeo mencionados en el documento? {
+    ~%50%Moldeo por inyección
+    ~%50%Moldeo por arena
+    ~%-10%Moldeo por extrusión
+    ~%-10%Moldeo por laminación
+}
+
+// Pregunta 67: Elección única
+::P67:: ¿Qué tipo de moldeo utiliza un molde metálico reutilizable? {
+    =Moldeo permanente en coquilla
+    ~Moldeo por inyección
+    ~Moldeo por arena
+    ~Moldeo al vacío
+}
+
+// Pregunta 68: Elección múltiple (3 respuestas correctas)
+::P68:: ¿Cuáles de los siguientes son pasos del proceso de moldeo por arena? {
+    ~%33.33%Elaboración de un modelo con madera o plástico
+    ~%33.33%Compactación de arena alrededor del modelo
+    ~%33.33%Vaciado del metal fundido en el molde
+    ~%-10%Inyección de plástico en un molde frío
+}
+
+// Pregunta 69: Elección única
+::P69:: ¿Qué material se utiliza comúnmente en el moldeo por inyección? {
+    =Plástico
+    ~Metal
+    ~Cerámica
+    ~Vidrio
+}
+
+// Pregunta 70: Elección múltiple (2 respuestas correctas)
+::P70:: ¿Cuáles de las siguientes son ventajas del moldeo permanente en coquilla? {
+    ~%50%Alta precisión dimensional
+    ~%50%Excelente acabado superficial
+    ~%-10%Bajo coste inicial
+    ~%-10%Uso de moldes desechables
+}
+
+// Pregunta 71: Elección única
+::P71:: ¿Qué proceso de moldeo se utiliza para fabricar piezas huecas como botellas? {
+    =Moldeo por soplado
+    ~Moldeo por inyección
+    ~Moldeo por arena
+    ~Moldeo al vacío
+}
+
+// Pregunta 72: Elección múltiple (3 respuestas correctas)
+::P72:: ¿Cuáles de los siguientes son ejemplos de productos fabricados mediante moldeo por inyección? {
+    ~%33.33%Juguetes
+    ~%33.33%Cubos de cocina
+    ~%33.33%Cuencos
+    ~%-10%Tubos de aluminio
+}
+
+// Pregunta 73: Elección única
+::P73:: ¿Qué tipo de moldeo se utiliza para fabricar envases de yogur o hueveras? {
+    =Moldeo al vacío
+    ~Moldeo por inyección
+    ~Moldeo por soplado
+    ~Moldeo por arena
+}
+
+// Pregunta 74: Elección múltiple (2 respuestas correctas)
+::P74:: ¿Qué materiales se pueden utilizar en el moldeo por fundición? {
+    ~%50%Metales
+    ~%50%Plásticos
+    ~%-10%Cerámicas
+    ~%-10%Vidrios
+}
+
+// Pregunta 75: Elección única
+::P75:: ¿Qué proceso de moldeo utiliza un molde de arena compactada alrededor de un modelo? {
+    =Moldeo por arena
+    ~Moldeo por inyección
+    ~Moldeo permanente en coquilla
+    ~Moldeo al vacío
+}
+
+// Pregunta 76: Elección única
+::P76:: ¿Qué término se refiere a la cavidad en un molde donde se vierte el material fundido? {
+    =Bebedero
+    ~Mazarota
+    ~Matriz
+    ~Tolva
+}
+
+// Pregunta 77: Elección múltiple (2 respuestas correctas)
+::P77:: ¿Cuáles de los siguientes son componentes de un molde de arena? {
+    ~%50%Arena sílice
+    ~%50%Arcilla
+    ~%-10%Agua
+    ~%-10%Plástico termoestable
+}
+
+// Pregunta 78: Elección única
+::P78:: ¿Qué parte del molde asegura que el metal fundido llene completamente la cavidad? {
+    =Mazarota
+    ~Bebedero
+    ~Matriz
+    ~Tolva
+}
+
+// Pregunta 79: Elección múltiple (3 respuestas correctas)
+::P79:: ¿Cuáles de los siguientes son tipos de moldes utilizados en la fundición? {
+    ~%33.33%Molde de arena
+    ~%33.33%Molde permanente en coquilla
+    ~%33.33%Molde por inyección
+    ~%-10%Molde por extrusión
+}
+
+// Pregunta 80: Elección única
+::P80:: ¿Qué proceso de moldeo utiliza un molde metálico reutilizable y se llena por gravedad? {
+    =Moldeo permanente en coquilla
+    ~Moldeo por inyección
+    ~Moldeo por arena
+    ~Moldeo al vacío
+}
+
+// Pregunta 81: Elección múltiple (2 respuestas correctas)
+::P81:: ¿Cuáles de los siguientes son aditivos comunes en la arena de moldeo? {
+    ~%50%Arcilla
+    ~%50%Agua
+    ~%-10%Carbono
+    ~%-10%Vidrio
+}
+
+// Pregunta 82: Elección única
+::P82:: ¿Qué término se refiere al proceso de extraer la pieza fundida del molde después de su solidificación? {
+    =Desmoldeo
+    ~Recocido
+    ~Temple
+    ~Extrusión
+}
+
+// Pregunta 83: Elección múltiple (3 respuestas correctas)
+::P83:: ¿Cuáles de los siguientes son defectos comunes en piezas moldeadas? {
+    ~%33.33%Porosidad
+    ~%33.33%Rebabas
+    ~%33.33%Grietas
+    ~%-10%Acritud
+}
+
+// Pregunta 84: Elección única
+::P84:: ¿Qué tipo de moldeo se utiliza para fabricar piezas huecas como botellas mediante la insuflación de aire? {
+    =Moldeo por soplado
+    ~Moldeo por inyección
+    ~Moldeo por arena
+    ~Moldeo al vacío
+}
+
+// Pregunta 85: Elección múltiple (2 respuestas correctas)
+::P85:: ¿Cuáles de los siguientes son materiales comunes utilizados en el moldeo por inyección? {
+    ~%50%Plásticos termoplásticos
+    ~%50%Metales en polvo
+    ~%-10%Cerámicas
+    ~%-10%Vidrios
+}
+
+// Pregunta 86: Elección única
+::P86:: ¿Qué término se refiere al endurecimiento de un metal debido a la deformación en frío? {
+    =Acritud
+    ~Recocido
+    ~Temple
+    ~Normalizado
+}
+
+// Pregunta 87: Elección múltiple (2 respuestas correctas)
+::P87:: ¿Cuáles de los siguientes son tipos de forja mencionados en el documento? {
+    ~%50%Forja en caliente
+    ~%50%Forja en frío
+    ~%-10%Forja por extrusión
+    ~%-10%Forja por laminación
+}
+
+// Pregunta 88: Elección única
+::P88:: ¿Qué herramienta se utiliza tradicionalmente en la forja artística para dar forma al metal? {
+    =Martillo
+    ~Torno
+    ~Fresa
+    ~Taladro
+}
+
+// Pregunta 89: Elección múltiple (3 respuestas correctas)
+::P89:: ¿Cuáles de los siguientes son defectos comunes en piezas forjadas? {
+    ~%33.33%Grietas
+    ~%33.33%Rebabas
+    ~%33.33%Porosidad
+    ~%-10%Acritud
+}
+
+// Pregunta 90: Elección única
+::P90:: ¿Qué proceso se utiliza para restaurar las propiedades del material después de la forja en frío? {
+    =Recocido
+    ~Temple
+    ~Normalizado
+    ~Revenido
+}
+
+// Pregunta 91: Elección múltiple (2 respuestas correctas)
+::P91:: ¿Cuáles de los siguientes son metales comúnmente forjados? {
+    ~%50%Acero
+    ~%50%Aluminio
+    ~%-10%Vidrio
+    ~%-10%Cerámica
+}
+
+// Pregunta 92: Elección única
+::P92:: ¿Qué término se refiere a la alineación de los granos metálicos durante la forja? {
+    =Textura de fibra
+    ~Acritud
+    ~Porosidad
+    ~Rebaba
+}
+
+// Pregunta 93: Elección múltiple (3 respuestas correctas)
+::P93:: ¿Cuáles de los siguientes son ventajas de la forja? {
+    ~%33.33%Mejora de las propiedades mecánicas
+    ~%33.33%Reducción de defectos internos
+    ~%33.33%Mayor resistencia y durabilidad
+    ~%-10%Mayor facilidad de mecanizado
+}
+
+// Pregunta 94: Elección única
+::P94:: ¿Qué tipo de forja utiliza prensas hidráulicas o neumáticas para aplicar presión? {
+    =Forja industrial
+    ~Forja artística
+    ~Forja en caliente
+    ~Forja en frío
+}
+
+// Pregunta 95: Elección múltiple (2 respuestas correctas)
+::P95:: ¿Cuáles de los siguientes son factores que influyen en la forja? {
+    ~%50%Temperatura
+    ~%50%Presión aplicada
+    ~%-10%Velocidad de enfriamiento
+    ~%-10%Composición química del material
+}
+
+// Pregunta 96: Elección única
+::P96:: ¿Qué término se refiere al proceso de dar forma a una lámina metálica mediante presión entre dos moldes? {
+    =Estampación
+    ~Extrusión
+    ~Forja
+    ~Laminación
+}
+
+// Pregunta 97: Elección múltiple (2 respuestas correctas)
+::P97:: ¿Cuáles de los siguientes son productos comunes fabricados mediante estampación? {
+    ~%50%Monedas
+    ~%50%Piezas de automóviles
+    ~%-10%Tubos de aluminio
+    ~%-10%Botellas de plástico
+}
+
+// Pregunta 98: Elección única
+::P98:: ¿Qué término se refiere al molde utilizado en el proceso de estampación? {
+    =Estampa
+    ~Matriz
+    ~Bebedero
+    ~Tolva
+}
+
+// Pregunta 99: Elección múltiple (3 respuestas correctas)
+::P99:: ¿Cuáles de los siguientes son tipos de estampación? {
+    ~%33.33%Estampación en frío
+    ~%33.33%Estampación en caliente
+    ~%33.33%Estampación progresiva
+    ~%-10%Estampación por inyección
+}
+
+// Pregunta 100: Elección única
+::P100:: ¿Qué proceso de conformado consiste en empujar un material a través de una matriz para obtener un perfil constante? {
+    =Extrusión
+    ~Estampación
+    ~Forja
+    ~Laminación
+}
+
+// Pregunta 101: Elección múltiple (2 respuestas correctas)
+::P101:: ¿Cuáles de los siguientes son materiales comúnmente extruidos? {
+    ~%50%Aluminio
+    ~%50%Plásticos
+    ~%-10%Vidrio
+    ~%-10%Cemento
+}
+
+// Pregunta 102: Elección única
+::P102:: ¿Qué término se refiere a la herramienta que da forma al material en el proceso de extrusión? {
+    =Matriz
+    ~Estampa
+    ~Bebedero
+    ~Tolva
+}
+
+// Pregunta 103: Elección múltiple (3 respuestas correctas)
+::P103:: ¿Cuáles de los siguientes son ventajas de la extrusión? {
+    ~%33.33%Producción continua de perfiles
+    ~%33.33%Aprovechamiento eficiente del material
+    ~%33.33%Mejora de las propiedades mecánicas del material
+    ~%-10%Mayor facilidad de mecanizado
+}
+
+// Pregunta 104: Elección única
+::P104:: ¿Qué tipo de extrusión se utiliza para materiales termoplásticos y consiste en un tornillo sin fin que empuja el material? {
+    =Extrusión por tornillo
+    ~Extrusión directa
+    ~Extrusión inversa
+    ~Extrusión hidrostática
+}
+
+// Pregunta 105: Elección múltiple (2 respuestas correctas)
+::P105:: ¿Cuáles de los siguientes son defectos comunes en piezas extruidas? {
+    ~%50%Grietas superficiales
+    ~%50%Variaciones en el espesor
+    ~%-10%Porosidad
+    ~%-10%Rebabas
+}
+
+// Pregunta 106: Elección única
+::P106:: ¿Qué término se refiere al proceso de dar forma a una chapa metálica mediante presión repetida contra una matriz? {
+    =Embutición
+    ~Doblado
+    ~Curvado
+    ~Estirado
+}
+
+// Pregunta 107: Elección múltiple (2 respuestas correctas)
+::P107:: ¿Cuáles de los siguientes son productos comunes fabricados mediante embutición? {
+    ~%50%Sartenes
+    ~%50%Envases metálicos
+    ~%-10%Tubos de aluminio
+    ~%-10%Botellas de plástico
+}
+
+// Pregunta 108: Elección única
+::P108:: ¿Qué término se refiere al proceso de reducir el espesor de una chapa metálica mediante presión entre rodillos? {
+    =Laminación
+    ~Doblado
+    ~Embutición
+    ~Estirado
+}
+
+// Pregunta 109: Elección múltiple (3 respuestas correctas)
+::P109:: ¿Cuáles de los siguientes son defectos comunes en piezas conformadas por embutición? {
+    ~%33.33%Arrugas
+    ~%33.33%Grietas
+    ~%33.33%Variaciones en el espesor
+    ~%-10%Porosidad
+}
+
+// Pregunta 110: Elección única
+::P110:: ¿Qué término se refiere al proceso de hacer pasar una chapa metálica a través de orificios calibrados para reducir su sección? {
+    =Estirado
+    ~Doblado
+    ~Embutición
+    ~Laminación
+}
+
+// Pregunta 111: Elección múltiple (2 respuestas correctas)
+::P111:: ¿Cuáles de los siguientes son materiales comúnmente conformados mediante estirado? {
+    ~%50%Acero
+    ~%50%Aluminio
+    ~%-10%Vidrio
+    ~%-10%Cemento
+}
+
+// Pregunta 112: Elección única
+::P112:: ¿Qué término se refiere al proceso de cortar una chapa metálica en trozos de tamaño prefijado? {
+    =Corte
+    ~Punzonado
+    ~Doblado
+    ~Embutición
+}
+
+// Pregunta 113: Elección múltiple (3 respuestas correctas)
+::P113:: ¿Cuáles de los siguientes son herramientas comunes en el corte de chapas? {
+    ~%33.33%Cizalla
+    ~%33.33%Prensa
+    ~%33.33%Sierra de cinta
+    ~%-10%Lima
+}
+
+// Pregunta 114: Elección única
+::P114:: ¿Qué término se refiere al proceso de practicar agujeros en una chapa metálica mediante presión? {
+    =Punzonado
+    ~Corte
+    ~Doblado
+    ~Embutición
+}
+
+// Pregunta 115: Elección múltiple (2 respuestas correctas)
+::P115:: ¿Cuáles de los siguientes son factores que influyen en el punzonado? {
+    ~%50%Espesor de la chapa
+    ~%50%Diámetro del punzón
+    ~%-10%Temperatura de fusión
+    ~%-10%Velocidad de enfriamiento
+}
+
+// Pregunta 116: Elección única
+::P116:: ¿Qué término se refiere al proceso de dar forma a una chapa metálica mediante presión y vacío? {
+    =Conformado al vacío
+    ~Doblado
+    ~Embutición
+    ~Estirado
+}
+
+// Pregunta 117: Elección múltiple (3 respuestas correctas)
+::P117:: ¿Cuáles de los siguientes son productos comunes fabricados mediante conformado al vacío? {
+    ~%33.33%Envases de yogur
+    ~%33.33%Bandejas de bombones
+    ~%33.33%Hueveras
+    ~%-10%Tubos de aluminio
+}
+
+// Pregunta 118: Elección única
+::P118:: ¿Qué término se refiere al proceso de dar forma a una chapa metálica mediante presión entre dos moldes? {
+    =Estampación
+    ~Doblado
+    ~Embutición
+    ~Estirado
+}
+
+// Pregunta 119: Elección múltiple (2 respuestas correctas)
+::P119:: ¿Cuáles de los siguientes son defectos comunes en piezas conformadas por estampación? {
+    ~%50%Rebabas
+    ~%50%Grietas
+    ~%-10%Porosidad
+    ~%-10%Acritud
+}
+
+// Pregunta 120: Elección única
+::P120:: ¿Qué término se refiere al proceso de reducir el diámetro de un alambre mediante estirado sucesivo? {
+    =Trefilado
+    ~Estampación
+    ~Embutición
+    ~Laminación
+}
+
+// Pregunta 121: Elección única
+::P121:: ¿Qué término se refiere al proceso de cortar un material mediante una herramienta con dientes afilados? {
+    =Serrado
+    ~Limado
+    ~Taladrado
+    ~Fresado
+}
+
+// Pregunta 122: Elección múltiple (2 respuestas correctas)
+::P122:: ¿Cuáles de los siguientes son tipos de sierras utilizadas en el serrado? {
+    ~%50%Sierra de calar
+    ~%50%Sierra de cinta
+    ~%-10%Lima
+    ~%-10%Broca
+}
+
+// Pregunta 123: Elección única
+::P123:: ¿Qué término se refiere al proceso de desbastar un material mediante una herramienta con múltiples dientes pequeños? {
+    =Limado
+    ~Serrado
+    ~Taladrado
+    ~Fresado
+}
+
+// Pregunta 124: Elección múltiple (3 respuestas correctas)
+::P124:: ¿Cuáles de los siguientes son tipos de limas utilizadas en el limado? {
+    ~%33.33%Lima plana
+    ~%33.33%Lima redonda
+    ~%33.33%Lima triangular
+    ~%-10%Broca helicoidal
+}
+
+// Pregunta 125: Elección única
+::P125:: ¿Qué término se refiere al proceso de hacer agujeros en un material mediante una herramienta rotativa? {
+    =Taladrado
+    ~Serrado
+    ~Limado
+    ~Fresado
+}
+
+// Pregunta 126: Elección múltiple (2 respuestas correctas)
+::P126:: ¿Cuáles de los siguientes son tipos de brocas utilizadas en el taladrado? {
+    ~%50%Broca helicoidal
+    ~%50%Broca de widia
+    ~%-10%Lima plana
+    ~%-10%Fresa cilíndrica
+}
+
+// Pregunta 127: Elección única
+::P127:: ¿Qué término se refiere al proceso de crear roscas en un agujero mediante una herramienta llamada macho? {
+    =Roscado
+    ~Taladrado
+    ~Limado
+    ~Fresado
+}
+
+// Pregunta 128: Elección múltiple (3 respuestas correctas)
+::P128:: ¿Cuáles de los siguientes son herramientas utilizadas en el roscado? {
+    ~%33.33%Macho
+    ~%33.33%Terraja
+    ~%33.33%Broca
+    ~%-10%Lima redonda
+}
+
+// Pregunta 129: Elección única
+::P129:: ¿Qué término se refiere al proceso de mecanizar una pieza mediante una herramienta rotativa con múltiples filos? {
+    =Fresado
+    ~Serrado
+    ~Limado
+    ~Taladrado
+}
+
+// Pregunta 130: Elección múltiple (2 respuestas correctas)
+::P130:: ¿Cuáles de los siguientes son tipos de fresado? {
+    ~%50%Fresado frontal
+    ~%50%Fresado cilíndrico
+    ~%-10%Taladrado profundo
+    ~%-10%Serrado de precisión
+}
+
+// Pregunta 131: Elección única
+::P131:: ¿Qué término se refiere al proceso de mecanizar una pieza cilíndrica mediante una herramienta de corte que se mueve longitudinalmente? {
+    =Torneado
+    ~Fresado
+    ~Taladrado
+    ~Roscado
+}
+
+// Pregunta 132: Elección múltiple (3 respuestas correctas)
+::P132:: ¿Cuáles de los siguientes son operaciones comunes en el torneado? {
+    ~%33.33%Cilindrado
+    ~%33.33%Refrentado
+    ~%33.33%Ranurado
+    ~%-10%Serrado
+}
+
+// Pregunta 133: Elección única
+::P133:: ¿Qué término se refiere a la herramienta utilizada en el torneado para dar forma a la pieza? {
+    =Buril
+    ~Broca
+    ~Fresa
+    ~Lima
+}
+
+// Pregunta 134: Elección múltiple (2 respuestas correctas)
+::P134:: ¿Cuáles de los siguientes son materiales comúnmente mecanizados mediante fresado? {
+    ~%50%Acero
+    ~%50%Aluminio
+    ~%-10%Vidrio
+    ~%-10%Cemento
+}
+
+// Pregunta 135: Elección única
+::P135:: ¿Qué término se refiere al proceso de crear una rosca externa en una varilla mediante una herramienta llamada terraja? {
+    =Roscado
+    ~Taladrado
+    ~Limado
+    ~Fresado
+}
+
+// Pregunta 136: Elección múltiple (3 respuestas correctas)
+::P136:: ¿Cuáles de los siguientes son factores que influyen en el fresado? {
+    ~%33.33%Velocidad de corte
+    ~%33.33%Avance por diente
+    ~%33.33%Profundidad de pasada
+    ~%-10%Temperatura de fusión
+}
+
+// Pregunta 137: Elección única
+::P137:: ¿Qué término se refiere al proceso de hacer agujeros profundos en un material mediante una broca especial? {
+    =Taladrado profundo
+    ~Fresado
+    ~Roscado
+    ~Torneado
+}
+
+// Pregunta 138: Elección múltiple (2 respuestas correctas)
+::P138:: ¿Cuáles de los siguientes son defectos comunes en el torneado? {
+    ~%50%Vibraciones
+    ~%50%Marcas de herramienta
+    ~%-10%Porosidad
+    ~%-10%Acritud
+}
+
+// Pregunta 139: Elección única
+::P139:: ¿Qué término se refiere al proceso de mecanizar una pieza mediante una herramienta de corte que gira y se mueve en múltiples direcciones? {
+    =Fresado
+    ~Torneado
+    ~Taladrado
+    ~Roscado
+}
+
+// Pregunta 140: Elección múltiple (3 respuestas correctas)
+::P140:: ¿Cuáles de los siguientes son ventajas del fresado? {
+    ~%33.33%Alta precisión dimensional
+    ~%33.33%Versatilidad en formas complejas
+    ~%33.33%Producción en serie
+    ~%-10%Mayor facilidad de mecanizado
+}
+
+// Pregunta 141: Elección única
+::P141:: ¿Qué término se refiere a la unión permanente de materiales mediante la aplicación de calor y, en algunos casos, presión? {
+    =Soldadura
+    ~Pegado
+    ~Remachado
+    ~Atornillado
+}
+
+// Pregunta 142: Elección múltiple (2 respuestas correctas)
+::P142:: ¿Cuáles de los siguientes son tipos de soldadura comúnmente utilizados? {
+    ~%50%Arco
+    ~%50%TIG
+    ~%-10%Soldadura de sodio
+    ~%-10%Remachado
+}
+
+// Pregunta 143: Elección única
+::P143:: ¿Qué término se refiere a la unión de materiales mediante el uso de adhesivos? {
+    =Pegado
+    ~Soldadura
+    ~Remachado
+    ~Atornillado
+}
+
+// Pregunta 144: Elección múltiple (3 respuestas correctas)
+::P144:: ¿Cuáles de los siguientes son factores que influyen en la calidad de una soldadura? {
+    ~%33.33%Preparación de las piezas
+    ~%33.33%Selección del método de soldadura
+    ~%33.33%Habilidad del soldador
+    ~%-10%Temperatura ambiente
+}
+
+// Pregunta 145: Elección única
+::P145:: ¿Qué término se refiere a la unión de materiales mediante remaches? {
+    =Remachado
+    ~Soldadura
+    ~Pegado
+    ~Atornillado
+}
+
+// Pregunta 146: Elección múltiple (2 respuestas correctas)
+::P146:: ¿Cuáles de los siguientes son tipos de remaches? {
+    ~%50%Remaches ciegos
+    ~%50%Remaches sólidos
+    ~%-10%Tornillos autorroscantes
+    ~%-10%Pernos
+}
+
+// Pregunta 147: Elección única
+::P147:: ¿Qué término se refiere a la unión de materiales mediante tornillos y tuercas? {
+    =Atornillado
+    ~Soldadura
+    ~Pegado
+    ~Remachado
+}
+
+// Pregunta 148: Elección múltiple (3 respuestas correctas)
+::P148:: ¿Cuáles de los siguientes son elementos comunes en un ensamble atornillado? {
+    ~%33.33%Tornillos
+    ~%33.33%Tuercas
+    ~%33.33%Arandelas
+    ~%-10%Adhesivos
+}
+
+// Pregunta 149: Elección única
+::P149:: ¿Qué término se refiere a la unión de materiales mediante pasadores? {
+    =Pasadorado
+    ~Soldadura
+    ~Pegado
+    ~Remachado
+}
+
+// Pregunta 150: Elección múltiple (2 respuestas correctas)
+::P150:: ¿Cuáles de los siguientes son tipos de pasadores? {
+    ~%50%Pasadores cilíndricos
+    ~%50%Pasadores cónicos
+    ~%-10%Tornillos autorroscantes
+    ~%-10%Pernos
+}
+
+// Pregunta 151: Elección única
+::P151:: ¿Qué término se refiere a la unión de materiales mediante pernos? {
+    =Pernado
+    ~Soldadura
+    ~Pegado
+    ~Remachado
+}
+
+// Pregunta 152: Elección múltiple (3 respuestas correctas)
+::P152:: ¿Cuáles de los siguientes son ventajas de las uniones atornilladas? {
+    ~%33.33%Facilidad de desmontaje
+    ~%33.33%Resistencia mecánica
+    ~%33.33%Versatilidad
+    ~%-10%Resistencia a la oxidación
+}
+
+// Pregunta 153: Elección única
+::P153:: ¿Qué término se refiere a la unión de materiales mediante clavos? {
+    =Clavado
+    ~Soldadura
+    ~Pegado
+    ~Remachado
+}
+
+// Pregunta 154: Elección múltiple (2 respuestas correctas)
+::P154:: ¿Cuáles de los siguientes son tipos de clavos? {
+    ~%50%Clavos comunes
+    ~%50%Clavos de acabado
+    ~%-10%Tornillos autorroscantes
+    ~%-10%Pernos
+}
+
+// Pregunta 155: Elección única
+::P155:: ¿Qué término se refiere a la unión de materiales mediante grapas? {
+    =Grapado
+    ~Soldadura
+    ~Pegado
+    ~Remachado
+}
+
+// Pregunta 156: Elección múltiple (3 respuestas correctas)
+::P156:: ¿Cuáles de los siguientes son aplicaciones comunes del grapado? {
+    ~%33.33%Unión de maderas
+    ~%33.33%Fijación de tejidos
+    ~%33.33%Ensamblaje de muebles
+    ~%-10%Unión de metales
+}
+
+// Pregunta 157: Elección única
+::P157:: ¿Qué término se refiere a la unión de materiales mediante elementos roscados que no requieren tuercas? {
+    =Tornillos autorroscantes
+    ~Soldadura
+    ~Pegado
+    ~Remachado
+}
+
+// Pregunta 158: Elección múltiple (2 respuestas correctas)
+::P158:: ¿Cuáles de los siguientes son tipos de tornillos autorroscantes? {
+    ~%50%Tirafondos
+    ~%50%Tornillos para metal
+    ~%-10%Pernos
+    ~%-10%Clavos
+}
+
+// Pregunta 159: Elección única
+::P159:: ¿Qué término se refiere a la unión de materiales mediante elementos roscados que requieren tuercas? {
+    =Atornillado
+    ~Soldadura
+    ~Pegado
+    ~Remachado
+}
+
+// Pregunta 160: Elección múltiple (3 respuestas correctas)
+::P160:: ¿Cuáles de los siguientes son factores que influyen en la calidad de una unión atornillada? {
+    ~%33.33%Par de apriete
+    ~%33.33%Tipo de tornillo
+    ~%33.33%Uso de arandelas
+    ~%-10%Uso de destornilladores largos
+}
+
+// Pregunta 161: Elección única
+::P161:: ¿Qué término se refiere a materiales con dimensiones inferiores a los 50 nanómetros? {
+    =Nanomateriales
+    ~Superconductores
+    ~Grafeno
+    ~Fullerenos
+}
+
+// Pregunta 162: Elección múltiple (2 respuestas correctas)
+::P162:: ¿Cuáles de los siguientes son ejemplos de nanomateriales mencionados en el documento? {
+    ~%50%Fullerenos
+    ~%50%Nanotubos de carbono
+    ~%-10%Grafito
+    ~%-10%Diamante
+}
+
+// Pregunta 163: Elección única
+::P163:: ¿Qué término se refiere a una lámina extremadamente delgada compuesta de carbono con un átomo de grosor? {
+    =Grafeno
+    ~Fullereno
+    ~Nanotubo
+    ~Superconductor
+}
+
+// Pregunta 164: Elección múltiple (3 respuestas correctas)
+::P164:: ¿Cuáles de las siguientes son propiedades del grafeno mencionadas en el documento? {
+    ~%33.33%Transparencia
+    ~%33.33%Flexibilidad
+    ~%33.33%Alta conductividad eléctrica
+    ~%-10%Baja resistencia mecánica
+}
+
+// Pregunta 165: Elección única
+::P165:: ¿Qué término se refiere a materiales que pierden resistencia eléctrica a bajas temperaturas? {
+    =Superconductores
+    ~Nanomateriales
+    ~Grafeno
+    ~Fullerenos
+}
+
+// Pregunta 166: Elección múltiple (2 respuestas correctas)
+::P166:: ¿Cuáles de los siguientes son ejemplos de superconductores mencionados en el documento? {
+    ~%50%Plomo
+    ~%50%Aluminio
+    ~%-10%Grafeno
+    ~%-10%Fullerenos
+}
+
+// Pregunta 167: Elección única
+::P167:: ¿Qué término se refiere a materiales que expulsan el campo magnético a bajas temperaturas? {
+    =Superconductores
+    ~Nanomateriales
+    ~Grafeno
+    ~Fullerenos
+}
+
+// Pregunta 168: Elección múltiple (3 respuestas correctas)
+::P168:: ¿Cuáles de las siguientes son aplicaciones del grafeno mencionadas en el documento? {
+    ~%33.33%Circuitos flexibles
+    ~%33.33%Baterías de alta capacidad
+    ~%33.33%Sensores médicos
+    ~%-10%Materiales de construcción pesados
+}
+
+// Pregunta 169: Elección única
+::P169:: ¿Qué término se refiere a estructuras de carbono con forma esférica? {
+    =Fullerenos
+    ~Grafeno
+    ~Superconductores
+    ~Nanotubos
+}
+
+// Pregunta 170: Elección múltiple (2 respuestas correctas)
+::P170:: ¿Cuáles de los siguientes son beneficios de los nanomateriales mencionados en el documento? {
+    ~%50%Menor peso
+    ~%50%Mayor resistencia
+    ~%-10%Mayor costo
+    ~%-10%Menor durabilidad
+}
+
+// Pregunta 171: Elección única
+::P171:: ¿Qué término se refiere a materiales que permiten la manipulación a escala atómica? {
+    =Nanomateriales
+    ~Superconductores
+    ~Grafeno
+    ~Fullerenos
+}
+
+// Pregunta 172: Elección múltiple (3 respuestas correctas)
+::P172:: ¿Cuáles de las siguientes son propiedades de los superconductores mencionadas en el documento? {
+    ~%33.33%Conducción eléctrica sin pérdidas
+    ~%33.33%Expulsión del campo magnético
+    ~%33.33%Necesidad de bajas temperaturas
+    ~%-10%Alta resistencia mecánica
+}
+
+// Pregunta 173: Elección única
+::P173:: ¿Qué término se refiere a materiales que pueden cambiar radicalmente sus propiedades eléctricas y magnéticas a bajas temperaturas? {
+    =Superconductores
+    ~Nanomateriales
+    ~Grafeno
+    ~Fullerenos
+}
+
+// Pregunta 174: Elección múltiple (2 respuestas correctas)
+::P174:: ¿Cuáles de los siguientes son ejemplos de aplicaciones de los superconductores mencionados en el documento? {
+    ~%50%Energía
+    ~%50%Transporte
+    ~%-10%Construcción pesada
+    ~%-10%Agricultura
+}
+
+// Pregunta 175: Elección única
+::P175:: ¿Qué término se refiere a materiales que pueden ser utilizados en la fabricación de neumáticos con mejores propiedades térmicas y mecánicas? {
+    =Fullerenos
+    ~Grafeno
+    ~Superconductores
+    ~Nanotubos
+}
+
+// Pregunta 176: Elección múltiple (3 respuestas correctas)
+::P176:: ¿Cuáles de las siguientes son características del grafeno mencionadas en el documento? {
+    ~%33.33%Impermeabilidad
+    ~%33.33%Abundancia
+    ~%33.33%Económico
+    ~%-10%Poca resistencia mecánica
+}
+
+// Pregunta 177: Elección única
+::P177:: ¿Qué término se refiere a materiales que pueden mejorar las propiedades térmicas y mecánicas de los neumáticos? {
+    =Fullerenos
+    ~Grafeno
+    ~Superconductores
+    ~Nanotubos
+}
+
+// Pregunta 178: Elección múltiple (2 respuestas correctas)
+::P178:: ¿Cuáles de los siguientes son ejemplos de superconductores recientemente descubiertos mencionados en el documento? {
+    ~%50%Sulfuros de bismuto
+    ~%50%Disulfuro de molibdeno
+    ~%-10%Grafeno
+    ~%-10%Fullerenos
+}
+
+// Pregunta 179: Elección única
+::P179:: ¿Qué término se refiere a materiales que pueden jugar un papel relevante en la electrónica del futuro, complementando al silicio? {
+    =Disulfuro de molibdeno
+    ~Grafeno
+    ~Superconductores
+    ~Fullerenos
+}
+
+// Pregunta 180: Elección múltiple (3 respuestas correctas)
+::P180:: ¿Cuáles de las siguientes son aplicaciones potenciales de los superconductores mencionadas en el documento? {
+    ~%33.33%Energía
+    ~%33.33%Medio ambiente
+    ~%33.33%Salud
+    ~%-10%Agricultura
+}
+
+// Pregunta 181: Elección múltiple (2 respuestas correctas)
+::P181:: ¿Cuáles de las siguientes imágenes representan procesos de conformación de chapas? {
+    ~%50%<img src="https\://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sheet_metal_bending.jpg/320px-Sheet_metal_bending.jpg" alt="Doblado de chapa" width="150"> Doblado
+    ~%50%<img src="https\://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sheet_metal_embossing.jpg/320px-Sheet_metal_embossing.jpg" alt="Embutición de chapa" width="150"> Embutición
+    ~%-10%<img src="https\://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Lathe_machine.jpg/320px-Lathe_machine.jpg" alt="Torneado" width="150"> Torneado
+    ~%-10%<img src="https\://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Milling_machine.jpg/320px-Milling_machine.jpg" alt="Fresado" width="150"> Fresado
+}
