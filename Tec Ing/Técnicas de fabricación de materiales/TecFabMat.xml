@@ -1,0 +1,34 @@
+<quiz>
+  <!-- Definición de la categoría -->
+  <question type="category">
+    <category>
+      <text>$course$/top/B2.Técnicas de fabricación de materiales/Teoría</text>
+    </category>
+  </question>
+
+  <!-- Pregunta 181 -->
+  <question type="multichoice">
+    <name>
+      <text>P181: Procesos de conformación de chapas</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Cuáles de las siguientes imágenes representan procesos de conformación de chapas?</p>]]></text>
+    </questiontext>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVmCASGMNeb_WwQTcxpAyt7KC17zoGayQt5w&s" alt="Doblado de chapa" width="300"> Doblado]]></text>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhR9sI-8cWrA3L3ky9E-Gt4KLrTdgObKaiLNyeYXs_CCim4BH2n0RoiJct4Yn_lvRwATURB5XtBLA66r-Xo04bz4hqy6RDlLC_iV9yrzSY0KHww94gQiN9UuzW6f1tcnaES4dnjv9miNjC/s1600/ScreenShot936.jpg" alt="Embutición de chapa" width="300"> Embutición]]></text>
+    </answer>
+    <answer fraction="-10" format="html">
+      <text><![CDATA[<img src="https://www.imh.eus/es/imh/comunicacion/docu-libre/procesos-fabricacion/mecanizado/arranque-de-viruta/torneado/05-05-torneado-01.jpg/@@images/04046348-2fac-4f24-894c-b427b4454904.jpeg" alt="Torneado" width="300"> Torneado]]></text>
+    </answer>
+    <answer fraction="-10" format="html">
+      <text><![CDATA[<img src="https://www.seas.es/blog/wp-content/uploads/2024/05/Operaciones-de-mecanizado-en-fresadora.png" alt="Fresado" width="300"> Fresado]]></text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <answernumbering>abc</answernumbering>
+    <penalty>0.1</penalty>
+  </question>
+</quiz>
