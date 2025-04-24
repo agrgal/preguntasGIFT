@@ -1,0 +1,374 @@
+$CATEGORY: $course$/top/TEMA 5. Sistemas automáticos y de control
+
+$CATEGORY: $course$/top/TEMA 5. Sistemas automáticos y de control/Teoría de sistemas automáticos
+
+::Pregunta 1:: Según los apuntes, ¿qué caracteriza a un sistema automático de control? {
+    ~%100%Capacidad de autorregulación sin intervención externa
+    ~%-10%Dependencia constante de supervisión humana
+    ~%-10%Incapacidad de autocorregir errores
+    ~%-10%Operación aislada sin relación con otros componentes
+}
+
+::Pregunta 3:: Según los apuntes, ¿en qué contextos son fundamentales los sistemas automáticos?{
+    ~%33.333%Procesos industriales
+    ~%33.333%Domótica
+    ~%33.333%Investigación aeroespacial
+    ~%-10%Alfarería
+}
+
+::Pregunta 4:: De acuerdo al documento, ¿qué define una "variable del sistema"? {
+    ~%100%Magnitud que define el comportamiento del sistema
+    ~%50%Componente físico del sistema
+    ~%-10%Señal eléctrica de control
+    ~%-10%Valor constante predefinido
+}
+
+::Pregunta 5:: ¿Qué papel juega la "entrada" en un sistema según los apuntes?{
+    ~%100%Señal externa aplicada para obtener una respuesta
+    ~%-10%Componente interno que procesa datos
+    ~%-10%Programa informático que controla el sistema
+    ~%-10%Magnitud física constante
+}
+
+::Pregunta 6:: ¿Qué es una "perturbación" en un sistema de control según el texto?{
+    ~%100%Señal no deseada que afecta adversamente el funcionamiento del sistema
+    ~%-10%Señal de entrada esperada
+    ~%-10%Respuesta del sistema a una entrada
+    ~%-10%Componente necesario para el control
+}
+
+::Pregunta 7:: ¿Cuál es la función de un "transductor o sensor" según los apuntes?{
+    ~%50%Captar una magnitud física
+    ~%50%Transformarla en otra interpretable por el sistema
+    ~%-10%Amplificar una señal eléctrica
+    ~%-10%Controlar la velocidad de un motor
+}
+
+::Pregunta 8:: ¿Qué utilidad tienen los diagramas de bloques según los apuntes?{
+    ~%100%Representar visualmente las relaciones entre las variables del sistema
+    ~%-10%Mostrar el costo de los componentes
+    ~%-10%Indicar la ubicación física de los elementos
+    ~%-10%Simular el comportamiento del sistema en el tiempo
+}
+
+::Pregunta 9:: En un diagrama de bloques, ¿qué representa un bloque individual?{
+    ~%100%Un elemento del sistema de control
+    ~%-10%Una conexión eléctrica
+    ~%-10%Una variable de entrada
+    ~%-10%Una variable de salida
+}
+
+::Pregunta 10:: ¿Cuáles son los dos tipos principales de sistemas de control mencionados en los apuntes?{
+    ~%50%Lazo abierto
+    ~%50%Lazo cerrado
+    ~%-10%Control digital
+    ~%-10%Control adaptativo
+}
+
+::Pregunta 11:: En un sistema de lazo abierto, ¿cómo actúa la señal de entrada según los apuntes?{
+    ~%100%Directamente sobre los elementos de control sin considerar la salida
+    ~%-10%Modificando la salida del sistema
+    ~%-10%Compensando perturbaciones externas
+    ~%-10%Ajustando automáticamente el sistema
+}
+
+::Pregunta 12:: ¿Qué características son propias de los sistemas en lazo abierto según los apuntes?{
+    ~%50%Sensibilidad a perturbaciones
+    ~%50%Necesidad de calibración
+    ~%-10%Compensación de perturbaciones
+    ~%-10%Alta precisión
+}
+
+::Pregunta 13:: En un sistema de control en lazo cerrado, ¿qué función cumple la retroalimentación?{
+    ~%100%Transforma la información de la salida en una señal de entrada
+    ~%-10%Amplifica la señal de error
+    ~%-10%Mide la temperatura del sistema
+    ~%-10%Controla la velocidad del actuador
+}
+
+::Pregunta 14:: ¿Cuál es la función del comparador en un sistema de lazo cerrado según los apuntes?{
+    ~%100%Genera una señal de error comparando la señal de retroalimentación con la señal de entrada
+    ~%-10%Amplifica la señal de entrada
+    ~%-10%Mide la temperatura del sistema
+    ~%-10%Controla la velocidad del actuador
+}
+
+::Pregunta 15:: ¿De qué se encarga el regulador en un sistema de lazo cerrado según el texto?{
+    ~%100%Comandar el actuador para influir en el proceso y anular la señal de error
+    ~%-10%Medir la señal de salida
+    ~%-10%Proporcionar la señal de entrada
+    ~%-10%Proteger el sistema contra sobrecargas
+}
+
+::Pregunta 16:: ¿Qué ventajas ofrecen los sistemas en lazo cerrado sobre los de lazo abierto según los apuntes?{
+    ~%50%Compensación de perturbaciones
+    ~%50%Mayor precisión
+    ~%-10%Mayor velocidad
+    ~%-10%Menor costo
+}
+
+::Pregunta 17:: ¿En qué dos tipos se divide la respuesta de un sistema ante una variación según los apuntes?{
+    ~%50%Respuesta transitoria
+    ~%50%Respuesta permanente
+    ~%-10%Respuesta lineal
+    ~%-10%Respuesta no lineal
+}
+
+::Pregunta 18:: ¿Qué describe la respuesta transitoria de un sistema según los apuntes?{
+    ~%100%El comportamiento del sistema antes de alcanzar un régimen permanente
+    ~%-10%El estado del sistema en equilibrio
+    ~%-10%La respuesta del sistema a largo plazo
+    ~%-10%La precisión del sistema
+}
+
+::Pregunta 19:: Según el texto, ¿a qué se refiere la "ganancia estática" en un sistema?{
+    ~%100%Valor que se alcanza en el régimen permanente
+    ~%-10%Máxima oscilación del sistema
+    ~%-10%Tiempo de respuesta del sistema
+    ~%-10%Energía consumida por el sistema
+}
+
+::Pregunta 20:: ¿Qué parámetros se utilizan para medir la "velocidad de respuesta" en un sistema de segundo orden según los apuntes?{
+    ~%25%Tiempo de retraso
+    ~%25%Tiempo de subida
+    ~%25%Tiempo de pico
+    ~%25%Tiempo de establecimiento
+}
+
+::Pregunta 21:: Según el texto, ¿qué ocurre en la entrada de un sistema cuando se aplica una función escalón unitario? {
+    ~%100%Se pasa de no tener señal a tener una señal constante de valor 1.
+    ~%-10%La señal disminuye gradualmente hasta cero.
+    ~%-10%La señal oscila entre valores positivos y negativos.
+    ~%-10%La señal aumenta linealmente con el tiempo.
+}
+
+::Pregunta 22:: Según los apuntes, ¿qué es la "ganancia estática" (K) en un sistema? {
+    ~%100%El valor que se alcanza en el régimen permanente.
+    ~%-10%La máxima oscilación del sistema.
+    ~%-10%El tiempo de respuesta del sistema.
+    ~%-10%La energía consumida por el sistema.
+}
+
+::Pregunta 23:: ¿Qué se entiende por "constante de tiempo" (τ) en un sistema de primer orden según el texto?{
+    ~%50%El tiempo necesario para alcanzar el 63.2% del valor final (K).
+    ~%50%El tiempo necesario para alcanzar el 95% del valor final (K).
+    ~%-10%El tiempo necesario para que la señal se estabilice.
+    ~%-10%El tiempo necesario para que la señal alcance su valor máximo.
+}
+
+::Pregunta 24:: Según los apuntes, ¿en qué tiempo se considera que un sistema de primer orden alcanza su valor final en la práctica? {
+    ~%100%3τ (95% del valor K).
+    ~%-10%τ (63.2% del valor K).
+    ~%-10%2τ (86.5% del valor K).
+    ~%-10%5τ (99.3% del valor K).
+}
+
+::Pregunta 25:: ¿Qué dos parámetros tenemos asociados a la "sobreoscilación máxima" en un sistema de segundo orden según los apuntes?{
+    ~%50%La diferencia entre el valor máximo que adopta la señal de salida y el valor de régimen permanente.
+    ~%50%El tiempo que tarda la señal en alcanzar su valor máximo.
+    ~%-10%La velocidad con la que la señal alcanza su valor máximo.
+    ~%-10%La frecuencia con la que la señal oscila alrededor del valor final.
+}
+
+::Pregunta 26:: ¿Qué mide el "tiempo de retraso" (tD) en un sistema de segundo orden según el texto? {
+    ~%100%El tiempo hasta que la salida alcanza el 10% de su valor final.
+    ~%-10%El tiempo hasta que la salida alcanza el 50% de su valor final.
+    ~%-10%El tiempo hasta que la salida comienza a disminuir después de alcanzar su valor máximo.
+    ~%-10%El tiempo hasta que la salida alcanza su valor final.
+}
+
+::Pregunta 27:: Según los apuntes, ¿qué mide el "tiempo de subida" (tR) en un sistema de segundo orden?{
+    ~%100%El tiempo desde el 10% hasta el 90% del valor final.
+    ~%-10%El tiempo desde el 0% hasta el 100% del valor final.
+    ~%-10%El tiempo desde el 0% hasta el 50% del valor final.
+    ~%-10%El tiempo desde el 50% hasta el 100% del valor final.
+}
+
+::Pregunta 28:: ¿Qué representa el "tiempo de pico" (tP) en un sistema de segundo orden?{
+    ~%100%El tiempo que tarda la salida en alcanzar su valor máximo.
+    ~%-10%El tiempo que tarda la salida en estabilizarse.
+    ~%-10%El tiempo que tarda la salida en alcanzar su valor final.
+    ~%-10%El tiempo que tarda la salida en comenzar a oscilar.
+}
+
+::Pregunta 29:: Según los apuntes, ¿qué es el "tiempo de establecimiento" (tS) en un sistema de segundo orden?{
+    ~%100%El tiempo necesario para que la salida se mantenga en una zona del ±x% en torno al valor final.
+    ~%-10%El tiempo necesario para que la salida alcance su valor máximo.
+    ~%-10%El tiempo necesario para que la salida deje de oscilar.
+    ~%-10%El tiempo necesario para que la salida se establezca en un valor constante.
+}
+
+::Pregunta 30:: Según el texto, ¿qué tolerancia se suele tomar como referencia para el "tiempo de establecimiento" (tS)?{
+    ~%100%±5%.
+    ~%-10%±2%.
+    ~%-10%±1%.
+    ~%-10%±10%.
+}
+
+::Pregunta 31:: ¿Qué elemento clave diferencia estructuralmente un sistema de lazo cerrado de uno de lazo abierto?{
+    ~%100%La presencia de retroalimentación (feedback)
+    ~%-10%El número de entradas del sistema
+    ~%-10%El tipo de sensor utilizado
+    ~%-10%La complejidad del actuador
+}
+
+::Pregunta 32:: En un sistema de lazo abierto, ¿qué ocurre si hay una perturbación externa?{
+    ~%100%El sistema no puede compensarla automáticamente
+    ~%-10%El sistema se autoregula para anularla
+    ~%-10%El sistema detiene su funcionamiento
+    ~%-10%El sistema aumenta su ganancia estática
+}
+
+::Pregunta 33:: ¿Por qué los sistemas de lazo abierto requieren calibración según los apuntes?{
+    ~%100%Para ajustar la salida a diferentes entradas ya que no tienen autocorrección
+    ~%-10%Porque sus sensores son menos precisos
+    ~%-10%Debido a que trabajan con mayores perturbaciones
+    ~%-10%Porque sus actuadores son más complejos
+}
+
+::Pregunta 34:: ¿Qué ventaja principal tiene un sistema de lazo abierto sobre uno cerrado?{
+    ~%100%Mayor simplicidad y menor costo
+    ~%-10%Mayor precisión en condiciones variables
+    ~%-10%Mejor compensación de perturbaciones
+    ~%-10%Capacidad de autocorrección
+}
+
+::Pregunta 35:: En el ejemplo de la tostadora de los apuntes, ¿por qué se considera un sistema de lazo abierto?{
+    ~%100%Porque el grado de tostado no influye en el tiempo de funcionamiento
+    ~%-10%Porque tiene múltiples sensores de temperatura
+    ~%-10%Porque ajusta automáticamente el tiempo de tostado
+    ~%-10%Porque usa retroalimentación visual
+}
+
+::Pregunta 36:: ¿Qué componente adicional necesita un sistema de lazo cerrado que no requiere uno de lazo abierto?{
+    ~%100%Captador (sensor de retroalimentación)
+    ~%-10%Actuador de mayor potencia
+    ~%-10%Interfaz de usuario
+    ~%-10%Fuente de alimentación redundante
+}
+
+::Pregunta 37:: En el ejemplo del aire acondicionado de los apuntes, ¿qué elemento actúa como comparador?{
+    ~%100%El sistema que compara la temperatura actual con la deseada
+    ~%-10%El compresor
+    ~%-10%El termómetro exterior
+    ~%-10%El ventilador
+}
+
+::Pregunta 38:: ¿Qué representa la "señal de error" en un sistema de lazo cerrado?{
+    ~%100%La diferencia entre la señal deseada en la entrada y la realimentada
+    ~%-10%El tiempo de respuesta del sistema
+    ~%-10%La potencia del actuador
+    ~%-10%La ganancia estática del sistema
+}
+
+::Pregunta 39:: ¿Por qué los sistemas de lazo cerrado son más lentos que los de lazo abierto?{
+    ~%100%Por el tiempo requerido para el proceso de medición-comparación-ajuste
+    ~%-10%Porque sus componentes son de menor calidad
+    ~%-10%Debido a limitaciones en la fuente de alimentación
+    ~%-10%Porque trabajan con señales analógicas
+}
+
+::Pregunta 40:: ¿Qué ocurriría en un sistema de lazo cerrado si el producto G(s)·H(s) \= -1?{
+    ~%100%El sistema se volvería inestable (salida tendería a infinito).
+    ~%-10%El sistema alcanzaría su estado óptimo
+    ~%-10%El sistema cambiaría automáticamente a lazo abierto
+    ~%-10%El sistema duplicaría su ganancia estática
+}
+
+::Pregunta 41:: En un sistema de lazo cerrado estable, ¿qué valor tiende a tomar la señal de error con el tiempo?{
+    ~%100%Cero (se anula)
+    ~%-10%El valor máximo del actuador
+    ~%-10%Un valor proporcional a la perturbación
+    ~%-10%Un valor aleatorio
+}
+
+::Pregunta 42:: ¿Qué característica de diseño permite a los sistemas de lazo cerrado compensar perturbaciones?{
+    ~%100%La capacidad de medir la salida y ajustar la entrada correspondientemente
+    ~%-10%El uso de componentes de alta precisión
+    ~%-10%La redundancia en los sensores
+    ~%-10%La programación de tiempos fijos de operación
+}
+
+::Pregunta 44:: Según los apuntes, ¿qué elemento en un sistema de lazo cerrado equivale al "cerebro" del sistema?{
+    ~%100%El regulador
+    ~%-10%El actuador
+    ~%-10%El sensor
+    ~%-10%La fuente de alimentación
+}
+
+::Pregunta 45:: ¿Qué sucede en un sistema de lazo cerrado cuando la señal realimentada es igual a la señal de entrada?{
+    ~%50%La señal de error es cero 
+    ~%50%El sistema mantiene su estado actual
+    ~%-10%El sistema se apaga automáticamente
+    ~%-10%El sistema cambia a modo de calibración
+}
+
+::Pregunta 46:: ¿Qué elementos básicos componen un diagrama de bloques según los apuntes? {
+    ~%50%Rectángulos que representan elementos del sistema
+    ~%50%Flechas que indican el flujo de señales
+    ~%-10%Círculos que representan fuentes de alimentación
+    ~%-10%Líneas discontinuas para conexiones físicas
+}
+
+::Pregunta 47:: En los diagramas de bloques, ¿cómo se representan las operaciones entre señales? {
+    ~%33.333%Círculos con un aspa interior para suma/resta
+    ~%33.333%Bloques ordinarios para multiplicación por constante
+    ~%33.333%Flechas orientadas para el sentido del flujo
+    ~%-10%Triángulos para operaciones lógicas
+}
+
+::Pregunta 48:: Para representar la ecuación y \= 3x₁ - 2x₂ en diagrama de bloques, necesitamos\: {
+    ~%25%Un bloque con ganancia 3 para x₁
+    ~%25%Un bloque con ganancia 2 para x₂
+    ~%25%Un punto de suma
+    ~%25%Un signo negativo para x₂
+}
+
+::Pregunta 49:: ¿Qué reglas se aplican para simplificar diagramas de bloques? {
+    ~%50%Bloques en serie se multiplican
+    ~%50%Bloques en paralelo se suman
+    ~%-10%Los puntos de suma siempre deben ir al final
+    ~%-10%Los bloques deben ordenarse alfabéticamente
+}
+
+::Pregunta 50:: En un diagrama de bloques de sistema de control, ¿qué representa típicamente el bloque "H(s)"? {
+    ~%100%La función de transferencia del camino de retroalimentación
+    ~%-10%La perturbación externa del sistema
+    ~%-10%La ganancia estática del actuador
+    ~%-10%El tiempo de respuesta del sensor
+}
+
+::Pregunta 51:: ¿Qué elementos encontrarías en el diagrama de bloques de un sistema de lazo cerrado? {
+    ~%33.333%Comparador (punto de suma)
+    ~%33.333%Bloque de retroalimentación
+    ~%33.333%Función de transferencia del proceso
+    ~%-10%Fuente de alimentación independiente
+}
+
+::Pregunta 52:: Al transponer puntos de bifurcación en diagramas de bloques\:{
+    ~%50%Se mantiene la misma función del sistema
+    ~%50%Se intercambian posiciones sin alterar señales
+    ~%-10%Se requiere añadir nuevos bloques
+    ~%-10%Se cambia la ganancia estática
+}
+
+::Pregunta 53:: Para la conexión en anillo con realimentación, ¿qué ecuación es correcta? {
+    ~%100%C(s) = G(s)·e(s)
+    ~%-10%C(s) = G(s) + H(s)
+    ~%-10%e(s) = r(s) · C(s)
+    ~%-10%G(s) = C(s) - r(s)
+}
+
+::Pregunta 54:: ¿Qué información esencial debe contener cada bloque en un diagrama?{
+    ~%50%La función de transferencia que representa
+    ~%50%El nombre o identificación del componente
+    ~%-10%El costo del elemento físico
+    ~%-10%El tiempo de vida útil estimado
+}
+
+::Pregunta 55:: Al reducir diagramas de bloques complejos, ¿qué operaciones son válidas? {
+    ~%33.333%Movimiento de puntos de suma
+    ~%33.333%Movimiento de puntos de bifurcación
+    ~%33.333%Combinación de bloques en serie/paralelo
+    ~%-10%Eliminación de bloques sin justificación
+}
