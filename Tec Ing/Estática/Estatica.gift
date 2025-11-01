@@ -1,0 +1,268 @@
+// Preguntas avanzadas para la categoría "Estática"
+
+// Category: Estática
+
+$CATEGORY: $course$/top/C1. Estática
+
+$CATEGORY: $course$/top/C1. Estática/Teoría sobre Estática
+
+::P1:: ¿Qué material compone el hormigón armado?{
+=%50%Hormigón
+=%50%Acero
+~Elementos biodegradables
+~Elementos plásticos termoestables
+}
+
+::P2:: ¿Cuál de los siguientes esfuerzos puede sufrir una estructura?{
+=%25%Tracción
+=%25%Compresión
+=%25%Flexión
+=%25%Torsión
+}
+
+::P3:: ¿Cuál es la función principal de la cimentación en una estructura?{
+=Transmitir las cargas al terreno
+~Dar forma estética a la estructura
+~Protección contra el fuego
+~Aumentar la altura de la estructura
+}
+
+::P4:: ¿Qué tipo de estructura se forma por barras unidas en puntos articulados?{
+=Estructura articulada
+~Estructura fija
+~Estructura hiperbólica
+~Estructura hipocampa
+}
+
+::P5:: En una estructura isostática coplanar, el número de reacciones es\: {
+=Igual a 3 
+~Mayor que 3
+~Menor que 3
+~Indefinido
+}
+
+::P6:: ¿Qué se entiende por una estructura hiperestática?{
+=Cuando hay más reacciones que ecuaciones de equilibrio
+~Cuando hay menos reacciones que ecuaciones
+~Cuando sólo se pueden usar las ecuaciones de equilibrio
+~Cuando la estructura es inestable
+}
+
+::P7:: ¿Qué tipo de estructura es inestable y tiende a moverse?{
+=Hipostática
+~Isostática
+~Hiperestática
+~Articulada
+}
+
+::P8:: ¿Qué característica define un pilar en las estructuras de edificación?{
+=Elemento vertical que trabaja a compresión
+~Elemento horizontal que soporta cargas
+~Elemento que siempre trabaja a tracción
+~Elemento de hormigón en masa sin refuerzo
+}
+
+::P9:: ¿Cuál es la principal ventaja del hormigón armado sobre el hormigón en masa?{
+=Soporta esfuerzos de tracción y compresión
+~Es más barato
+~Se puede moldear fácilmente
+~No necesita mantenimiento
+}
+
+::P10:: ¿Qué tipo de carga es un peso aplicado en un punto reducido?{
+=Puntual
+~Distribuida o uniforme
+~Axial
+~Cortante
+}
+
+::P11:: ¿Cuál es el momento de torsión?{
+=Es un esfuerzo que torsiona o retuerce un material
+~Es un esfuerzo que comprime un material
+~Es un esfuerzo que estira un material
+~Es un tipo de carga puntual
+}
+
+::P12:: ¿Qué es una jácena en una estructura?{
+=Una viga maestra que salva el espacio entre dos apoyos
+~Un tipo de pilar inclinado
+~Un tipo de cimentación profunda
+~Una losa de hormigón
+}
+
+::P13:: ¿Qué se utiliza para mejorar la estabilidad de una estructura?{
+= Aumentar la base y usar tirantes o anclajes
+~Reducir el peso total
+~Usar solamente materiales rígidos
+~Aumentar la altura sin cambiar la base
+}
+
+::P14:: ¿Cuántos grados de libertad tiene una estructura articulada coplanaria?{
+=3
+~6
+~1
+~0
+}
+
+::P15:: ¿Qué estructura está formada por triángulos con nudos no alineados?{
+=Celosía simple
+~Celosía Hipostática
+~Celosía Hiperestática
+~Compleja celosía sin triángulos
+}
+
+::P16:: ¿Cómo se determina si una estructura es isostática internamente?{
+=Si el número de barras cumple b = 2n - 3
+~Si las reacciones externas son mayores que 3
+~Si la estructura es inestable
+~Si el material no es elástico
+}
+
+::P17:: ¿Qué tipo de apoyo permite rotación pero impide traslación vertical?{
+=Apoyo articulado o fijo
+~Apoyo móvil
+~Apoyo empotrado
+~Ninguno
+}
+
+::P18:: ¿Qué se entiende por estabilidad en una estructura?{
+=Que conserve su forma y posición ante las cargas
+~Que no tenga deformaciones plásticas
+~Que sea flexible
+~Que soporte sólo cargas puntuales
+}
+
+::P19:: ¿Cómo se llama la propiedad que mide la relación tensión/deformación en la zona elástica?{
+=Módulo de Young
+~Momento flector
+~Momento torsor
+~Deformación plástica
+}
+
+::P20:: ¿Qué tipo de elementos forman generalmente una cercha?{
+=Triángulos
+~Cuadrados
+~Rectángulos
+~Círculos
+}
+
+::P21:: ¿Cuál es la relación básica para que una estructura sea internamente isostática compuesta por barras y nudos en plano?{
+=La relación b \= 2n - 3 debe cumplirse
+~La relación b \= 3n - 6 debe cumplirse
+~La base debe ser mayor que la altura
+~Todas las barras deben ser de acero
+}
+
+::P23:: ¿Cuál es la principal causa de la aparición de fuerzas internas adicionales en una estructura hiperestática?{
+=%50%Restricciones redundantes de apoyo
+=%50%Empotramientos redundantes
+~Cargas dinámicas exclusivamente
+~Material inadecuado
+}
+
+::P24:: Al introducir un empotramiento en una estructura, ¿qué tipo de apoyo se está añadiendo?{
+=Apoyo que impide rotaciones y traslaciones
+~Apoyo que permite rotación y traslación
+~Apoyo móvil
+~Apoyo articulado simple
+}
+
+::P25:: En hormigón armado, ¿qué función cumple el acero?{
+=Absorber esfuerzos a tracción
+~Proteger al hormigón de agentes externos
+~Aumentar el peso total
+}
+
+::P26:: ¿Cuál es el efecto de la hiperestaticidad en la distribución de fuerzas internas?{
+=%50%Fuerzas dependen de cargas y deformaciones
+=%50%Se requieren ecuaciones adicionales
+~Las fuerzas dependen solo de cargas
+~Las fuerzas internas desaparecen
+}
+
+::P27:: ¿Qué significa que una estructura sea estable?{
+=Que las reacciones de apoyo evitan el movimiento indefinido
+~Que sólo soporta cargas ligeras
+~Que no tiene deformaciones elásticas
+~Que es hiperestática
+}
+
+
+::P29:: ¿En qué casos es preferible diseñar estructuras hiperestáticas?{
+=%50%Para mayor seguridad
+=%50%Para redistribución de cargas
+~Para reducir costos al mínimo
+~Cuando se desconoce la carga actuante
+}
+
+::P31:: ¿Qué funciones cumplen las jácenas en una estructura?{
+=%50%Soportar vigas secundarias
+=%50%Transferir cargas a pilares o muros
+~Aumentar la altura total del edificio
+~Servir como elemento decorativo
+}
+
+::P32:: ¿Qué características definen a una viga?{
+=%33.3333%Elemento horizontal que soporta cargas
+=%33.3333%Transfiere cargas a pilares o muros
+=%33.3333%Puede estar sometida a flexión y cortante
+~Elemento vertical que soporta únicamente compresión
+}
+
+::P33:: Las viguetas se utilizan principalmente para\: {
+=%50%Constituir el soporte de una losa
+=%50%Transmitir cargas a jácenas o vigas
+~Conformar el basamento de la cimentación
+~Aumentar la rigidez de pilares
+}
+
+::P34:: ¿Cuál es la función principal de un pilar en una estructura?{
+=%50%Soportar cargas verticales
+=%50%Transmitir cargas al suelo a través de la cimentación
+~Servir exclusivamente para división de espacios
+~Soportar únicamente cargas horizontales
+}
+
+::P35:: Las zapatas en una cimentación tienen la función de\: {
+=%50%Distribuir las cargas del pilar al terreno
+=%50%Proporcionar una base estable para la estructura
+~Aumentar la altura total de la estructura
+~Proteger cimientos de la humedad
+}
+
+::P36:: ¿Qué es un bastidor en una estructura?{
+=%50%Una estructura rígida compuesta por barras o perfiles
+=%50%Soporta cargas distribuidas y concentradas
+~Un tipo de fundación superficial
+~Un material aislante térmico
+}
+
+::P37:: En el contexto de estructuras, ¿qué es un chasis?{
+=%50%Conjunto estructural que soporta y distribuye cargas
+=%50%Frecuente en estructuras metálicas y maquinaria
+~Es una zapata grande
+~Es un tipo de viga reforzada
+}
+
+::P38:: ¿Para qué sirve una bancada en la construcción?{
+=%50%Base o soporte para maquinaria o elementos estructurales
+=%50%Proporciona estabilidad y nivelación
+~Para soportar únicamente cargas horizontales
+~Es sinónimo de viga maestra
+}
+
+::P39:: ¿Qué características distinguen a un arco estructural?{
+=%33.3333%Elemento curvo que soporta cargas principalmente por compresión
+=%33.3333%Transfiere cargas a pilares o muros laterales
+=%33.3333%Se usa para cubrir vanos sin necesidad de vigas horizontales
+~Trabaja básicamente a tracción
+}
+
+::P40:: ¿Cuál es la función principal de una bóveda en arquitectura?{
+=%50%Cubrir espacios con estructuras curvadas
+=%50%Distribuir cargas principalmente por compresión
+~Funcionar como elemento aislante
+~Ser un elemento decorativo únicamente
+}
+
+
