@@ -7,17 +7,17 @@ $CATEGORY: $course$/top/C1. Estática
 $CATEGORY: $course$/top/C1. Estática/Teoría sobre Estática
 
 ::P1:: ¿Qué material compone el hormigón armado?{
-=%50%Hormigón
-=%50%Acero
+~%50%Hormigón
+~%50%Acero
 ~Elementos biodegradables
 ~Elementos plásticos termoestables
 }
 
 ::P2:: ¿Cuál de los siguientes esfuerzos puede sufrir una estructura?{
-=%25%Tracción
-=%25%Compresión
-=%25%Flexión
-=%25%Torsión
+~%25%Tracción
+~%25%Compresión
+~%25%Flexión
+~%25%Torsión
 }
 
 ::P3:: ¿Cuál es la función principal de la cimentación en una estructura?{
@@ -154,8 +154,8 @@ $CATEGORY: $course$/top/C1. Estática/Teoría sobre Estática
 }
 
 ::P23:: ¿Cuál es la principal causa de la aparición de fuerzas internas adicionales en una estructura hiperestática?{
-=%50%Restricciones redundantes de apoyo
-=%50%Empotramientos redundantes
+~%50%Restricciones redundantes de apoyo
+~%50%Empotramientos redundantes
 ~Cargas dinámicas exclusivamente
 ~Material inadecuado
 }
@@ -174,8 +174,8 @@ $CATEGORY: $course$/top/C1. Estática/Teoría sobre Estática
 }
 
 ::P26:: ¿Cuál es el efecto de la hiperestaticidad en la distribución de fuerzas internas?{
-=%50%Fuerzas dependen de cargas y deformaciones
-=%50%Se requieren ecuaciones adicionales
+~%50%Fuerzas dependen de cargas y deformaciones
+~%50%Se requieren ecuaciones adicionales
 ~Las fuerzas dependen solo de cargas
 ~Las fuerzas internas desaparecen
 }
@@ -189,78 +189,78 @@ $CATEGORY: $course$/top/C1. Estática/Teoría sobre Estática
 
 
 ::P29:: ¿En qué casos es preferible diseñar estructuras hiperestáticas?{
-=%50%Para mayor seguridad
-=%50%Para redistribución de cargas
+~%50%Para mayor seguridad
+~%50%Para redistribución de cargas
 ~Para reducir costos al mínimo
 ~Cuando se desconoce la carga actuante
 }
 
 ::P31:: ¿Qué funciones cumplen las jácenas en una estructura?{
-=%50%Soportar vigas secundarias
-=%50%Transferir cargas a pilares o muros
+~%50%Soportar vigas secundarias
+~%50%Transferir cargas a pilares o muros
 ~Aumentar la altura total del edificio
 ~Servir como elemento decorativo
 }
 
 ::P32:: ¿Qué características definen a una viga?{
-=%33.3333%Elemento horizontal que soporta cargas
-=%33.3333%Transfiere cargas a pilares o muros
-=%33.3333%Puede estar sometida a flexión y cortante
+~%33.3333%Elemento horizontal que soporta cargas
+~%33.3333%Transfiere cargas a pilares o muros
+~%33.3333%Puede estar sometida a flexión y cortante
 ~Elemento vertical que soporta únicamente compresión
 }
 
 ::P33:: Las viguetas se utilizan principalmente para\: {
-=%50%Constituir el soporte de una losa
-=%50%Transmitir cargas a jácenas o vigas
+~%50%Constituir el soporte de una losa
+~%50%Transmitir cargas a jácenas o vigas
 ~Conformar el basamento de la cimentación
 ~Aumentar la rigidez de pilares
 }
 
 ::P34:: ¿Cuál es la función principal de un pilar en una estructura?{
-=%50%Soportar cargas verticales
-=%50%Transmitir cargas al suelo a través de la cimentación
+~%50%Soportar cargas verticales
+~%50%Transmitir cargas al suelo a través de la cimentación
 ~Servir exclusivamente para división de espacios
 ~Soportar únicamente cargas horizontales
 }
 
 ::P35:: Las zapatas en una cimentación tienen la función de\: {
-=%50%Distribuir las cargas del pilar al terreno
-=%50%Proporcionar una base estable para la estructura
+~%50%Distribuir las cargas del pilar al terreno
+~%50%Proporcionar una base estable para la estructura
 ~Aumentar la altura total de la estructura
 ~Proteger cimientos de la humedad
 }
 
 ::P36:: ¿Qué es un bastidor en una estructura?{
-=%50%Una estructura rígida compuesta por barras o perfiles
-=%50%Soporta cargas distribuidas y concentradas
+~%50%Una estructura rígida compuesta por barras o perfiles
+~%50%Soporta cargas distribuidas y concentradas
 ~Un tipo de fundación superficial
 ~Un material aislante térmico
 }
 
 ::P37:: En el contexto de estructuras, ¿qué es un chasis?{
-=%50%Conjunto estructural que soporta y distribuye cargas
-=%50%Frecuente en estructuras metálicas y maquinaria
+~%50%Conjunto estructural que soporta y distribuye cargas
+~%50%Frecuente en estructuras metálicas y maquinaria
 ~Es una zapata grande
 ~Es un tipo de viga reforzada
 }
 
 ::P38:: ¿Para qué sirve una bancada en la construcción?{
-=%50%Base o soporte para maquinaria o elementos estructurales
-=%50%Proporciona estabilidad y nivelación
+~%50%Base o soporte para maquinaria o elementos estructurales
+~%50%Proporciona estabilidad y nivelación
 ~Para soportar únicamente cargas horizontales
 ~Es sinónimo de viga maestra
 }
 
 ::P39:: ¿Qué características distinguen a un arco estructural?{
-=%33.3333%Elemento curvo que soporta cargas principalmente por compresión
-=%33.3333%Transfiere cargas a pilares o muros laterales
-=%33.3333%Se usa para cubrir vanos sin necesidad de vigas horizontales
+~%33.3333%Elemento curvo que soporta cargas principalmente por compresión
+~%33.3333%Transfiere cargas a pilares o muros laterales
+~%33.3333%Se usa para cubrir vanos sin necesidad de vigas horizontales
 ~Trabaja básicamente a tracción
 }
 
 ::P40:: ¿Cuál es la función principal de una bóveda en arquitectura?{
-=%50%Cubrir espacios con estructuras curvadas
-=%50%Distribuir cargas principalmente por compresión
+~%50%Cubrir espacios con estructuras curvadas
+~%50%Distribuir cargas principalmente por compresión
 ~Funcionar como elemento aislante
 ~Ser un elemento decorativo únicamente
 }
